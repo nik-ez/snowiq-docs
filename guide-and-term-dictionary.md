@@ -5,7 +5,7 @@ author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: SNOWiQ Overview
-nav_order: 2
+nav_order: 1
 platform: false
 ---
 <section id="Guide-and-Term-Dictionary" markdown="1">
