@@ -13,6 +13,16 @@ platform: true
 
 The app, titled "SnowIQ Driver," can be found on both the Google Play and Apple App Store. It is published by EastBanc Technologies. In order to use the app, navigate to the app's page on the App Store and download the app.
 
+![Screenshot 2021-06-30 080604](/image/driver/app-store.png)
+
+Once you have navigated to the app store, hit the "GET" button and wait for the app to download. Once it has downloaded, navigate to your phone's home screen. There, you will find the SNOWiQ Driver app. 
+
+![Screenshot 2021-06-30 080605](/image/driver/app-home-screen.png)
+
+Tap the icon on your home screen to open the app. Upon opening the app, you will be asked for permission to access your location, camera and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
+
+![Screenshot 2021-06-30 080606](/image/driver/app-permissions.png)
+
 Note:
 Links
 Entire installation process
