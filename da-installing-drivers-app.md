@@ -11,7 +11,7 @@ platform: true
 
 # Installing the Driver App
 
-The app, titled "SnowIQ Driver," can be found on both the Google Play and Apple App Store. It is published by EastBanc Technologies. In order to use the app, navigate to the app's page on the App Store and download the app.
+The app, titled "SnowIQ Driver," can be found on both the Google Play and <a href="https://apps.apple.com/us/app/snowiq-driver/id1336056235">Apple App Store</a>. It is published by EastBanc Technologies. In order to use the app, navigate to the app's page on the App Store and download the app.
 
 <img src="image/driver/app-store.png" width="500"/>
 
