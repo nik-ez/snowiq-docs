@@ -13,15 +13,15 @@ platform: true
 
 When Admin sends a new ticket to a Supervisor it will be appear as a ticket count on the Ticket tab for the Supervisor, as seen below.
 
-<img src="/image/supervisor/tickets-tab-android.png" class="android"/>
-<img src="/image/supervisor/tickets-tab-ios.png" class="ios"/>
+<img src="image/supervisor/tickets-tab-android.png" class="android"/>
+<img src="image/supervisor/tickets-tab-ios.png" class="ios"/>
 
 After selecting the Tickets tab, the Tickets panel displays a list of tickets and a visual on the map of markers that represent tickets and their statuses to give users an indicator of where the tickets are located in the service area. Above the list, there is a set of filters: by Depot, Route, Ticket Status, and Ticket Type. 
    
 A new Ticket is notated with a 'New' tag and identified with a red asterisk marker on the map on the right. A checkmark on any type of ticket indicates that the ticket is closed.
 
-<img src="/image/supervisor/tickets-tab1-android.png" class="android"/>
-<img src="/image/supervisor/tickets-tab1-ios.png" class="ios"/>
+<img src="image/supervisor/tickets-tab1-android.png" class="android"/>
+<img src="image/supervisor/tickets-tab1-ios.png" class="ios"/>
 
 <section id="Ticket-Filters" markdown="1">
 ## Ticket Filters<a name="Ticket-Filters"></a>
@@ -66,7 +66,7 @@ Ticket Type filter allows users to filter by two different types of tickets.
 
 A Checkmark on either type of ticket indicates that the ticket is closed.
 
-<img src="/image/supervisor/ticket-type.png"/>
+<img src="image/supervisor/ticket-type.png"/>
 
 </section>
 </section>
@@ -76,8 +76,8 @@ A Checkmark on either type of ticket indicates that the ticket is closed.
 
 Selecting a ticket label from the list focuses on that single ticket on the map and brings up the 'Ticket details' panel on the left. The panel includes all the relevant ticket information and allows the Supervisor to 'Assign drivers' to that ticket. 
 
-<img src="/image/supervisor/tickets-details-android.png" class="android"/>
-<img src="/image/supervisor/tickets-details-ios.png" class="ios"/>
+<img src="image/supervisor/tickets-details-android.png" class="android"/>
+<img src="image/supervisor/tickets-details-ios.png" class="ios"/>
 
 </section>
 </section>

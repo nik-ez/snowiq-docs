@@ -106,8 +106,8 @@ A multi-pass Assignment (when assignment was created, the multi-pass toggle was 
 
 If a Supervisor selects 'Option 1' the system notifies the Driver to continue working on the assignment, i.e. make another pass. With 'Option 2' the system marks the multi-pass Assignment as Completed and removes it from the Driver's Active Assignments into the History tab
 
-<img src="/image/supervisor/completing-multi-passes-android.png" class="android"/>
-<img src="/image/supervisor/completing-multi-passes-ios.png" class="ios"/>
+<img src="image/supervisor/completing-multi-passes-android.png" class="android"/>
+<img src="image/supervisor/completing-multi-passes-ios.png" class="ios"/>
 </section>
 
 <section id="Cancelling-Assignments" markdown="1">
@@ -121,10 +121,10 @@ Supervisor can cancel assignments following these steps:
 * Swipe the Assignment you want to cancel to the left
 * Tap on Yes button
 
-<img src="/image/supervisor/cancelling-assignments-android.png" class="android"/>
-<img src="/image/supervisor/cancelling-assignments-ios.png" class="ios"/>
-<img src="/image/supervisor/cancelling-assignments1-android.png" class="android"/>
-<img src="/image/supervisor/cancelling-assignments1-ios.png" class="ios"/>
+<img src="image/supervisor/cancelling-assignments-android.png" class="android"/>
+<img src="image/supervisor/cancelling-assignments-ios.png" class="ios"/>
+<img src="image/supervisor/cancelling-assignments1-android.png" class="android"/>
+<img src="image/supervisor/cancelling-assignments1-ios.png" class="ios"/>
 </section>
 
 <section id="Routes" markdown="1">
@@ -134,8 +134,8 @@ Supervisor can cancel assignments following these steps:
 
 Once a Route has all its assignments completed, a Supervisor needs to change the status of that route to 'Inspected' to verify that the route is finished, by navigating to the Route Details panel and pressing 'Change Status' and then pressing 'Inspected' on the prompt.
  
-<img src="/image/supervisor/inspecting-routes-android.png" class="android"/>
-<img src="/image/supervisor/inspecting-routes-ios.png" class="ios"/>
+<img src="image/supervisor/inspecting-routes-android.png" class="android"/>
+<img src="image/supervisor/inspecting-routes-ios.png" class="ios"/>
 </section>
 </section>
 
@@ -154,8 +154,8 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
 * Select the ticket to assign
 * From 'Routes Details' panel, tap 'Assign Drivers'as shown below
 
-<img src="/image/supervisor/assigning-drivers-android.png" class="android"/>
-<img src="/image/supervisor/assigning-drivers-ios.png" class="ios"/>
+<img src="image/supervisor/assigning-drivers-android.png" class="android"/>
+<img src="image/supervisor/assigning-drivers-ios.png" class="ios"/>
 
 * In the 'Assign Drivers' dialogue complete the following:
    * Select type of Activity
@@ -164,12 +164,12 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
    * Select Driver by either searching for a driver by name in the search bar or pick from the drivers available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Driver Type: County or Contractor
 * Tap 'Assign'
 
-<img src="/image/supervisor/assigning-drivers1-android.png" class="android"/>
-<img src="/image/supervisor/assigning-drivers1-ios.png" class="ios"/>
+<img src="image/supervisor/assigning-drivers1-android.png" class="android"/>
+<img src="image/supervisor/assigning-drivers1-ios.png" class="ios"/>
 
 This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.
 
-<img src="/image/supervisor/yellow-logo.png"/>
+<img src="image/supervisor/yellow-logo.png"/>
 </section>
 
 <section id="Pausing-or-Resuming-Drivers" markdown="1">
@@ -181,14 +181,14 @@ When the Driver status is 'In Service', a Supervisor can pause an Active Assignm
 
 * From the Driver Details panel, tap 'Pause' and then 'Yes' on the verification prompt
 
-<img src="/image/supervisor/pausing-resuming-drivers-android.png" class="android"/>
-<img src="/image/supervisor/pausing-resuming-drivers-ios.png" class="ios"/>
+<img src="image/supervisor/pausing-resuming-drivers-android.png" class="android"/>
+<img src="image/supervisor/pausing-resuming-drivers-ios.png" class="ios"/>
 
 * The system pauses the Driver (status is changed to 'Paused') and notifies the Driver in the Driver App that their Assignment has been paused and to wait for further instructions
 * To resume the assignment, tap 'Resume' on the Driver that's been paused, as seen below
 
-<img src="/image/supervisor/pausing-resuming-drivers1-android.png" class="android"/>
-<img src="/image/supervisor/pausing-resuming-drivers1-ios.png" class="ios"/>
+<img src="image/supervisor/pausing-resuming-drivers1-android.png" class="android"/>
+<img src="image/supervisor/pausing-resuming-drivers1-ios.png" class="ios"/>
 
  </section>
  </section>
@@ -205,14 +205,14 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 * The system will display the following 'New road hazard' prompt
 * Tap the type of road hazard from the list and tap 'Yes' to confirm the creation of a new road hazard on the next prompt
 
-<img src="/image/supervisor/creating-road-hazards.png"/>
+<img src="image/supervisor/creating-road-hazards.png"/>
 
 * The system will display the hazards as either a road plate or a warning as seen below:
   * Road plates (orange stacked layes marker): permanent hazard on the road
   * Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
     **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
 
-<img src="/image/supervisor/creating-road-hazards1.png"/>
+<img src="image/supervisor/creating-road-hazards1.png"/>
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
@@ -222,12 +222,12 @@ A Supervisor can delete an existing road hazard from the map if it doesn't exist
 
   * Press on an existing road hazard from the map if it doesn't exist anymore:
 
-<img src="/image/supervisor/deleting-road-hazards.png"/>
+<img src="image/supervisor/deleting-road-hazards.png"/>
 
   * The system will display the following 'Road hazard info' prompt
   * Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
 
-<img src="/image/supervisor/deleting-road-hazards.png"/>
+<img src="image/supervisor/deleting-road-hazards.png"/>
 
   * Once deleted, the marker is removed from the map for everyone
 

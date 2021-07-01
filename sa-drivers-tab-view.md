@@ -13,13 +13,13 @@ platform: true
 
 The Drivers panel displays a list of drivers active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details](#-Driver-Details)
 
-<img src="/image/supervisor/drivers-tab-android.png" class="android"/>
-<img src="/image/supervisor/drivers-tab-ios.png" class="ios"/>
+<img src="image/supervisor/drivers-tab-android.png" class="android"/>
+<img src="image/supervisor/drivers-tab-ios.png" class="ios"/>
 
 Pressing on the driver marker on the map (the snowplow icon) produces a prompt on the map with additional driver details, as seen below. Pressing on the name in the prompt takes the user to the **Driver Details panel**
 
-<img src="/image/supervisor/drivers-tab1-android.png" class="android"/>
-<img src="/image/supervisor/drivers-tab1-ios.png" class="ios"/>
+<img src="image/supervisor/drivers-tab1-android.png" class="android"/>
+<img src="image/supervisor/drivers-tab1-ios.png" class="ios"/>
 
 <section id="Drivers-Filters" markdown="1">
 ## Drivers Filters<a name="Drivers-Filters"></a>
@@ -36,8 +36,8 @@ The depot filter defaults to the depot the Supervisor is assigned to and only th
 ### Driver Type<a name="Driver-Type"></a>
 
 The Route Type filter allows users to filter by County or Contractor employees. County employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker 
-<img src="/image/supervisor/driver-logo.png"/>
-<img src="/image/supervisor/driver-logo1.png"/> 
+<img src="image/supervisor/driver-logo.png"/>
+<img src="image/supervisor/driver-logo1.png"/> 
 </section>
 
 <section id="Driver-Status" markdown="1">
@@ -62,12 +62,12 @@ The Driver Details panel focuses on one selected driver both on the map and on t
 1. 'Pause' (or 'Resume' not shown) an Active Assignment, which would notify the Driver in the Driver App that their Assignment has been paused.  
 1. 'Add Task' to the selected Driver, which would notify the Driver in the Driver App. 
 
-<img src="/image/supervisor/driver-details-android.png" class="android"/>
-<img src="/image/supervisor/driver-details-ios.png" class="ios"/>
+<img src="image/supervisor/driver-details-android.png" class="android"/>
+<img src="image/supervisor/driver-details-ios.png" class="ios"/>
 
 Clicking on the 'i' (information) icon produces the 'Detail information' profile page of the driver with the driver's contact information, as seen below:
 
-<img src="/image/supervisor/driver-details1-android.png" class="android"/>
-<img src="/image/supervisor/driver-details1-ios.png" class="ios"/>
+<img src="image/supervisor/driver-details1-android.png" class="android"/>
+<img src="image/supervisor/driver-details1-ios.png" class="ios"/>
 </section>
 </section>
