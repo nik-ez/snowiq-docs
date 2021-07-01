@@ -23,18 +23,7 @@ function io_callback (entries) {
 };
 
 function createCookie(name, value) {
-  var nameEQ = name +"=";
-  var old_cookies = document.cookie;
-	var ind = old_cookies.indexOf(nameEQ);
-  if (ind >= 0){
-    var new_cookies = old_cookies.substring(0, ind+name.length);
-    old_cookies = old_cookies.substring(ind+name.length, old_cookies.length);
-    old_cookies = old_cookies.substring(old_cookies.indexOf(";"), old_cookies.length);
-    document.cookie = new_cookies + value + old_cookies;
-  }
-  else {
-    document.cookie = old_cookies+nameEQ+value+";";
-  }
+  document.cookie = name+"="+value+";";
 };
 
 function readCookie(name) {
@@ -73,9 +62,9 @@ document.addEventListener('DOMContentLoaded', function() {
   if ((plat == "") | (plat == undefined) | (plat == null)){
     plat = "null";
   };
-  
+  if(document.getElementById("platform") !== null){
   document.getElementById("platform").value = plat;
 
   changePlatform();
-  
+}
 }, false);
