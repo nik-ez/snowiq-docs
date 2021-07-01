@@ -27,8 +27,8 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 * From 'Routes Details' panel, tap 'Assign new drivers' as shown below
 
  
-<img src="/image/supervisor/assigning-new-drivers-android.png" class="android"/>
-<img src="/image/supervisor/assigning-new-drivers-ios.png" class="ios"/>
+<img src="image/supervisor/assigning-new-drivers-android.png" class="android"/>
+<img src="image/supervisor/assigning-new-drivers-ios.png" class="ios"/>
 
 * In the 'Assign Drivers' dialogue complete the following:
   * Select type of Activity
@@ -39,8 +39,8 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 
 * Tap 'Assign'
 
-<img src="/image/supervisor/assigning-new-drivers1-android.png" class="android"/>
-<img src="/image/supervisor/assigning-new-drivers1-ios.png" class="ios"/>
+<img src="image/supervisor/assigning-new-drivers1-android.png" class="android"/>
+<img src="image/supervisor/assigning-new-drivers1-ios.png" class="ios"/>
 
 * This will add the assignment to the Route Details with the name of the Driver and the Assignment status of 'Pending' to indicate that the Assignment has been sent to the Driver but not accepted yet. It also adds the Assignment to the Future list of Assignments for the Driver, as can be seen in the next section. It also prompts the Driver in the Driver App (DA) to accept the Assignment
 </section>
@@ -52,8 +52,8 @@ A Supervisor can add a new task to a Driver, by preforming the following the ste
 
 * From the Driver Details panel, tap 'Add Task'
 
-<img src="/image/supervisor/adding-tasks-android.png" class="android"/>
-<img src="/image/supervisor/adding-tasks-ios.png" class="ios"/>
+<img src="image/supervisor/adding-tasks-android.png" class="android"/>
+<img src="image/supervisor/adding-tasks-ios.png" class="ios"/>
 
 * In the 'Create Driver Assignment' dialogue complete the following:
   * Select type of Activity
@@ -63,13 +63,13 @@ A Supervisor can add a new task to a Driver, by preforming the following the ste
   * Select the route by either searching for a route number or pick from the routes available based on the selected Depot filter Depot, which defaults to the Supervisor's Depot
 * Tap 'Assign'
 
-<img src="/image/supervisor/adding-tasks1-android.png" class="android"/>
-<img src="/image/supervisor/adding-tasks1-ios.png" class="ios"/>
+<img src="image/supervisor/adding-tasks1-android.png" class="android"/>
+<img src="image/supervisor/adding-tasks1-ios.png" class="ios"/>
 
 * This will add the assignment to the Future list for the Driver, as seen below, with status of 'Pending' to indicate that the assignment has been sent to the Driver but not accepted yet. The system will prompt the Driver in the Driver App (DA) to accept the Assignment
 
-<img src="/image/supervisor/adding-tasks2-android.png" class="android"/>
-<img src="/image/supervisor/adding-tasks2-ios.png" class="ios"/>
+<img src="image/supervisor/adding-tasks2-android.png" class="android"/>
+<img src="image/supervisor/adding-tasks2-ios.png" class="ios"/>
 </section>
 
 <section id="Creating-Address-Specific-Assignment" markdown="1">
@@ -79,8 +79,8 @@ A Supervisor can create an Assignment related to a specific address by following
 
 * From the Map Monitoring view (either tab: Routes, Drivers, or Tickets), tap the magnifying glass or search bar and enter the address for the assignment
 
-<img src="/image/supervisor/specific-assignment-android.png" class="android"/>
-<img src="/image/supervisor/specific-assignment-ios.png" class="ios"/>
+<img src="image/supervisor/specific-assignment-android.png" class="android"/>
+<img src="image/supervisor/specific-assignment-ios.png" class="ios"/>
 
 * The system will display a location marker on the map
 * Tap the marker and fill out the address specific assignment prompt, as seen below
@@ -90,8 +90,8 @@ A Supervisor can create an Assignment related to a specific address by following
   * Select the driver by either searching for a driver by name in the search bar or pick from the drivers available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Driver Type: County or Contractor
 * Tap 'Assign'
 
-<img src="/image/supervisor/specific-assignment1-android.png" class="android"/>
-<img src="/image/supervisor/specific-assignment1-ios.png" class="ios"/>
+<img src="image/supervisor/specific-assignment1-android.png" class="android"/>
+<img src="image/supervisor/specific-assignment1-ios.png" class="ios"/>
 
 * This will add the assignment
 </section>
