@@ -22,7 +22,7 @@ function io_callback (entries) {
 
 };
 
-function createCookie(name,value) {
+function createCookie(name, value) {
   var nameEQ = name +"=";
   var old_cookies = document.cookie;
 	var ind = old_cookies.indexOf(nameEQ);
@@ -33,7 +33,7 @@ function createCookie(name,value) {
     document.cookie = new_cookies + value + old_cookies;
   }
   else {
-    document.cookie = old_cookies.append(nameEQ+value+";");
+    document.cookie = old_cookies+nameEQ+value+";";
   }
 };
 
@@ -59,7 +59,7 @@ function changePlatform () {
     images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace("-.png").replace(".png","")+platform+".png";
   };
   
-  createCookie("platform",value);
+  createCookie("platform", platform_val);
   
 };
 
@@ -70,7 +70,7 @@ for(i =0; i < target.length; i++){
 
 document.addEventListener('DOMContentLoaded', function() {
   var plat = readCookie("platform");
-  if (plat == ""){
+  if ((plat == "") | (plat == undefined) | (plat == null)){
     plat = "null";
   };
   
