@@ -39,14 +39,28 @@ function readCookie(name) {
 
 function changePlatform () {
 
-  platform_val = document.getElementById("platform").value;
-  platform = "-"+platform_val;
-  platform = platform.replace("-null","");
+  var platform = document.getElementById("platform").value;
+  console.log(platform);
 
-  images = document.querySelectorAll('img');
-  for(i=0; i< images.length; i++){
-    images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace("-.png").replace(".png","")+platform+".png";
-  };
+  var images;
+  if(platform == "ios"){
+    images = document.getElementsByClassName("android");
+    for (i = 0; i < images.length; i++) {
+      images[i].classList.add("hidden");
+    }
+  }
+
+  if(platform == "android"){
+    images = document.getElementsByClassName("ios");
+    for (i = 0; i < images.length; i++) {
+      images[i].classList.add("hidden");
+    }
+  }
+
+  images = document.getElementsByClassName(platform);
+  for (i = 0; i < images.length; i++) {
+    images[i].classList.remove("hidden");
+  }
   
   createCookie("platform", platform_val);
   
@@ -59,12 +73,9 @@ for(i =0; i < target.length; i++){
 
 document.addEventListener('DOMContentLoaded', function() {
   var plat = readCookie("platform");
-  if ((plat == "") | (plat == undefined) | (plat == null)){
-    plat = "null";
-  };
-  if(document.getElementById("platform") !== null){
+
   document.getElementById("platform").value = plat;
 
   changePlatform();
-}
+
 }, false);
