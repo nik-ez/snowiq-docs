@@ -22,6 +22,32 @@ function io_callback (entries) {
 
 };
 
+function createCookie(name,value) {
+  var nameEQ = name +"=";
+  var old_cookies = document.cookie;
+	var ind = old_cookies.indexOf(nameEQ);
+  if (ind >= 0){
+    var new_cookies = old_cookies.substring(0, ind+name.length);
+    old_cookies = old_cookies.substring(ind+name.length, old_cookies.length);
+    old_cookies = old_cookies.substring(old_cookies.indexOf(";"), old_cookies.length);
+    document.cookie = new_cookies + value + old_cookies;
+  }
+  else {
+    document.cookie = old_cookies.append(nameEQ+value+";");
+  }
+};
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+};
+
 function changePlatform () {
 
   platform_val = document.getElementById("platform").value;
@@ -33,7 +59,7 @@ function changePlatform () {
     images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace("-.png").replace(".png","")+platform+".png";
   };
   
-  document.cookie = "platform="+platform_val+";";
+  createCookie("platform",value);
   
 };
 
@@ -43,8 +69,7 @@ for(i =0; i < target.length; i++){
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  cookies = document.cookie;
-  plat = cookies.replace("platform=","").replace(";","")
+  var plat = readCookie("platform");
   if (plat == ""){
     plat = "null";
   };
