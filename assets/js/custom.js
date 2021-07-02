@@ -62,7 +62,7 @@ function changePlatform () {
     images[i].classList.remove("hidden");
   }
   
-  createCookie("platform", platform_val);
+  createCookie("platform", platform);
   
 };
 

@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Driver App
 nav_order: 1
 platform: true
+comments: true
 ---
 
 # Installing the Driver App
