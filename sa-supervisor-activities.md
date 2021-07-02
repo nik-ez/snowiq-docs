@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 2
 platform: true
+comments: true
 ---
 <section id="Supervisor-Activities" markdown="1">
 # Supervisor Activities<a name="Supervisor-Assignments"></a>

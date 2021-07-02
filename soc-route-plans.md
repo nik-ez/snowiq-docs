@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Storm Operations Center
 nav_order: 7
 platform: false
+comments: true
 ---
 
 <section id="Route-Plans" markdown="1">

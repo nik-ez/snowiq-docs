@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Storm Operations Center
 nav_order: 5
 platform: false
+comments: true
 ---
 
 <section id="MC311-Ticket-Request-Management" markdown="1">
