@@ -22,9 +22,12 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
     - Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
     
        **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
-    
-![Screenshot 2021-03-02 154417](/image/driver/creating-road-hazard.png)
-![Screenshot 2021-03-02 154441](/image/driver/creating-road-hazard1.png)
+
+<img src="image/driver/creating-road-hazard-ios.png" class="ios"/>
+<img src="image/driver/creating-road-hazard-android.png" class="android"/>
+<img src="image/driver/creating-road-hazard1-ios.png" class="ios"/>
+<img src="image/driver/creating-road-hazard1-android.png" class="android"/>
+
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
@@ -34,7 +37,7 @@ A Driver can delete an existing road hazard from the map if it doesn't exist any
   - The system will display the following 'Road hazard info' prompt
   - Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
   - Once deleted, the marker is removed from the map for everyone
-  
-![Screenshot 2021-03-03 081910](/image/driver/deleting-road-hazard.png)
+
+<img src="image/driver/deleting-road-hazard-ios.png" class="ios"/>
 </section>
 </section>

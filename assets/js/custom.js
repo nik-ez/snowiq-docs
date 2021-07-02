@@ -22,18 +22,47 @@ function io_callback (entries) {
 
 };
 
+function createCookie(name, value) {
+  document.cookie = name+"="+value+";";
+};
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+};
+
 function changePlatform () {
 
-  platform_val = document.getElementById("platform").value;
-  platform = "-"+platform_val;
-  platform = platform.replace("-null","");
+  var platform = document.getElementById("platform").value;
+  console.log(platform);
 
-  images = document.querySelectorAll('img');
-  for(i=0; i< images.length; i++){
-    images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace("-.png").replace(".png","")+platform+".png";
-  };
+  var images;
+  if(platform == "ios"){
+    images = document.getElementsByClassName("android");
+    for (i = 0; i < images.length; i++) {
+      images[i].classList.add("hidden");
+    }
+  }
+
+  if(platform == "android"){
+    images = document.getElementsByClassName("ios");
+    for (i = 0; i < images.length; i++) {
+      images[i].classList.add("hidden");
+    }
+  }
+
+  images = document.getElementsByClassName(platform);
+  for (i = 0; i < images.length; i++) {
+    images[i].classList.remove("hidden");
+  }
   
-  document.cookie = "platform="+platform_val+";";
+  createCookie("platform", platform_val);
   
 };
 
@@ -43,14 +72,10 @@ for(i =0; i < target.length; i++){
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  cookies = document.cookie;
-  plat = cookies.replace("platform=","").replace(";","")
-  if (plat == ""){
-    plat = "null";
-  };
-  
+  var plat = readCookie("platform");
+
   document.getElementById("platform").value = plat;
 
   changePlatform();
-  
+
 }, false);
