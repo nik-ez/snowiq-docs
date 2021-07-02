@@ -1,8 +1,10 @@
+// change layout by setting the sidebar width to a set size
 $nav-width: 248px;
 $nav-width-md: 248px;
 $content-width: calc(100% - #{$nav-width});
 
+// change color of all links
 $link-color: $blue-000;
 
-//Change color of heading in top left
+// change color of heading in top left
 $body-heading-color: rgb(13, 108, 224);
