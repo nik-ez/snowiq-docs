@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Storm Operations Center
 nav_order: 3
 platform: false
+comments: true
 ---
 
 <section id="Active-Storm-LogReport" markdown="1">

@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Driver App
 nav_order: 4
 platform: true
+comments: true
 ---
 <section id="Road-Hazards" markdown="1">
 # Road Hazards

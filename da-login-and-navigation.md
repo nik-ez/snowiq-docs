@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Driver App
 nav_order: 2
 platform: true
+comments: true
 ---
 <section id="Login-and-Navigation" markdown="1">
 # Login and Navigation
