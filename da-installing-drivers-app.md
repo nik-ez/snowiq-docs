@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Installing Driver App
 author: EastBanc Technologies
 name: EastBanc Technologies
@@ -22,8 +22,3 @@ Once you have navigated to the app store, hit the "GET" button and wait for the 
 Tap the icon on your home screen to open the app. Upon opening the app, you will be asked for permission to access your location, camera and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
 
 <img src="image/driver/app-permissions.png" width="500"/>
-
-Note:
-Links
-Entire installation process
-Setup process with permissions prompts
