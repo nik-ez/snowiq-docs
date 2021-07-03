@@ -10,6 +10,13 @@ plugins:
   - jekyll-remote-theme
   - "jekyll-seo-tag"
 
+
+
+#google analytics
+ga_tracking: G-CJZGLX01YZ
+ga_tracking_anonymize_ip: true
+
+
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 
