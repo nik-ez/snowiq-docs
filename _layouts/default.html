@@ -73,17 +73,15 @@ layout: table_wrappers
   
   
   <nav class="toc">
-    
-    {% if page.platform == true %}
     <div class="platform_form">
+      {% if page.platform == true %}
       <b style="margin-left: 20px;">Platform:</b>
       <select id="platform" onchange="changePlatform()">
-          <option value="null">Default</option>
           <option value="ios">IOS</option>
           <option value="android">Android</option>
         </select>
+      {% endif %}
       </div>
-    {% endif %}
 
     <!-- Using https://github.com/allejo/jekyll-toc -->
     <b>Table of Contents</b>
@@ -159,6 +157,8 @@ layout: table_wrappers
           {{ content }}
         {% endif %}
 
+
+
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
           <h2 class="text-delta">Table of contents</h2>
@@ -210,6 +210,8 @@ layout: table_wrappers
       </div>
     </div>
 
+
+
     {% if site.search_enabled != false %}
       {% if site.search.button %}
         <a href="#" id="search-button" class="search-button">
@@ -221,8 +223,7 @@ layout: table_wrappers
     {% endif %}
   </div>
 
-  <script src="/assets/js/custom.js"></script>
-  <script src="/ebtsnowiq/assets/js/custom.js"></script>
+  <script src="assets/js/custom.js"></script>
 
 </body>
 </html>

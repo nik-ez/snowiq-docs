@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 1
 platform: true
+comments: true
 ---
 <section id="Login-and-Navigation" markdown="1">
 # Login and Navigation
@@ -19,13 +20,14 @@ the SNOWiQ Supervisor Application. Click the 'Login' button
 to be re-routed to enter the assigned username and password
 for the application.
 
-![Screenshot 2021-03-03 122503](/image/supervisor/login.png)
+<img src="image/supervisor/login.png"/>
 
 Once logged into SA, users will see the Map Monitoring view as seen below.
 A Supervisor assigned to a specific depot will only see routes associated
 with that depot.
 
-![Screenshot 2021-03-03 130131](/image/supervisor/map-monitoring-view1.png)
+<img src="image/supervisor/map-monitoring-view1-android.png" class="android"/>
+<img src="image/supervisor/map-monitoring-view1-ios.png" class="ios"/>
 </section>
 
 <section id="Navigation" markdown="1">
@@ -33,7 +35,7 @@ with that depot.
  
 The diagram below highlights basic navigation controls and map elements of the Supervisor App 
 
-![Screenshot 2021-03-03 130159](/image/portal/navigation.png)
+<img src="image/portal/navigation.png"/>
 
  
 1. Gear Icon - Navigate to the Setting Menu
@@ -62,7 +64,8 @@ The diagram below highlights basic navigation controls and map elements of the S
  
 Users can navigate to the Settings Menu by pressing the 'Gear' icon as specified in the diagram above. The menu opens to the 'My Profile' page automatically. The following menu options are available:
 
-![Screenshot 2021-03-03 130221](/image/supervisor/settings-menu.png)
+<img src="image/supervisor/settings-menu-ios.png" class="ios"/>
+<img src="image/supervisor/settings-menu-android.png" class="android"/>
 </section>
 
 <section id="My-Profile" markdown="1">
@@ -82,7 +85,8 @@ Displays the current version of the app.
  
 The Event Log allows Supervisor users a closer look at the actions, users and timestamps of the actions for the current actice Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed the action (username or system). Actions may include creating an Assignment or activating a new Phase for a Depot.
 
-![Screenshot 2021-03-03 130248](/image/supervisor/event-log2.png)
+<img src="image/supervisor/event-log2-android.png" class="android"/>
+<img src="image/supervisor/event-log2-ios.png" class="ios"/>
 </section>
 
 <section id="Map-Layers" markdown="1">
@@ -90,7 +94,8 @@ The Event Log allows Supervisor users a closer look at the actions, users and ti
  
 A user can access the Map Layers panel by pressing the Map Layers icon on the map (stack of layers icon as shown below). By selecting the elements from the panel, a user can specify which markers or segments to be displayed on the map, subjected to filters selected in the left-hand panel.
 
-![Screenshot 2021-03-03 130313](/image/supervisor/map-layers.png)
+<img src="image/supervisor/map-layers-android.png" class="android"/>
+<img src="image/supervisor/map-layers-ios.png" class="ios"/>
 </section>
 
 <section id="Clusters" markdown="1">
