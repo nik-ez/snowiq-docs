@@ -71,15 +71,15 @@ layout: table_wrappers
   </div>
 
   <nav class="toc">
-    {% if page.platform == true %}
     <div class="platform_form">
+      {% if page.platform == true %}
       <b style="margin-left: 20px;">Platform:</b>
       <select id="platform" onchange="changePlatform()">
           <option value="ios">IOS</option>
           <option value="android">Android</option>
         </select>
+      {% endif %}
       </div>
-    {% endif %}
   </nav>
 
   <div class="main" id="top">

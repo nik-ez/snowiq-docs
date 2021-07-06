@@ -1,31 +1,57 @@
+
+// left side-bar
+// .side-bar on small screen
+.side-bar {
+  z-index: 0;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: $sidebar-color;
+
+  // .side-bar on medium screen
+  @include mq(md) {
+    //flex-wrap: nowrap;
+    position: fixed;
+    width: $nav-width-md;
+    height: 100%;
+    flex-direction: column;
+    border-right: $border $border-color;
+    align-items: flex-end;
+  }
+
+  // .side-bar on large screen
+  @include mq(lg) {
+    min-width: $nav-width;
+  }
+}
+
+// header containing site title
+// located in top left, above site navigation
 .site-header {
- background-color: #1ab2c3;
+  background-color: #1ab2c3;
   font-size: 30px;
 }
 
+// text located in site-header
 .site-title {
   color: #FFFFFF;
-  font-size: 18px !important;
+  padding-top: $sp-4;
+  padding-bottom: $sp-4;
 }
 
-.hidden {
-  display: none;
+// site navigation located in left side-bar
+#site-nav{
+  overflow-y: auto;
+  height: 500px;
+  padding-top: 0px;
+  margin-top: 25px;
+
 }
 
-.toc b {
-margin-left: 20px;
-font-size: 17px;
-}
 
-.toc ul{
-list-style: none;
-padding-left: 20px;
-}
 
-.toc li.active > a {
-font-weight: 640;
-}
-
+// table of contents side-bar
+// not including platform selection feature located above
+// .toc on small screen
 .toc {
   display:none;
   padding-left: 0;
@@ -37,6 +63,7 @@ font-weight: 640;
   //margin-left: calc($nav-width-md + $content-width);
   background-color: $sidebar-color;
 
+  // .toc on medium screen
   @include mq(md) {
     display:block;
     //flex-wrap: nowrap;
@@ -47,12 +74,32 @@ font-weight: 640;
     padding-top: 8px;
   }
 
+  // .toc on large screen
   @include mq(lg) {
-    //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
     min-width: $nav-width;
   }
 }
 
+// Local table of contents heading
+.toc b {
+  margin-left: 20px;
+  font-size: 17px;
+}
+
+// table of contents list
+.toc ul{
+  list-style: none;
+  padding-left: 20px;
+}
+
+// table of contents elements of sections that are currently visible on screen
+// implementation of ScrollSpy-feature
+.toc li.active > a {
+  font-weight: 640;
+}
+
+// header above table of contents including platform selection feature
+// .platform_form on small screen
 .platform_form {
   display:none;
   padding-left: 0;
@@ -61,6 +108,7 @@ font-weight: 640;
   //margin-left: calc($nav-width-md + $content-width);
   background-color: $sidebar-color;
 
+  // .platform_form on medium screen
   @include mq(md) {
     display:block;
     //flex-wrap: nowrap;
@@ -72,46 +120,19 @@ font-weight: 640;
     line-height:60px;
   }
 
+  // .platform_form on large screen
   @include mq(lg) {
     //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
     min-width: $nav-width;
   }
 }
 
-#site-nav{
-  overflow-y: auto;
-  height: 500px;
-  padding-top: 0px;
-  margin-top: 25px;
-}
 
-.side-bar {
-  z-index: 0;
-  display: flex;
-  flex-wrap: wrap;
-  background-color: $sidebar-color;
 
-  @include mq(md) {
-    //flex-wrap: nowrap;
-    position: fixed;
-    width: $nav-width-md;
-    height: 100%;
-    flex-direction: column;
-    border-right: $border $border-color;
-    align-items: flex-end;
-  }
-
-  @include mq(lg) {
-    //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-    min-width: $nav-width;
-  }
-}
-
-.main img {
-  border: 1px solid #000000;   
-}
-
+// main content
+// including search and aux-link bar
 .main {
+// .main on medium screen
 @include mq(md) {
   position: relative;
   max-width: $content-width;
@@ -119,13 +140,14 @@ font-weight: 640;
   margin-right: $nav-width-md;
 }
 
+// .main on large screen
 @include mq(lg) {
   margin-left: $nav-width;
   margin-right: $nav-width;
 }
 }
 
-.site-title {
-padding-top: $sp-4;
-padding-bottom: $sp-4;
+// images in main content
+.main img {
+  border: 1px solid #000000;   
 }

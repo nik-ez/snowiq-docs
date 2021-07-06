@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Installing Driver App
 author: EastBanc Technologies
 name: EastBanc Technologies
