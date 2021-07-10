@@ -43,12 +43,17 @@
 }
 
 // site navigation located in left side-bar
+// #site-nav on small screen
 #site-nav{
   overflow-y: auto;
   height: 500px;
   padding-top: 0px;
   margin-top: 25px;
-
+  
+  // #site-nav on medium screen
+  @include mq(md) {
+    height: 0;
+  }
 }
 
 
