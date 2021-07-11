@@ -160,3 +160,14 @@
 .main img {
   border: 1px solid #000000;   
 }
+
+// aux-link in top-bar
+// .aux-nav on small screen
+.aux-nav {
+  display:none;
+
+  // .aux-nav on medium screen
+  @include mq(md) {
+    display:block;
+  }
+}
