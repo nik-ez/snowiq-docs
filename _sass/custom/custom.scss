@@ -28,18 +28,12 @@
 // located in top left, above site navigation
 .site-header {
   background-color: #1ab2c3;
-  font-size: 30px;
-}
-
-.hidden {
-  display: none;
 }
 
 // text located in site-header
 .site-title {
   color: #FFFFFF;
-  padding-top: $sp-4;
-  padding-bottom: $sp-4;
+  font-size: 18px !important;
 }
 
 // site navigation located in left side-bar
@@ -159,6 +153,11 @@
 // images in main content
 .main img {
   border: 1px solid #000000;   
+}
+
+// hidden platform specific images
+.hidden {
+  display: none;
 }
 
 // aux-link in top-bar
