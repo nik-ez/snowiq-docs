@@ -11,7 +11,7 @@ comments: true
 ---
 
 <section id="Event-Management" markdown="1">
-# Event Management<a name="Event-Management"></a>
+# Event Management
 
 The Event Management page allows Admin users to create new storm events, edit Event details, create Phases, Activities for Depots during an event, as well as view Event Logs and Reports for each Event. 
 
@@ -19,7 +19,7 @@ The Event Management page allows Admin users to create new storm events, edit Ev
 ![Screenshot 2021-03-05 080423](/image/portal/event-management.png)
 
 <section id="Event-Creation" markdown="1">
-## Event Creation<a name="Event-Creation"></a>
+## Event Creation
 
 When a snow storm is approaching, to plan the event before it occurs (there are no restrictions in the system – 48 hours ahead should suffice), an Admin user can create a new storm event on the Event Management page by following the steps below:
 
@@ -39,7 +39,7 @@ When a snow storm is approaching, to plan the event before it occurs (there are 
   * Active - only one active event at a time
 
 <section id="Phase-Creation-and-Management" markdown="1">
-### Phase Creation and Management<a name="Phase-Creation-and-Management"></a>
+### Phase Creation and Management
 
 Phases are used during a storm Event to define specific Activities that allow proper planning of Assignments for Drivers. Once the newly created Event is on the list, as described in the previous section, the Admin user can create and manage Phases by following the steps below:
 
@@ -97,7 +97,7 @@ Phases are used during a storm Event to define specific Activities that allow pr
 </section>
 
 <section id="Event-Activation-and-Phase-Activation" markdown="1">
-## Event Activation and Phase Activation<a name="Event-Activation-and-Phase-Activation"></a>
+## Event Activation and Phase Activation
 
 Once the creation of Phases and Assignments is completed, the next step is to activate the Event, by following the steps below:
 
@@ -129,7 +129,7 @@ Once the creation of Phases and Assignments is completed, the next step is to ac
 </section>
 
 <section id="Event-Archiving" markdown="1">
-## Event Archiving<a name="Event-Archiving"></a>
+## Event Archiving
 
 Once the Event has been completed to the Admin's specifications, the Event can be closed out by clicking the 'Archive' button, as shown below. Archiving officially closes the Event in the system and allows activation of another event. 
 
@@ -141,7 +141,7 @@ If there are active assignments, the system will prompt with a warning as shown 
 </section>
 
 <section id="Event-Log" markdown="1">
-## Event Log<a name="Event-Log"></a>
+## Event Log
 
 The Event Log button, as shown below, allows users to view all actions taken during a Storm Event, wqhich includes assignment/event status changes, driver status changes, etc. More details can be found on **SOC - Active Storm Log/Report**
 
@@ -149,7 +149,7 @@ The Event Log button, as shown below, allows users to view all actions taken dur
 </section>
 
 <section id="Event-Report" markdown="1">
-## Event Report<a name="Event-Report"></a>
+## Event Report
 
 The Reports button, as shown below, provides a visual representation of statistical data in a dashboard format for the selected Event. More details can be found on **SOC - Active Storm Log/Report**
 

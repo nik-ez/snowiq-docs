@@ -10,10 +10,10 @@ platform: true
 comments: true
 ---
 <section id="Supervisor-Activities" markdown="1">
-# Supervisor Activities<a name="Supervisor-Assignments"></a>
+# Supervisor Activities
 
 <section id="Creating-New-Assignments" markdown="1">
-## Creating New Assignments<a name="Creating-New-Assignments"></a>
+## Creating New Assignments
 
 There are three ways of creating new assignments within the SA: 
 1. From the Routes tab by pressing 'Assign new drivers'. 
@@ -21,7 +21,7 @@ There are three ways of creating new assignments within the SA:
 3. From the Map Monitoring view on either the Routes or Drivers
 
 <section id="Assigning-New-Drivers" markdown="1">
-### Assigning New Drivers<a name="Assigning-New-Drivers"></a>
+### Assigning New Drivers
 
 A Supervisor can assign a new driver to a route, by following the steps below:
 
@@ -47,7 +47,7 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 </section>
 
 <section id="Adding-Tasks" markdown="1">
-### Adding Tasks<a name="Adding-Tasks"></a>
+### Adding Tasks
 
 A Supervisor can add a new task to a Driver, by preforming the following the steps below:
 
@@ -74,7 +74,7 @@ A Supervisor can add a new task to a Driver, by preforming the following the ste
 </section>
 
 <section id="Creating-Address-Specific-Assignment" markdown="1">
-### Creating Address Specific Assignment<a name="-Creating-Address-Specific-Assignment"></a>
+### Creating Address Specific Assignment
 
 A Supervisor can create an Assignment related to a specific address by following the steps below:
 
@@ -99,7 +99,7 @@ A Supervisor can create an Assignment related to a specific address by following
 </section>
 
 <section id="Completing-Assignments-for-Multi-Passes" markdown="1">
-## Completing Assignments for Multi-Passes<a name="Completing-Assignment-for-Multi-Passes"></a>
+## Completing Assignments for Multi-Passes
 
 A multi-pass Assignment (when assignment was created, the multi-pass toggle was switched to On) requires a Supervisor to determine the next step after each pass completed by the Driver. Once the Driver completes a pass, a Supervisor receives a 'Pass Completion Notice' prompt with the details about the assignment, including the number of passes made, as seen below. A Supervisor has two options: either 
 1. Tap 'Another Pass' to notify the Driver to continue working on the assignment or
@@ -112,7 +112,7 @@ If a Supervisor selects 'Option 1' the system notifies the Driver to continue wo
 </section>
 
 <section id="Cancelling-Assignments" markdown="1">
-## Cancelling Assignments<a name="Cancelling-Assignments"></a>
+## Cancelling Assignments
 
 Supervisor can cancel assignments following these steps:
 
@@ -129,9 +129,9 @@ Supervisor can cancel assignments following these steps:
 </section>
 
 <section id="Routes" markdown="1">
-## Routes<a name="Routes"></a>
+## Routes
 <section id="Inspecting-Routes" markdown="1">
-### Inspecting Routes<a name="-Inspecting-Routes"></a>
+### Inspecting Routes
 
 Once a Route has all its assignments completed, a Supervisor needs to change the status of that route to 'Inspected' to verify that the route is finished, by navigating to the Route Details panel and pressing 'Change Status' and then pressing 'Inspected' on the prompt.
  
@@ -141,13 +141,13 @@ Once a Route has all its assignments completed, a Supervisor needs to change the
 </section>
 
 <section id="Drivers" markdown="1">
-## Drivers<a name="Drivers"></a>
+## Drivers
 
 <section id="Changing-Driver-Status" markdown="1">
-### Changing Driver Status<a name="Changing-Driver-Status"></a>
+### Changing Driver Status
 
 <section id="Assigning-Drivers-to-Tickets" markdown="1">
-#### Assigning Drivers to Tickets<a name="Assigning-Drivers-to-Tickets"></a>
+#### Assigning Drivers to Tickets
 
 A Supervisor can assign an existing ticket to a Driver, by following the steps below:
 
@@ -174,7 +174,7 @@ This will remove the 'New' tag from the ticket on the ticket list and change the
 </section>
 
 <section id="Pausing-or-Resuming-Drivers" markdown="1">
-#### Pausing or Resuming Drivers<a name="Pausing-or-Resuming-Drivers"></a>
+#### Pausing or Resuming Drivers
 
 A Supervisor can pause an active Assignment that a Driver is working on by following the steps below: (the reasons to pause: refil salt or go to gas station to document that no work is being performed on the route – no breadcrumbs are accumulated) 
 
@@ -196,10 +196,10 @@ When the Driver status is 'In Service', a Supervisor can pause an Active Assignm
  </section>
 
 <section id="Road-Hazards" markdown="1">
-## Road Hazards<a name="Road-Hazards"></a>
+## Road Hazards
 
 <section id="Creating-Road-Hazards" markdown="1">
-### Creating Road Hazards<a name="Creating-Road-Hazards"></a>
+### Creating Road Hazards
 
 A Supervisor can create a road hazard on the map to warn Drivers of the hazards on their routes, by following the steps below:
 * From the Map Monitoring view (either tab: Routes, Drivers, or Tickets), tap on the map where the road hazard is located
@@ -217,7 +217,7 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
-### Deleting Road Hazards<a name="Deleting-Road-Hazards"></a>
+### Deleting Road Hazards
 
 A Supervisor can delete an existing road hazard from the map if it doesn't exist anymore:
 
