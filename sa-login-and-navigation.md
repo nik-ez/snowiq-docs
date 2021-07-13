@@ -13,7 +13,7 @@ comments: true
 # Login and Navigation
 
 <section id="Login" markdown="1">
-## Login<a name="Login"></a>
+## Login
 
 The login screen below allows Supervisor users to enter into
 the SNOWiQ Supervisor Application. Click the 'Login' button
@@ -31,7 +31,7 @@ with that depot.
 </section>
 
 <section id="Navigation" markdown="1">
-## Navigation<a name="Navigation"></a>
+## Navigation
  
 The diagram below highlights basic navigation controls and map elements of the Supervisor App 
 
@@ -60,7 +60,7 @@ The diagram below highlights basic navigation controls and map elements of the S
 17. Notification banner - displays active event estimates. Pressing on the banner opens up the Event Log
 
 <section id="Settings-Menu" markdown="1">
-### Settings Menu<a name="Setting-Menu"></a>
+### Settings Menu
  
 Users can navigate to the Settings Menu by pressing the 'Gear' icon as specified in the diagram above. The menu opens to the 'My Profile' page automatically. The following menu options are available:
 
@@ -69,19 +69,19 @@ Users can navigate to the Settings Menu by pressing the 'Gear' icon as specified
 </section>
 
 <section id="My-Profile" markdown="1">
-#### My Profile<a name="My-Profile"></a>
+#### My Profile
  
 A user can edit their own profile by pressing 'Edit Profile' in the top right corner, as can be seen in the screenshot above, which would allow the user to edit their own information such as name, phone number and email.
 </section>
 
 <section id="About" markdown="1">
-#### About<a name="-About"></a>
+#### About
  
 Displays the current version of the app.
 </section>
 
 <section id="Event-Log" markdown="1">
-#### Event Log<a name="Event-Log"></a>
+#### Event Log
  
 The Event Log allows Supervisor users a closer look at the actions, users and timestamps of the actions for the current actice Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed the action (username or system). Actions may include creating an Assignment or activating a new Phase for a Depot.
 
@@ -90,7 +90,7 @@ The Event Log allows Supervisor users a closer look at the actions, users and ti
 </section>
 
 <section id="Map-Layers" markdown="1">
-### Map Layers<a name="-Map-Layers"></a>
+### Map Layers
  
 A user can access the Map Layers panel by pressing the Map Layers icon on the map (stack of layers icon as shown below). By selecting the elements from the panel, a user can specify which markers or segments to be displayed on the map, subjected to filters selected in the left-hand panel.
 
@@ -99,7 +99,7 @@ A user can access the Map Layers panel by pressing the Map Layers icon on the ma
 </section>
 
 <section id="Clusters" markdown="1">
-### Clusters<a name="Clusters"></a>
+### Clusters
  
 On the Map Monitoring view, When a user zooms outs, markers with numbers inside them appear called 'clusters' that de-clutter the map and group together like markers. Clicking on a cluster allows to user to zoom in on that area and view the separated markers on the map.
 </section>

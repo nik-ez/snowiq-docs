@@ -13,7 +13,7 @@ comments: true
 # Login and Navigation
 
 <section id="Login" markdown="1">
-## Login<a name="Login"></a>
+## Login
 The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
 
 <img src="image/driver/login.png"/>
@@ -29,7 +29,7 @@ Once logged into the DA, Drivers will see the screen below. The screens display 
 </section>
 
 <section id="Navigation" markdown="1">
-## Navigation<a name="-Navigation"></a>
+## Navigation
 The diagram below highlights basic navigation controls and map elements of the Driver App.
 
 <img src="image/driver/navigation-ios.png" class="ios"/>
@@ -56,21 +56,21 @@ The diagram below highlights basic navigation controls and map elements of the D
 14. Button "Find my location on the map"
 
 <section id="Navigation-Drawer" markdown="1">
-### Navigation Drawer<a name="-Navigation-Drawer"></a>
+### Navigation Drawer
 Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
 
 <section id="User-Profile-Details" markdown="1">
-#### User Profile Details<a name="-User-Profile-details"></a>
+#### User Profile Details
 This section lists the profile details of logged in driver. To edit them, the user can press 'Profile' in the section below.
 </section>
 
 <section id="Supervisor-Details" markdown="1">
-#### Supervisor Details<a name="Supervisor-details"></a>
+#### Supervisor Details
 Each driver has a Supervisor they report to and who assigns them work. The Supervisor's name and phone number are listed in this section, with the ability to contact the Supervisor directly from within the app, by pressing the green phone icon.
 </section>
 
 <section id="Operations-Menu" markdown="1">
-#### Operations Menu<a name="Operations"></a>
+#### Operations Menu
 The Operations Menu as seen above is for a Driver without any active or future assignments. If a driver receives an assignment or needs to complete an active assignment, an actionable option will be added to the menu, which can be seen here.
 
 <img src="image/driver/navigation-drawer-ios.png" class="ios"/>
@@ -79,7 +79,7 @@ The Operations Menu as seen above is for a Driver without any active or future a
 </section>
 
 <section id="Assignments" markdown="1">
-### Assignments<a name="Assignments"></a>
+### Assignments
 A user can press on 'Assignments' to view the Active Assignment, if there is one, any Future Assignments in the queue, and the History of assignments the driver worked on.
 
 <img src="image/driver/assignments-ios.png" class="ios"/>
@@ -87,7 +87,7 @@ A user can press on 'Assignments' to view the Active Assignment, if there is one
 </section>
 
 <section id="Profile" markdown="1">
-### Profile<a name="Profile"></a>
+### Profile
 A user can press on 'Profile' to edit their name, phone number, and User Picture.
 
 <img src="image/driver/profile-ios.png" class="ios"/>
@@ -95,7 +95,7 @@ A user can press on 'Profile' to edit their name, phone number, and User Picture
 </section>
 
 <section id="Salt-Management" markdown="1">
-### Salt Management<a name="Salt-Management"></a>
+### Salt Management
 A Driver user can press on 'Salt Management' to record how much salt was loaded and returned by pressing 'Add Salt Usage Info.' The historical usage is saved in the list, as seen below. 
 
 <img src="image/driver/salt-management-ios.png" class="ios"/>
@@ -103,14 +103,13 @@ A Driver user can press on 'Salt Management' to record how much salt was loaded 
 </section>
 
 <section id="About" markdown="1">
-### About<a name="-About"></a>
+### About
 Displays the current version of the app.
 </section>
 
 <section id="Logout" markdown="1">
-### Logout<a name="-Logout"></a>
+### Logout
 A user must logout at the end of each workday.
 </section>
-
 </section>
 </section>

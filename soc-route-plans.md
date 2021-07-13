@@ -11,14 +11,14 @@ comments: true
 ---
 
 <section id="Route-Plans" markdown="1">
-# Route Plans<a name="Route-Plans"></a>
+# Route Plans
 
 On the Route Plans page, an Admin user can view the currently used geo-location data for route lines and boundaries for each depot, the timestamp it was uploaded, and its current status. Additionally, the Admin can Upload Plan Files to update the data. Each event in the system is associated with a specific Route Plan version number. 
 
 ![Screenshot 2021-03-05 115857](/image/portal/route-plans.png)
 
 <section id="Uploading-Route-Plans" markdown="1">
-## Uploading Route Plans<a name="Uploading-Route-Plans"></a>
+## Uploading Route Plans
 
 An Admin can upload the geo-location data by following the steps below:
 
@@ -35,7 +35,7 @@ An Admin can upload the geo-location data by following the steps below:
 </section>
 
 <section id="Viewing-Archived-Routes" markdown="1">
-## Viewing Archived Routes<a name="Viewing-Archived-Routes"></a>
+## Viewing Archived Routes
 
 Route Plans are automatically archived once new Route Plan files are uploaded. An Admin can view all the previous Route Plan versions and their upload timestamps by clicking on the name of the Depot in bold (below 'Gaithersburg East' was clicked and the accordion-style list expanded to show the history and the previously archived files). Do NOT click the blue x marker next to the Depot name.
 
