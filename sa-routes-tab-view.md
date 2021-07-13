@@ -10,7 +10,7 @@ platform: true
 comments: true
 ---
 <section id="Routes-Tab-View" markdown="1">
-# Routes Tab View<a name="-Routes-Tab-View"></a>
+# Routes Tab View
 
 A panel on the left has three tabs: Routes, Drivers, and Tickets. The app opens to Routes, as seen below.
 
@@ -20,18 +20,18 @@ The Route panel displays a list of routes with their corresponding route name/nu
 <img src="image/supervisor/routes-tab-ios.png" class="ios"/>
 
 <section id="Route-Filters" markdown="1">
-## Route Filters<a name="-Route-Filters"></a>
+## Route Filters
 
 Using the filters above the route list allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different types (priorities), or routes with different statuses. The filters and their options are listed below:
 
 <section id="Depot" markdown="1">
-### Depot<a name="Depot"></a>
+### Depot
 
 The depot filter defaults to the depot the Supervisor is assigned to and only the routes associated with that depot will be displayed. 
 </section>
 
 <section id="Route-Type-Priority" markdown="1">
-### Route Type (Priority)<a name="-Route-Type-(Priority)"></a>
+### Route Type (Priority)
 
 The Route Type filter allows users to filter out route outlines that belong to specific route priorities (not to be confused with route segment type). Route is a combination of route segments with one or more segment type (emergency, primary or neighborhood).
 
@@ -41,7 +41,7 @@ The Route Type filter allows users to filter out route outlines that belong to s
 </section>
 
 <section id="Route-Status" markdown="1">
-### Route Status<a name="-Route-Status"></a>
+### Route Status
 
 The Route Status filter allows users to view any routes set to a specific status during an assignment.
 
@@ -52,7 +52,7 @@ The Route Status filter allows users to view any routes set to a specific status
 </section>
 </section>
 <section id="Route-Details" markdown="1">
-## Route Details<a name="Route-Details"></a>
+## Route Details
 
 Selecting a route label from the list focuses on that single route on the map, as shown below, and brings up the 'Route Details' panel on the left. The panel includes percentage of completion for a route if it's being worked on, progress bar of completion, the driver(s) assigned to the route, the driver's contact information, and the status of the route along with a timestamp of that status. On this 'Route Details' panel, the user is also able to 'Assign new drivers' to this route and review the near-real time progress of the driver by looking at the breadcrumbs on the route. Breadcrumbs appear as the driver completes the route as shown below. 
 

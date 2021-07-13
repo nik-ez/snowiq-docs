@@ -10,9 +10,9 @@ platform: true
 comments: true
 ---
 <section id="Drivers-Tab-View" markdown="1">
-# Driver's Tab View<a name="-Drivers-Tab-View"></a>
+# Driver's Tab View
 
-The Drivers panel displays a list of drivers active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details](#-Driver-Details)
+The Drivers panel displays a list of drivers active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details](#Driver-Details)
 
 <img src="image/supervisor/drivers-tab-android.png" class="android"/>
 <img src="image/supervisor/drivers-tab-ios.png" class="ios"/>
@@ -23,18 +23,18 @@ Pressing on the driver marker on the map (the snowplow icon) produces a prompt o
 <img src="image/supervisor/drivers-tab1-ios.png" class="ios"/>
 
 <section id="Drivers-Filters" markdown="1">
-## Drivers Filters<a name="Drivers-Filters"></a>
+## Drivers Filters
 
 Using the filters above the drivers list allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as driver types or drivers with different statuses. The filters and their options are listed below:
 
 <section id="Depot" markdown="1">
-### Depot<a name="Depot"></a>
+### Depot
 
 The depot filter defaults to the depot the Supervisor is assigned to and only the drivers associated with that depot will be displayed. 
 </section>
 
 <section id="Driver-Type" markdown="1">
-### Driver Type<a name="Driver-Type"></a>
+### Driver Type
 
 The Route Type filter allows users to filter by County or Contractor employees. County employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker 
 <img src="image/supervisor/driver-logo.png"/>
@@ -42,7 +42,7 @@ The Route Type filter allows users to filter by County or Contractor employees. 
 </section>
 
 <section id="Driver-Status" markdown="1">
-### Driver Status<a name="-Driver-Status"></a>
+### Driver Status
 
 The Driver Status filter allows users to view drivers with a specific status only.
 
@@ -57,7 +57,7 @@ The Driver Status filter allows users to view drivers with a specific status onl
 </section>
 
 <section id="Driver-Details" markdown="1">
-## Driver Details<a name="-Driver-Details"></a>
+## Driver Details
 
 The Driver Details panel focuses on one selected driver both on the map and on the left-hand panel and all the details associated with that driver: Active Assignments, if any, and their progress, history of previous assignments and future ones. Here, the Supervisor is also able to 
 1. 'Pause' (or 'Resume' not shown) an Active Assignment, which would notify the Driver in the Driver App that their Assignment has been paused.  
