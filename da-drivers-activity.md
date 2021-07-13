@@ -11,13 +11,13 @@ comments: true
 ---
 
 <section id="Drivers-Activity" markdown="1">
-# Driver's Activity<a name="Drivers-Activity"></a>
+# Driver's Activity
 
 <section id="Assignments" markdown="1">
-## Assignments<a name="Assignments"></a>
+## Assignments
 
 <section id="Accepting-and-Working-Assignments" markdown="1">
-### Accepting and Working Assignments<a name="Accepting-and-Working-Assignments"></a>
+### Accepting and Working Assignments
 When a Supervisor assigns a route, a ticket, or an address-specific assignment, the Driver receives a notification as seen below. Press 'Ok' and follow the steps below:
 
 <img src="image/driver/accepting-assignments-ios.png" class="ios"/>
@@ -29,7 +29,7 @@ When a Supervisor assigns a route, a ticket, or an address-specific assignment, 
 </section>
 
 <section id="Completing-Assignments" markdown="1">
-### Completing Assignments<a name="Completing-Assignments"></a> 
+### Completing Assignments
 A Driver can complete their Active Assignment by opening the Navigation drawer and pressing 'Complete Assignment' as seen below.
 
 <img src="image/driver/completing-assignment-ios.png" class="ios"/>
@@ -42,7 +42,7 @@ This removes the assignment from the Status bar and also moves it from Active As
 </section>
 
 <section id="Completing-Multi-Pass-Assignment" markdown="1">
-### Completing Multi-Pass Assignment<a name="Completing-Multi-Pass-Assignment"></a>
+### Completing Multi-Pass Assignment
 If a Driver receives an Assignment with Multi-pass toggled on, it will be indicated in the notification. Once the Driver completes a pass, they will press 'Complete Pass' in the Navigation drawer and will await further instructions from the supervisor as specified in the status bar as seen below. 
   - If a Supervisor chooses another pass for this assignment, the Driver will receive the following notification to proceed work on the multi-pass assignment until completed with the pass and repeat the steps as specified above.
 
@@ -59,7 +59,7 @@ If a Driver receives an Assignment with Multi-pass toggled on, it will be indica
 
 
 <section id="PausedResumed-Assignment" markdown="1">
-### Paused/Resumed Assignment<a name="Paused/Resumed-Assignment"></a>
+### Paused/Resumed Assignment
 When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and the status bar is updated, as shown below. Once the Supervisor resumes the Driver, the previous Assignment is started again and the status returns to 'In Service.'
 
 <img src="image/driver/paused-resumed-assignment-ios.png" class="ios"/>

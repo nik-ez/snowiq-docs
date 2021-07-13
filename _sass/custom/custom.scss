@@ -28,11 +28,6 @@
 // located in top left, above site navigation
 .site-header {
   background-color: #1ab2c3;
-  font-size: 30px;
-}
-
-.hidden {
-  display: none;
 }
 
 // text located in site-header
@@ -44,12 +39,17 @@
 }
 
 // site navigation located in left side-bar
+// #site-nav on small screen
 #site-nav{
   overflow-y: auto;
   height: 500px;
   padding-top: 0px;
   margin-top: 25px;
-
+  
+  // #site-nav on medium screen
+  @include mq(md) {
+    height: 0;
+  }
 }
 
 
@@ -155,4 +155,20 @@
 // images in main content
 .main img {
   border: 1px solid #000000;   
+}
+
+// hidden platform specific images
+.hidden {
+  display: none;
+}
+
+// aux-link in top-bar
+// .aux-nav on small screen
+.aux-nav {
+  display:none;
+
+  // .aux-nav on medium screen
+  @include mq(md) {
+    display:block;
+  }
 }
