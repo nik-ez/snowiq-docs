@@ -48,6 +48,10 @@ function changePlatform () {
     for (i = 0; i < images.length; i++) {
       images[i].classList.add("hidden");
     }
+    images = document.getElementsByClassName("content-android");
+    for (i = 0; i < images.length; i++) {
+      images[i].classList.add("hidden");
+    }
   }
 
   if(platform == "android"){
@@ -55,9 +59,17 @@ function changePlatform () {
     for (i = 0; i < images.length; i++) {
       images[i].classList.add("hidden");
     }
+    images = document.getElementsByClassName("content-ios");
+    for (i = 0; i < images.length; i++) {
+      images[i].classList.add("hidden");
+    }
   }
 
   images = document.getElementsByClassName(platform);
+  for (i = 0; i < images.length; i++) {
+    images[i].classList.remove("hidden");
+  }
+  images = document.getElementsByClassName("content-"+platform);
   for (i = 0; i < images.length; i++) {
     images[i].classList.remove("hidden");
   }
