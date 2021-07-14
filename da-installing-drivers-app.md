@@ -11,7 +11,9 @@ comments: true
 ---
 
 <section id="Installing-Driver-App" markdown="1">
-# Installing Driver App
+<h1 class="content-android">Installing Driver App - Android</h1>
+<h1 class="content-ios">Installing Driver App - iOS</h1>
+
 
 The app, titled "SnowIQ Driver," can be found on both the <a href="https://play.google.com/store/apps/details?id=com.eastbanctech.transitiq.snowtrax&hl=en_US&gl=US">Google Play</a> and <a href="https://apps.apple.com/us/app/snowiq-driver/id1336056235">Apple App Store</a>. It is published by EastBanc Technologies. In order to use the app, navigate to the app's page on the App Store and download the app.
 

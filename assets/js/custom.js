@@ -40,8 +40,6 @@ function readCookie(name) {
 function changePlatform () {
 
   var platform = document.getElementById("platform").value;
-  console.log(platform);
-
   var images;
   if(platform == "ios"){
     images = document.getElementsByClassName("android");
