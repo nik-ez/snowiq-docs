@@ -22,8 +22,8 @@ The app, titled "SnowIQ Driver," can be found on both the <a href="https://play.
 ## Download
 Once you have navigated to the app store, hit the "GET" button and wait for the app to download. Once it has downloaded, navigate to your phone's home screen. There, you will find the SNOWiQ Driver app. 
 
-<img src="image/driver/app-home-screen-ios.png" class="ios" width="500"/>
-<img src="image/driver/app-home-screen-android.png" class="android" width="500"/>
+<img src="image/driver/app-home-screen-ios.png" class="ios" style="height: 60%; width: 100%;"/>
+<img src="image/driver/app-home-screen-android.png" class="android" style="height: 60%; width:  100%;"/>
 </section>
 
 <section id="Set-up-and-Permissions" markdown="1">
