@@ -105,26 +105,23 @@
 // header above table of contents including platform selection feature
 .platform_form {
   display:none;
-  padding-left: 0;
-  right: 0;
-  top: 0;
-  //margin-left: calc($nav-width-md + $content-width);
-  background-color: $sidebar-color;
 
   @include mq(md) {
-    display:block;
-    //flex-wrap: nowrap;
-    position: fixed;
-    width: $nav-width-md;
-    height: 60px;
-    border-bottom: $border $border-color;
-    border-left: $border $border-color;
-    line-height:60px;
+    
   }
 
   @include mq(lg) {
-    //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-    min-width: $nav-width;
+    display:block;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: $nav-width;
+    height: 60px;
+    padding-left: 0;
+    background-color: $sidebar-color;
+    border-bottom: $border $border-color;
+    border-left: $border $border-color;
+    line-height:60px;
   }
 }
 
