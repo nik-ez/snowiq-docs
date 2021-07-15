@@ -71,15 +71,7 @@ layout: table_wrappers
   </div>
 
   <nav class="toc">
-    <div class="platform_form">
-      {% if page.platform == true %}
-      <b style="margin-left: 20px;">Platform:</b>
-      <select id="platform" onchange="changePlatform()">
-          <option value="ios">IOS</option>
-          <option value="android">Android</option>
-        </select>
-      {% endif %}
-      </div>
+    <!--Empty toc is necessary for styling purposes-->
   </nav>
 
   <div class="main" id="top">
@@ -113,6 +105,15 @@ layout: table_wrappers
       {% endif %}
     </div>
     <div id="main-content-wrap" class="main-content-wrap">
+      <div class="platform_form">
+        {% if page.platform == true %}
+        <b>Platform:</b>
+        <select id="platform" onchange="changePlatform()">
+            <option value="ios">IOS</option>
+            <option value="android">Android</option>
+        </select>
+        {% endif %}
+      </div>
       {% unless page.url == "/" %}
         {% if page.parent %}
           {%- for node in pages_list -%}

@@ -107,7 +107,11 @@
   display:none;
 
   @include mq(md) {
-    
+    display: block;
+    position: absolute;
+    width: 185px;
+    left: calc(100% - 185px);
+    margin-top: -20px;
   }
 
   @include mq(lg) {
@@ -115,6 +119,8 @@
     position: fixed;
     right: 0;
     top: 0;
+    left: calc(100% - #{$nav-width});
+    margin-top:0;
     width: $nav-width;
     height: 60px;
     padding-left: 0;
@@ -122,6 +128,14 @@
     border-bottom: $border $border-color;
     border-left: $border $border-color;
     line-height:60px;
+  }
+}
+
+// Platform selection feature heading
+.platform_form b {
+  @include mq(lg) {
+  margin-left: 20px;
+  font-size: 17px;
   }
 }
 
