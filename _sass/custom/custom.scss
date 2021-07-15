@@ -64,10 +64,6 @@
 .toc {
   display:none;
 
-  @include mq(md) {
-    
-  }
-
   @include mq(lg) {
     display:block;
     position: fixed;
@@ -104,14 +100,23 @@
 
 // header above table of contents including platform selection feature
 .platform_form {
-  display:none;
+  display:block;
+  position: relative;
+
+  @include mq(sm) {
+    display: block;
+    position: absolute;
+    width: 172px;
+    top: $header-height;
+    left: calc(100% - 172px);
+    margin-top: 12px;
+  }  
 
   @include mq(md) {
     display: block;
     position: absolute;
     width: 185px;
     left: calc(100% - 185px);
-    margin-top: -20px;
   }
 
   @include mq(lg) {
