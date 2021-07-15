@@ -64,10 +64,6 @@
 .toc {
   display:none;
 
-  @include mq(md) {
-    
-  }
-
   @include mq(lg) {
     display:block;
     position: fixed;
