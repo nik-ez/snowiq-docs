@@ -73,15 +73,6 @@ layout: table_wrappers
   
   
   <nav class="toc">
-    <div class="platform_form">
-      {% if page.platform == true %}
-      <b style="margin-left: 20px;">Platform:</b>
-      <select id="platform" onchange="changePlatform()">
-          <option value="ios">IOS</option>
-          <option value="android">Android</option>
-        </select>
-      {% endif %}
-      </div>
 
     <!-- Using https://github.com/allejo/jekyll-toc -->
     <b>Table of Contents</b>
@@ -150,6 +141,15 @@ layout: table_wrappers
           </nav>
         {% endif %}
       {% endunless %}
+      <div class="platform_form">
+        {% if page.platform == true %}
+        <b>Platform:</b>
+        <select id="platform" onchange="changePlatform()">
+            <option value="ios">IOS</option>
+            <option value="android">Android</option>
+        </select>
+        {% endif %}
+      </div>
       <div id="main-content" class="main-content" role="main">
         {% if site.heading_anchors != false %}
           {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#svg-link\"></use></svg>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
