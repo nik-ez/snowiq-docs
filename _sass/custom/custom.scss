@@ -3,21 +3,19 @@
 
 }
 
-// ios content
+// android content
 .content-android{
 
 }
 
 
 // left side-bar
-// .side-bar on small screen
 .side-bar {
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
   background-color: $sidebar-color;
 
-  // .side-bar on medium screen
   @include mq(md) {
     //flex-wrap: nowrap;
     position: fixed;
@@ -28,7 +26,6 @@
     align-items: flex-end;
   }
 
-  // .side-bar on large screen
   @include mq(lg) {
     min-width: $nav-width;
   }
@@ -49,14 +46,12 @@
 }
 
 // site navigation located in left side-bar
-// #site-nav on small screen
 #site-nav{
   overflow-y: auto;
   height: 500px;
   padding-top: 0px;
   margin-top: 25px;
-  
-  // #site-nav on medium screen
+
   @include mq(md) {
     height: 0;
   }
@@ -66,32 +61,22 @@
 
 // table of contents side-bar
 // not including platform selection feature located above
-// .toc on small screen
 .toc {
   display:none;
-  padding-left: 0;
-  padding-right: 12px;
-  right: 0;
-  top: 60px;
-  bottom: 0;
-  overflow-y: auto;
-  //margin-left: calc($nav-width-md + $content-width);
-  background-color: $sidebar-color;
 
-  // .toc on medium screen
-  @include mq(md) {
+  @include mq(lg) {
     display:block;
-    //flex-wrap: nowrap;
     position: fixed;
-    width: $nav-width-md;
-    height: calc(100% - 60px);
+    right: 0;
+    top: 60px;
+    bottom: 0;
+    width: $nav-width;
+    background-color: $sidebar-color;
     border-left: $border $border-color;
     padding-top: 8px;
-  }
-
-  // .toc on large screen
-  @include mq(lg) {
-    min-width: $nav-width;
+    padding-left: 0;
+    padding-right: 12px;
+    overflow-y: auto;
   }
 }
 
@@ -114,31 +99,48 @@
 }
 
 // header above table of contents including platform selection feature
-// .platform_form on small screen
 .platform_form {
-  display:none;
-  padding-left: 0;
-  right: 0;
-  top: 0;
-  //margin-left: calc($nav-width-md + $content-width);
-  background-color: $sidebar-color;
+  display:block;
+  position: relative;
 
-  // .platform_form on medium screen
+  @include mq(sm) {
+    display: block;
+    position: absolute;
+    width: 172px;
+    top: $header-height;
+    left: calc(100% - 172px);
+    margin-top: 12px;
+  }  
+
   @include mq(md) {
+    display: block;
+    position: absolute;
+    width: 185px;
+    left: calc(100% - 185px);
+  }
+
+  @include mq(lg) {
     display:block;
-    //flex-wrap: nowrap;
     position: fixed;
-    width: $nav-width-md;
+    right: 0;
+    top: 0;
+    left: calc(100% - #{$nav-width});
+    margin-top:0;
+    width: $nav-width;
     height: 60px;
+    padding-left: 0;
+    background-color: $sidebar-color;
     border-bottom: $border $border-color;
     border-left: $border $border-color;
     line-height:60px;
   }
+}
 
-  // .platform_form on large screen
+// Platform selection feature heading
+.platform_form b {
   @include mq(lg) {
-    //width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
-    min-width: $nav-width;
+  margin-left: 20px;
+  font-size: 17px;
   }
 }
 
@@ -147,25 +149,40 @@
 // main content
 // including search and aux-link bar
 .main {
-// .main on medium screen
 @include mq(md) {
   position: relative;
   max-width: $content-width;
   margin-left: $nav-width-md;
-  margin-right: $nav-width-md;
 }
 
-// .main on large screen
 @include mq(lg) {
   margin-left: $nav-width;
   margin-right: $nav-width;
 }
 }
 
-// images in main content
-.main img {
+// images and iframe videos in main content
+.main img, iframe {
   border: 1px solid #000000;   
 }
+
+iframe {
+  //width="560" height="315"
+  width:100%;
+  max-width: 700px;
+  height:150px;
+
+  @include mq(xs) {
+    height:240px;
+  }
+  @include mq(sm) {
+    height:350px;
+  }
+  @include mq(xl) {
+    height:390px;
+  }
+}
+
 
 // hidden platform specific images
 .hidden {
@@ -173,11 +190,9 @@
 }
 
 // aux-link in top-bar
-// .aux-nav on small screen
 .aux-nav {
   display:none;
 
-  // .aux-nav on medium screen
   @include mq(md) {
     display:block;
   }
