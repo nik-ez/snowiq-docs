@@ -24,5 +24,4 @@ SNOWiQ is a Software as a Service (SaaS) solution that combines your internal re
 SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
 
 ## Watch SNOWiQ Demo 
-[SNOWiQ Demo](https://eastbanctech.sharepoint.com/:v:/g/EfgLG-E4gJhOq6vW7PV41S4Bouw_7bEwA6FM0hYr3k22-g?e=g6kWot)
-
+<iframe src="https://www.youtube.com/embed/5hNladmmUKQ" title="Youtube SNOWiQ Demo"  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
