@@ -36,5 +36,3 @@ search:
   # Display the relative url in search results
   # Supports true (default) or false
   rel_url: false
-
-#logo: "https://danhealey.github.io/ebtsnowiq/image/favicon/favicon-32x32.png"
