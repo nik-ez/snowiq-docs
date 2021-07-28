@@ -32,7 +32,8 @@ aux_links_new_tab: true
 
 search_enabled: true
 search:
-  previews: 0
+  previews: 2
+  previews_words_before: 2
+  previews_words_after: 5
   # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: false
+  rel_url: true

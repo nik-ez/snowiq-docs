@@ -1,11 +1,16 @@
 // ios content
-.content-ios{
+.content-ios {
 
 }
 
 // android content
-.content-android{
+.content-android {
 
+}
+
+// OS specific headings
+h1.content-android , h1.content-ios {
+  margin-top: 8px;
 }
 
 
