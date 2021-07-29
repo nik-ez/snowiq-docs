@@ -17,14 +17,15 @@ h1.content-android , h1.content-ios {
 ::-webkit-scrollbar {
   @include mq(sm) {
     -webkit-appearance: none;
+    width: 8px;
   }
 }
   
 ::-webkit-scrollbar-thumb {
   @include mq(sm) {  
     background-color: #0d6ce02d;
-    border-radius: 20px;
-    border: 6px solid transparent;
+    border-radius: 30px;
+    border: 2px solid transparent;
     background-clip: content-box;
   }
 }
