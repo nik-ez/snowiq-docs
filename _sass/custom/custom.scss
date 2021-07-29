@@ -13,6 +13,40 @@ h1.content-android , h1.content-ios {
   margin-top: 8px;
 }
 
+// custom scrollbar
+::-webkit-scrollbar {
+  @include mq(sm) {
+    -webkit-appearance: none;
+  }
+}
+  
+::-webkit-scrollbar-thumb {
+  @include mq(sm) {  
+    background-color: #0d6ce02d;
+    border-radius: 20px;
+    border: 6px solid transparent;
+    background-clip: content-box;
+  }
+}
+  
+::-webkit-scrollbar-track {
+  @include mq(sm) {  
+    background-color: transparent;
+  }
+}
+
+body::-webkit-scrollbar-track {
+  @include mq(lg) {  
+    background-color: $sidebar-color;
+  }
+}
+  
+::-webkit-scrollbar-thumb:hover {
+  @include mq(sm) {
+    background-color: #0d6ce093;
+  }
+}
+
 
 // left side-bar
 .side-bar {
