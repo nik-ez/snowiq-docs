@@ -40,5 +40,6 @@ A Driver can delete an existing road hazard from the map if it doesn't exist any
   - Once deleted, the marker is removed from the map for everyone
 
 <img src="image/driver/deleting-road-hazard-ios.png" class="ios"/>
+<img src="image/driver/deleting-road-hazard-android.png" class="android"/>
 </section>
 </section>

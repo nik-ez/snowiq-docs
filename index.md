@@ -12,7 +12,7 @@ platform: false
 
 # **Welcome to SNOWiQ**
 
-<img src="image/home/home-image.png" width="700" height="1000"/>
+<img src="image/home/home-image.png" width="700"/>
 
 
 SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.  
