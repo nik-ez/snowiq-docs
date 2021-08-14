@@ -84,6 +84,12 @@ for(i =0; i < target.length; i++){
 document.addEventListener('DOMContentLoaded', function() {
   var plat = readCookie("platform");
 
+  if(plat != "ios" && plat != "android")
+  {
+    plat = "ios";
+    createCookie("platform", plat);
+  };
+
   document.getElementById("platform").value = plat;
 
   changePlatform();
