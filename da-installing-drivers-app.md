@@ -11,18 +11,25 @@ comments: true
 ---
 
 <section id="Installing-Driver-App" markdown="1">
-<h1 class="content-android">Installing Driver App - Android</h1>
-<h1 class="content-ios">Installing Driver App - iOS</h1>
+<h1>Installing Driver App - <span class="content-android">Android</span><span class="content-ios">iOS</span></h1>
+**To see <span class="content-ios">Android</span><span class="content-android">iOS</span> specific content, click the Platform dropdown and select <span class="content-ios">Android</span><span class="content-android">iOS</span>.**
 
-
-The app, titled "SnowIQ Driver," can be found on both the <a href="https://play.google.com/store/apps/details?id=com.eastbanctech.transitiq.snowtrax&hl=en_US&gl=US">Google Play</a> and <a href="https://apps.apple.com/us/app/snowiq-driver/id1336056235">Apple App Store</a>. It is published by EastBanc Technologies. In order to use the app, navigate to the app's page on the App Store and download the app.
+<div class="content-ios">
+The iOS app, titled "SnowIQ Driver," is available on the <a href="https://apps.apple.com/us/app/snowiq-driver/id1336056235">App Store</a>. It is published by EastBanc Technologies. In order to download the app, navigate to the app's App Store page by using the App Store's search feature or clicking the link above.
+</div>
+<div class="content-android">
+The Android app, titled "SnowIQ Driver," is available on the <a href="https://play.google.com/store/apps/details?id=com.eastbanctech.transitiq.snowtrax&hl=en_US&gl=US">Google Play Store</a>. It is published by EastBanc Technologies. In order to use the app, navigate to the app's page on the Google Play Store and download the app.
+</div>
 
 <img src="image/driver/app-store-ios.png" class="ios" width="500"/>
 <img src="image/driver/app-store-android.png" class="android" style="height: 60%; width: 100%;"/>
 
 <section id="Download" markdown="1">
 ## Download
-Once you have navigated to the app store, hit the "GET" button and wait for the app to download. Once it has downloaded, navigate to your phone's home screen. There, you will find the SNOWiQ Driver app. 
+<div class="content-ios">
+Once you have navigated to the app's App Store page, hit the "GET" button, confirm with password or Touch/ Face ID if prompted, and wait for the app to download. Once it has downloaded, the app will show up in your phone's app library or on its home screen.
+</div>
+
 
 <img src="image/driver/app-home-screen-ios.png" class="ios" width="500"/>
 <img src="image/driver/app-home-screen-android.png" class="android" style="height: 60%; width:  100%;"/>
@@ -30,7 +37,9 @@ Once you have navigated to the app store, hit the "GET" button and wait for the 
 
 <section id="Set-up-and-Permissions" markdown="1">
 ## Set-up and Permissions
-Tap the icon on your home screen to open the app. Upon opening the app, you will be asked for permission to access your location, camera and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
+<div class="content-ios">
+Tap the app icon to open the app. Upon opening the app, you will be asked for permission to access your location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
+</div>
 
 <img src="image/driver/app-permissions-ios.png" class="ios" width="500"/>
 <img src="image/driver/app-permissions-android.png" class="android" width="500"/>

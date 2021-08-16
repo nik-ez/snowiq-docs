@@ -10,17 +10,24 @@ platform: true
 comments: true
 ---
 
-<section id="Installing-Supervisor-App" markdown="1">
-# Installing Supervisor App
+<section id="Installing-Supervisor-App---Android" markdown="1" class="content-android">
+# Installing Supervisor App - Android
+The Supervisor App is currently only available for iPads using iOS as operating system. To view iOS specific content, click the platform dropdown and select iOS.
 
-The app titled "SnowIQ" Supervisor is available only on the <a href="https://apps.apple.com/us/app/snowiq-supervisor/id1537419881">Apple App Store</a> for iPads. It is published by EastBanc Technologies. In order to use the app, navigate to the app’s page on the App Store and download the app.
+<img src="image/supervisor/platform-dropdown-android.png" class="android" />
+</section>
+
+<section id="Installing-Supervisor-App" markdown="1" class="content-ios">
+# Installing Supervisor App 
+
+The app titled "SnowIQ Supervisor" is available on the <a href="https://apps.apple.com/us/app/snowiq-supervisor/id1537419881">Apple App Store</a> for iPads. It is published by EastBanc Technologies. In order to download the app, navigate to the app's App Store page by using the App Store's search feature or clicking the link above.
 
 <img src="image/supervisor/ipad-appstore-ios.jpg" class="ios" width="500"/>
 
 <section id="Download" markdown="1">
 ## Download
 
-Once you have navigated to the app store, hit the "GET" button and wait for the app to download. Once it has downloaded, navigate to your iPad's home screen. There, you will find the SNOWiQ Supervisor app. 
+Once you have navigated to the app's App Store page, hit the "GET" button, confirm with password or Touch/ Face ID if prompted, and wait for the app to download. Once it has downloaded, the app will show up on your iPad's app home screen.
 
 <img src="image/supervisor/ipad-app-homescreen.jpg" class="ios" width="500"/>
 </section>
