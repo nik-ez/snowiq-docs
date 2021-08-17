@@ -27,7 +27,7 @@ The app titled "SnowIQ Supervisor" is available on the <a href="https://apps.app
 <section id="Download" markdown="1">
 ## Download
 
-Once you have navigated to the app's App Store page, hit the "GET" button, confirm with password or Touch/ Face ID if prompted, and wait for the app to download. Once it has downloaded, the app will show up on your iPad's app home screen.
+Once you have navigated to the app's App Store page, hit the "GET" button, confirm with password or Touch/ Face ID if prompted, and wait for the app to download. Once it has downloaded, the app will show up on your iPad's home screen.
 
 <img src="image/supervisor/ipad-app-homescreen.jpg" class="ios" width="500"/>
 </section>
