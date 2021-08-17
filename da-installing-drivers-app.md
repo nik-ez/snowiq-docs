@@ -21,8 +21,8 @@ The iOS app, titled "SnowIQ Driver," is available on the <a href="https://apps.a
 The Android app, titled "SnowIQ Driver," is available on the <a href="https://play.google.com/store/apps/details?id=com.eastbanctech.transitiq.snowtrax&hl=en_US&gl=US">Google Play Store</a>. It is published by EastBanc Technologies. In order to download the app, navigate to the app's Google Play Store page by using the Play Store's search feature or clicking the link above.
 </div>
 
-<img src="image/driver/app-store-ios.png" class="ios" width="500"/>
-<img src="image/driver/app-store-android.png" class="android" style="height: 60%; width: 100%;"/>
+<img src="image/driver/app-store-ios.png" class="ios" width="500" />
+<img src="image/driver/app-store-android.png" class="android" width="500" />
 
 <section id="Download" markdown="1">
 ## Download
@@ -33,8 +33,8 @@ Once you have navigated to the app's App Store page, hit the "GET" button, confi
 Once you have navigated to the app's Play Store page, hit the "Install" button, follow the prompts, and wait for the app to download. Once it has downloaded, the app will show up in your phone's app library or on its home screen.
 </div>
 
-<img src="image/driver/app-home-screen-ios.png" class="ios" width="500"/>
-<img src="image/driver/app-home-screen-android.png" class="android" style="height: 60%; width:  100%;"/>
+<img src="image/driver/app-home-screen-ios.png" class="ios" width="500" />
+<img src="image/driver/app-home-screen-android.png" class="android" width="500" />
 </section>
 
 <section id="Set-up-and-Permissions" markdown="1">
