@@ -1,23 +1,10 @@
-// ios content
-.content-ios {
-
-}
-
-// android content
-.content-android {
-
-}
-
-// OS specific headings
-h1.content-android , h1.content-ios {
-  margin-top: 8px;
-}
 
 // custom scrollbar
 ::-webkit-scrollbar {
   @include mq(sm) {
     -webkit-appearance: none;
     width: 8px;
+    height: 8px;
   }
 }
   
@@ -204,6 +191,12 @@ body::-webkit-scrollbar-track {
 // images and iframe videos in main content
 .main img, iframe {
   border: 1px solid #000000;   
+}
+
+.main img {
+  @include mq(sm) {
+    min-width:300px;
+  }
 }
 
 // iframe (YT video)

@@ -33,12 +33,12 @@ When a Supervisor assigns a route, a ticket, or an address-specific assignment, 
 A Driver can complete their Active Assignment by opening the Navigation drawer and pressing 'Complete Assignment' as seen below.
 
 <img src="image/driver/completing-assignment-ios.png" class="ios"/>
-<img src="image/driver/completing-assignments-android.png" class="android"/>
+<img src="image/driver/completing-assignment-android.png" class="android"/>
 
 This removes the assignment from the Status bar and also moves it from Active Assignments to the History tab in the 'Assignments' panel in the Operations Menu. If the Driver has another Assignment in the queue (in the 'Future' tab in the 'Assignments' panel), then the Driver will receive the notification as seen below and will follow the process as specified in the section "Accepting Assignments" above.
 
-<img src="image/driver/completing-assignments1-ios.png" class="ios"/>
-<img src="image/driver/completing-assignments1-android.png" class="android"/>
+<img src="image/driver/completing-assignment1-ios.png" class="ios"/>
+<img src="image/driver/completing-assignment1-android.png" class="android"/>
 </section>
 
 <section id="Completing-Multi-Pass-Assignment" markdown="1">

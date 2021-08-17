@@ -170,7 +170,7 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
 
 This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.
 
-<img src="image/supervisor/yellow-logo.png"/>
+<img src="image/supervisor/yellow-logo.png" style="min-width:60px;" />
 </section>
 
 <section id="Pausing-or-Resuming-Drivers" markdown="1">

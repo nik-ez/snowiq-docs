@@ -35,7 +35,7 @@ with that depot.
  
 The diagram below highlights basic navigation controls and map elements of the Supervisor App 
 
-<img src="image/portal/navigation.png"/>
+<img src="image/supervisor/navigation.png"/>
 
  
 1. Gear Icon - Navigate to the Setting Menu
