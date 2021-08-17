@@ -209,7 +209,7 @@ body::-webkit-scrollbar-track {
 
 .main img {
   @include mq(sm) {
-    min-width:325px;
+    min-width:300px;
   }
 }
 
