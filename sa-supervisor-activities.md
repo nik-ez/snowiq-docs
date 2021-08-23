@@ -168,9 +168,8 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
 <img src="image/supervisor/assigning-drivers1-android.png" class="android"/>
 <img src="image/supervisor/assigning-drivers1-ios.png" class="ios"/>
 
-This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.
+This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow <img src="image/supervisor/yellow-logo-ios.png" class="ios" style="min-width:18px; width:18px; border:none;" /><img src="image/supervisor/yellow-logo-android.png" class="android" style="min-width:18px; width:18px; border:none;" /> to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.
 
-<img src="image/supervisor/yellow-logo.png" style="min-width:60px;" />
 </section>
 
 <section id="Pausing-or-Resuming-Drivers" markdown="1">
@@ -206,14 +205,16 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 * The system will display the following 'New road hazard' prompt
 * Tap the type of road hazard from the list and tap 'Yes' to confirm the creation of a new road hazard on the next prompt
 
-<img src="image/supervisor/creating-road-hazards.png"/>
+<img src="image/supervisor/creating-road-hazards-android.png" class="android"/>
+<img src="image/supervisor/creating-road-hazards-ios.png" class="ios"/>
 
 * The system will display the hazards as either a road plate or a warning as seen below:
   * Road plates (orange stacked layes marker): permanent hazard on the road
   * Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
     **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
 
-<img src="image/supervisor/creating-road-hazards1.png"/>
+<img src="image/supervisor/creating-road-hazards1-android.png" class="android"/>
+<img src="image/supervisor/creating-road-hazards1-ios.png" class="ios"/>
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
@@ -223,12 +224,14 @@ A Supervisor can delete an existing road hazard from the map if it doesn't exist
 
   * Press on an existing road hazard from the map if it doesn't exist anymore:
 
-<img src="image/supervisor/deleting-road-hazards.png"/>
+<img src="image/supervisor/deleting-road-hazards-android.png" class="android"/>
+<img src="image/supervisor/deleting-road-hazards-ios.png" class="ios"/>
 
   * The system will display the following 'Road hazard info' prompt
   * Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
 
-<img src="image/supervisor/deleting-road-hazards.png"/>
+<img src="image/supervisor/deleting-road-hazards1-android.png" class="android"/>
+<img src="image/supervisor/deleting-road-hazards1-ios.png" class="ios"/>
 
   * Once deleted, the marker is removed from the map for everyone
 

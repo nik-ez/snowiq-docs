@@ -67,7 +67,8 @@ Ticket Type filter allows users to filter by two different types of tickets.
 
 A Checkmark on either type of ticket indicates that the ticket is closed.
 
-<img src="image/supervisor/ticket-type.png"/>
+<img src="image/supervisor/ticket-type-android.png" class="android"/>
+<img src="image/supervisor/ticket-type-ios.png" class="ios"/>
 
 </section>
 </section>
