@@ -10,18 +10,18 @@ has_toc: false
 platform: false
 ---
 
-# **Welcome to SNOWiQ**
+# **SNOWiQ User Manual**
 
-<img src="image/home/home-image.png" width="700"/>
+ SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.
 
+ Based on EastBanc Technologies' TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own.  
 
-SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.  
+ <br>
 
-Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own.  
+ <p align="center"><iframe src="https://www.youtube.com/embed/5hNladmmUKQ" title="Youtube SNOWiQ Demo"  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+ <br>
 
 SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard—two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. 
 
 SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
-
-## Watch SNOWiQ Demo 
-<iframe src="https://www.youtube.com/embed/5hNladmmUKQ" title="Youtube SNOWiQ Demo"  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
