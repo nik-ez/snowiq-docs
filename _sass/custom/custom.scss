@@ -190,7 +190,7 @@ body::-webkit-scrollbar-track {
 
 // images and iframe videos in main content
 .main img, iframe {
-  border: 1px solid #0000003a;   
+  border: 1px solid $border-color;   
 }
 
 // images with class width-xl
