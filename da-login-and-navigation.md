@@ -16,7 +16,8 @@ comments: true
 ## Login
 The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
 
-<img src="image/driver/login.png"/>
+<img src="image/driver/login-ios.png" class="ios"/>
+<img src="image/driver/login-android.png" class="android"/>
 
 Once logged into the DA, Drivers will see the screen below. The screens display two types of Drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square indicates a Contractor. These icons are color coded to match the status.
 
