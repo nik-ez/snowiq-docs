@@ -31,7 +31,7 @@ The Upload Users function allows Admin users to add users to the system by follo
 * Click the blue 'Upload Users' button on the top right of the application.
 * The system will prompt with the following:
 
-![Upload Users](/images/soc/soc-user-management/upload-users.png)
+![Upload Users](/images/soc/soc-user-management/upload-users.png){: .width-md}
 
 * Click 'Browse' to select the appropriate file for an Employee or Contractor user information.
 * Select file

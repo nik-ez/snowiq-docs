@@ -24,10 +24,10 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
     
        **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
 
-<img src="images/driver/da-road-hazards/creating-road-hazard-ios.png" class="ios"/>
-<img src="images/driver/da-road-hazards/creating-road-hazard-android.png" class="android"/>
-<img src="images/driver/da-road-hazards/creating-road-hazard1-ios.png" class="ios"/>
-<img src="images/driver/da-road-hazards/creating-road-hazard1-android.png" class="android"/>
+<img src="images/driver/da-road-hazards/creating-road-hazard-ios.png" class="ios width-sm"/>
+<img src="images/driver/da-road-hazards/creating-road-hazard-android.png" class="android width-sm"/>
+<img src="images/driver/da-road-hazards/creating-road-hazard1-ios.png" class="ios width-sm"/>
+<img src="images/driver/da-road-hazards/creating-road-hazard1-android.png" class="android width-sm"/>
 
 </section>
 
@@ -39,7 +39,7 @@ A Driver can delete an existing road hazard from the map if it doesn't exist any
   - Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
   - Once deleted, the marker is removed from the map for everyone
 
-<img src="images/driver/da-road-hazards/deleting-road-hazard-ios.png" class="ios"/>
-<img src="images/driver/da-road-hazards/deleting-road-hazard-android.png" class="android"/>
+<img src="images/driver/da-road-hazards/deleting-road-hazard-ios.png" class="ios width-sm"/>
+<img src="images/driver/da-road-hazards/deleting-road-hazard-android.png" class="android width-sm"/>
 </section>
 </section>

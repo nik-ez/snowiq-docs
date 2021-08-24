@@ -90,8 +90,8 @@ Clicking on the Blue arrow to the right of the Driver name produces the Driver's
 <section id="Markers" markdown="1">
 ## Markers
 
-![Markers](/images/soc/soc-active-storm-ops/markers.png)
-![Markers1](/images/soc/soc-active-storm-ops/markers1.png)
+![Markers](/images/soc/soc-active-storm-ops/markers.png){: .width-xl}
+![Markers1](/images/soc/soc-active-storm-ops/markers1.png){: .width-xl}
 </section>
 
 <section id="Clusters" markdown="1">

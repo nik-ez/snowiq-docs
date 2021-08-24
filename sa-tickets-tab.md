@@ -14,8 +14,8 @@ comments: true
 
 When Admin sends a new ticket to a Supervisor it will be appear as a ticket count on the Ticket tab for the Supervisor, as seen below.
 
-<img src="images/supervisor/sa-tickets-tab/tickets-tab-android.png" class="android"/>
-<img src="images/supervisor/sa-tickets-tab/tickets-tab-ios.png" class="ios"/>
+<img src="images/supervisor/sa-tickets-tab/tickets-tab-android.png" class="android width-sm"/>
+<img src="images/supervisor/sa-tickets-tab/tickets-tab-ios.png" class="ios width-sm"/>
 
 After selecting the Tickets tab, the Tickets panel displays a list of tickets and a visual on the map of markers that represent tickets and their statuses to give users an indicator of where the tickets are located in the service area. Above the list, there is a set of filters: by Depot, Route, Ticket Status, and Ticket Type. 
    
@@ -67,8 +67,8 @@ Ticket Type filter allows users to filter by two different types of tickets.
 
 A Checkmark on either type of ticket indicates that the ticket is closed.
 
-<img src="images/supervisor/sa-tickets-tab/ticket-type-android.png" class="android"/>
-<img src="images/supervisor/sa-tickets-tab/ticket-type-ios.png" class="ios"/>
+<img src="images/supervisor/sa-tickets-tab/ticket-type-android.png" class="android width-xs"/>
+<img src="images/supervisor/sa-tickets-tab/ticket-type-ios.png" class="ios width-xs"/>
 
 </section>
 </section>

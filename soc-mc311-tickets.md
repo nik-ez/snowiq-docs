@@ -34,7 +34,7 @@ The Ticket Type filter allows users to view the two different types of tickets.
 
 A checkmark on either type of ticket indicates that the ticket is closed and has a Closed date and who closed the ticket. 
 
-![Ticket Type](/images/soc/soc-mc311-tickets/ticket-type.png)
+![Ticket Type](/images/soc/soc-mc311-tickets/ticket-type.png){: .width-xs}
 </section>
 
 <section id="Ticket-Status" markdown="1">
@@ -105,11 +105,11 @@ An Admin user can manually close the ticket if the ticket is deemed to be invali
 
 ![Closing Ticket](/images/soc/soc-mc311-tickets/closing-ticket.png)
 
-![Closing Ticket](/images/soc/soc-mc311-tickets/closing-ticket1.png)
+![Closing Ticket](/images/soc/soc-mc311-tickets/closing-ticket1.png){: .width-sm}
 
 If the status of the ticket is 'Assigned' or 'In Progress' a warining prompt will display as shown below:
 
-![Closing Ticket2](/images/soc/soc-mc311-tickets/closing-ticket2.png)
+![Closing Ticket2](/images/soc/soc-mc311-tickets/closing-ticket2.png){: .width-md}
 </section>
 
 <section id="Creating-Emergency-Ticket-Requests" markdown="1">
@@ -120,20 +120,20 @@ An Admin user can manually create an Emergency Ticket by following the steps bel
 * Navigate to either the Active Storm Ops Map View of MC311 Tickets Map View.
 * Click on the magnifying glass icon for the search bar to open on the map, as shown below.
 
-![Emergency Ticket](/images/soc/soc-mc311-tickets/emergency-ticket.png)
+![Emergency Ticket](/images/soc/soc-mc311-tickets/emergency-ticket.png){: .width-md}
 
 * Enter the address and hit Enter, which will prompt the system to locate the address and if it does, it will display below the search bar.
 * Select the address and the system will display the address on the map with the Red location marker as seen below:
 
-![Emergency Ticket1](/images/soc/soc-mc311-tickets/emergency-ticket1.png)
+![Emergency Ticket1](/images/soc/soc-mc311-tickets/emergency-ticket1.png){: .width-md}
 
 * Click on the marker and the system will display the following prompt.
 
-![Emergency Ticket2](/images/soc/soc-mc311-tickets/emergency-ticket2.png)
+![Emergency Ticket2](/images/soc/soc-mc311-tickets/emergency-ticket2.png){: .width-md}
 
 * Enter value in the Notes field and select a Supervisor to send it to.
 
-![Emergency Ticket3](/images/soc/soc-mc311-tickets/emergency-ticket3.png)
+![Emergency Ticket3](/images/soc/soc-mc311-tickets/emergency-ticket3.png){: .width-md}
 
 * If the ticket was created while on the MC311 Tickets Map View, the newly created ticket is added to the list on the panel to the left with a red asterisk like an Emergency Ticket. Its status is set to 'Sent' which means the process of sending it to the Supervisor has been completed.
 </section>

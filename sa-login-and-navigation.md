@@ -20,8 +20,8 @@ the SNOWiQ Supervisor Application. Click the 'Login' button
 to be re-routed to enter the assigned username and password
 for the application.
 
-<img src="images/supervisor/sa-login-and-navigation/login-android.png" class="android"/>
-<img src="images/supervisor/sa-login-and-navigation/login-ios.png" class="ios"/>
+<img src="images/supervisor/sa-login-and-navigation/login-android.png" class="android width-xl"/>
+<img src="images/supervisor/sa-login-and-navigation/login-ios.png" class="ios width-xl"/>
 
 Once logged into SA, users will see the Map Monitoring view as seen below.
 A Supervisor assigned to a specific depot will only see routes associated

@@ -26,7 +26,7 @@ When a snow storm is approaching, to plan the event before it occurs (there are 
   * Click the orange 'Create New Storm Event' button seen in the screenshot above. 
   * Enter values in all data fields in the prompt for 'New Event.' Click 'Create.'
 
-![Event Creation](/images/soc/soc-event-management/event-creation.png)
+![Event Creation](/images/soc/soc-event-management/event-creation.png){: .width-sm}
 
 **Note:** Because the newly created Event isn't Active yet, editing (pencil icon), or deleting it ('Delete' icon), are available, as seen below. Once the Event is Active, these are no longer an option. 
 
@@ -66,7 +66,7 @@ Phases are used during a storm Event to define specific Activities that allow pr
   * Enter values in all data fields in the prompt for 'New Phase.' Click 'Next.' See below on specific fields.
     * Activity: the dropdown specifies the types of activities that should occur within this Phase. An example of a Phase would be 'Plowing' - a Phase with an Activity set to 'Plowing' would prompt all Assignments and Drivers included in this phase to plow the routes.
 
-  ![Phase Creation2](/images/soc/soc-event-management/phase-creation2.png) 
+  ![Phase Creation2](/images/soc/soc-event-management/phase-creation2.png){: .width-xs}
 
  **Plan:** The dropdown currently includes two static plans with no ability to create others. A plan specifies to the system the types of roads to highlight on the route map and provides the ability to create assignments on the routes.
 
@@ -79,16 +79,16 @@ Phases are used during a storm Event to define specific Activities that allow pr
 
 **Start Date and Completion Date:** Phases cannot overlap, so select the date and time of the new phase so it doesn't overlap with an already existing Phase (in this case, it would be the Monitoring Phase, but there can be more than just one existing Phase). Completion Date is an estimate in the system.
 
-   ![Phase Creation3](/images/soc/soc-event-management/phase-creation3.png)
+   ![Phase Creation3](/images/soc/soc-event-management/phase-creation3.png){: .width-md}
 
   * On the next prompt 'Edit Driver Assignments,' click 'Add' to assign a specific Route to Drivers attached to the Depot. Routes are pre-populated based on the selected Depot from the previous step. Select multiple Drivers where appropriate.
     * If a Route Assignment may require several passes of the same activity, then check the 'Multi-Pass' box. Routes can be filtered by Emergency or Residential.
 
-    ![Edit Driver Assignments](/images/soc/soc-event-management/edit-driver-assignments.png)
+    ![Edit Driver Assignments](/images/soc/soc-event-management/edit-driver-assignments.png){: .width-md}
 
   * Once all Assignments are added, click 'Save Phase' to create the Phase in the Phase Management table.
 
-    ![Edit Driver Assignments1](/images/soc/soc-event-management/edit-driver-assignments1.png)
+    ![Edit Driver Assignments1](/images/soc/soc-event-management/edit-driver-assignments1.png){: .width-md}
 
   * This will navigate back to Phase Management page, where the newly created Phase is listed with the status 'New.' The following Phase management options are available: edit the Phase details (pencil icon), edit driver assignments (snow plow icon), activate the phase (play icon), and delete a phase (X icon).
 
@@ -123,7 +123,7 @@ Once the creation of Phases and Assignments is completed, the next step is to ac
 
 * Pausing an Active Phase allows to retain the states of all assignments, including breadcrumbs. If the Phase is resumed, all assignments will resume from their previous state. Pausing an Active Phase is used in case something occurred during a snow event that required moving to the next phase quickly but still needing to go back to it. 
 
-  ![Phase Activation2](/images/soc/soc-event-management/phase-activation2.png)
+  ![Phase Activation2](/images/soc/soc-event-management/phase-activation2.png){: .width-md}
 
 * This completes the Event Activation. This means the Supervisor can begin monitoring the Event and Drivers can begin accepting Assignments. 
 </section>
@@ -137,7 +137,7 @@ Once the Event has been completed to the Admin's specifications, the Event can b
 
 If there are active assignments, the system will prompt with a warning as shown below. If the user clicks 'Archive' on this prompt, the system, in addition to closing out the Event, will close out and mark as 'completed' all outstanding phases and assignments that were still in progress.
 
-![Archiving Event](/images/soc/soc-event-management/archiving-event.png)
+![Archiving Event](/images/soc/soc-event-management/archiving-event.png){: .width-md}
 </section>
 
 <section id="Event-Log" markdown="1">

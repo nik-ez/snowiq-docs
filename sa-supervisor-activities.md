@@ -213,8 +213,8 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
   * Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
     **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
 
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1-android.png" class="android"/>
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1-ios.png" class="ios"/>
+<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1-android.png" class="android width-sm"/>
+<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1-ios.png" class="ios width-sm"/>
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
@@ -224,8 +224,8 @@ A Supervisor can delete an existing road hazard from the map if it doesn't exist
 
   * Press on an existing road hazard from the map if it doesn't exist anymore:
 
-<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards-android.png" class="android"/>
-<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards-ios.png" class="ios"/>
+<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards-android.png" class="android width-sm"/>
+<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards-ios.png" class="ios width-sm"/>
 
   * The system will display the following 'Road hazard info' prompt
   * Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
