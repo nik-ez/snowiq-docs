@@ -18,14 +18,14 @@ comments: true
 
 The Active Storm Log page is an Event Log that allows Admin users a closer look into the actions, the users, and timestamps of the actions for the current active Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed it (user name or system). Actions may include creating an Assignment, activating a new Phase for a Depot, or changing the status of a Driver. 
 
-![Screenshot 2021-03-04 144521](/image/portal/active-storm-log.png)
+![Active Storm Log](/images/soc/soc-active-storm-log-report/active-storm-log.png)
 
 <section id="Previous-Event-Log" markdown="1">
 ### Previous Event Log
 
 To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
 
-![Screenshot 2021-03-04 144548](/image/portal/previous-event-log.png)
+![Previous Event Log](/images/soc/soc-active-storm-log-report/previous-event-log.png)
 </section>
 </section>
 
@@ -37,7 +37,7 @@ The Active Storm Report page allows Admin users to view Event Progress in the St
 <section id="Storm-Event-Tab" markdown="1">
 ### Storm Event Tab
 
-![Screenshot 2021-03-04 144609](/image/portal/storm-event-tab.png)
+![Storm Event Tab](/images/soc/soc-active-storm-log-report/storm-event-tab.png)
 </section>
 
 <section id="Phase-Tab" markdown="1">
@@ -45,7 +45,7 @@ The Active Storm Report page allows Admin users to view Event Progress in the St
 
 This tab allows to filter the Phase Statistics by Depot.
 
-![Screenshot 2021-03-04 144629](/image/portal/phase-tab.png)
+![Phase Tab](/images/soc/soc-active-storm-log-report/phase-tab.png)
 </section>
 
 <section id="Route-Tab" markdown="1">
@@ -53,7 +53,7 @@ This tab allows to filter the Phase Statistics by Depot.
 
 This tab allows to filter the Route Statistics by Depot, Phase, and Route Type. 
 
-![Screenshot 2021-03-04 144655](/image/portal/route-tab.png)
+![Route Tab](/images/soc/soc-active-storm-log-report/route-tab.png)
 </section>
 
 <section id="Driver-Tab" markdown="1">
@@ -61,7 +61,7 @@ This tab allows to filter the Route Statistics by Depot, Phase, and Route Type.
 
 This tab allows to view individual Driver statistics by searching for a specific Driver by name or ID. 
 
-![Screenshot 2021-03-04 144721](/image/portal/driver-tab.png)
+![Driver Tab](/images/soc/soc-active-storm-log-report/driver-tab.png)
 </section>
 
 <section id="Salt-Usage-Tab" markdown="1">
@@ -69,7 +69,7 @@ This tab allows to view individual Driver statistics by searching for a specific
 
 This tab allows to filter Salt Usage statistics by Depot and Phase. 
 
-![Screenshot 2021-03-04 144742](/image/portal/salt-usage-tab.png)
+![Salt Usage Tab](/images/soc/soc-active-storm-log-report/salt-usage-tab.png)
 </section>
 
 <section id="Previous-Event-Reports" markdown="1">
@@ -77,7 +77,7 @@ This tab allows to filter Salt Usage statistics by Depot and Phase.
 
 To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
 
-![Screenshot 2021-03-04 144808](/image/portal/previous-event-reports.png)
+![Previous Event Reports](/images/soc/soc-active-storm-log-report/previous-event-reports.png)
 </section>
 </section>
 </section>
