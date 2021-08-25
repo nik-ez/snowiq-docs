@@ -190,13 +190,32 @@ body::-webkit-scrollbar-track {
 
 // images and iframe videos in main content
 .main img, iframe {
-  border: 1px solid #0000003a;   
+  border: 1px solid $border-color;   
 }
 
-.main img {
-  @include mq(sm) {
-    min-width:300px;
-  }
+// images with class width-xl
+.main img.width-xl {
+  width:750px;
+}
+
+// images with class width-lg
+.main img.width-lg {
+  width:600px;
+}
+
+// images with class width-md
+.main img.width-md {
+  width:450px;
+}
+
+// images with class width-sm
+.main img.width-sm {
+  width:325px;
+}
+
+// images with class width-xs
+.main img.width-xs {
+  width:275px;
 }
 
 // iframe (YT video)

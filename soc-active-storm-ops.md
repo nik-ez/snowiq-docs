@@ -23,7 +23,7 @@ The Map Monitoring view is the first page that users see when logging in, which 
   * A panel to the left of the map with two tabs for Routes and their current status and Drivers and their status
   * A set of filters above the map that allow to narrow or expand what is displayed on the map
 
-  ![Screenshot 2021-03-04 130851](/image/portal/map-monitoring-view.png)  
+  ![Map Monitoring View](/images/soc/soc-active-storm-ops/map-monitoring-view.png)  
 
 <section id="Filters" markdown="1">
 ### Filters
@@ -40,7 +40,7 @@ The Route Status filter allows users to view any routes set to a specific status
   * Completed - The route has had its assignment(s) completed by assigned driver(s) or the inspector/supervisor manually set the route to 'Completed' 
   * Inspected - The route has had its assignment verified and finalized by an inspector
 
-![Screenshot 2021-03-04 130914](/image/portal/route-status-filter.png)  
+![Route Status Filter](/images/soc/soc-active-storm-ops/route-status-filter.png)  
 </section>
 
 <section id="Priority" markdown="1">
@@ -54,7 +54,7 @@ Residential (Orange - neighborhood and Blue - primary) – These routes are for 
 
 Route segments (map layer). Routes are represented by different type of route segments: Emergency - Red, Primary - Blue, Neighborhood - Orange
 
-![Screenshot 2021-03-04 130935](/image/portal/priority-filter.png) 
+![Priority Filter](/images/soc/soc-active-storm-ops/priority-filter.png) 
 </section>
 
 <section id="Depot" markdown="1">
@@ -62,7 +62,7 @@ Route segments (map layer). Routes are represented by different type of route se
 
 The Depot filter allows users to select a depot within the county which narrows down what drivers and routes are displayed on the map and on the tabs to the left of the map.
 
-![Screenshot 2021-03-04 130957](/image/portal/depot.png) 
+![Depot](/images/soc/soc-active-storm-ops/depot.png) 
 </section>
 </section>
 </section>
@@ -72,7 +72,7 @@ The Depot filter allows users to select a depot within the county which narrows 
 
 The Routes tab located to the left of the map, as seen below, displays a list of routes with their corresponding route name/number and a status indicator (color coded – see markers), the total number of miles on the route, and the percentage of completion if there is an active assignment. Applying Filters above the map will filter the routes on this tab as well. Clicking on any of the route labels within the tab focuses on that single route on the map.
 
-![Screenshot 2021-03-04 131025](/image/portal/routes-tab.png)
+![Routes Tab](/images/soc/soc-active-storm-ops/routes-tab.png)
 </section>
 
 <section id="Drivers-Tab" markdown="1">
@@ -80,18 +80,18 @@ The Routes tab located to the left of the map, as seen below, displays a list of
 
 The Drivers tab to the right of the Routes tab, as seen below, displays a list of Drivers with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Driver from the list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
 
-![Screenshot 2021-03-04 131047](/image/portal/drivers-tab.png) 
+![Drivers Tab](/images/soc/soc-active-storm-ops/drivers-tab.png) 
 
 Clicking on the Blue arrow to the right of the Driver name produces the Driver's Profile panel, as seen below, with even more details.
 
-![Screenshot 2021-03-04 131111](/image/portal/driver-profile-panel.png)
+![Driver Profile Panel](/images/soc/soc-active-storm-ops/driver-profile-panel.png)
 </section>
 
 <section id="Markers" markdown="1">
 ## Markers
 
-![Screenshot 2021-03-04 131133](/image/portal/markers.png)
-![Screenshot 2021-03-04 131156](/image/portal/markers1.png)
+![Markers](/images/soc/soc-active-storm-ops/markers.png){: .width-xl}
+![Markers1](/images/soc/soc-active-storm-ops/markers1.png){: .width-xl}
 </section>
 
 <section id="Clusters" markdown="1">
