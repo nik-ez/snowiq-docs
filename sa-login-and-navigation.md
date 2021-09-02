@@ -5,7 +5,7 @@ author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
-nav_order: 1
+nav_order: 2
 platform: true
 comments: true
 ---
