@@ -69,7 +69,7 @@ body::-webkit-scrollbar-track {
   color: #FFFFFF;
   padding-top: $sp-4;
   padding-bottom: $sp-4;
-  font-size: 18px !important;
+  font-size: 20px !important;
 }
 
 // site navigation located in left side-bar
@@ -232,10 +232,6 @@ iframe {
     height:270px;
   }
   @include mq(md) {
-    width:510px;
-    height:287px;
-  }
-  @include mq(lg) {
     width:600px;
     height:340px;
   }
@@ -259,6 +255,32 @@ iframe {
     display:block;
   }
 }
+
+
+// NEW and UPDATED superscripts
+// Add by adding <sup class="new/updated>NEW/UPDATED</sup> to title in yaml frontmatter and headings
+
+// superscripts in breadcrumb navigation
+.breadcrumb-nav sup {
+  display:none;
+}
+
+// "updated" superscripts
+sup.updated {
+  color:blue;
+  font-size:55%;
+  top: -0.62em;
+  font-weight:bolder;
+}
+
+// "new" superscripts
+sup.new {
+  color:red;
+  font-size:55%;
+  top: -0.62em;
+  font-weight:bolder;
+}
+
 
 
 
