@@ -14,13 +14,13 @@ comments: true
 
 The Drivers panel displays a list of drivers active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details](#Driver-Details)
 
-<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-android.png" class="android"/>
-<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-ios.png" class="ios"/>
+<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-android.png" class="android" data-lightbox="1" />
+<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-ios.png" class="ios" data-lightbox="2" />
 
 Pressing on the driver marker on the map (the snowplow icon) produces a prompt on the map with additional driver details, as seen below. Pressing on the name in the prompt takes the user to the **Driver Details panel**
 
-<img src="images/supervisor/sa-drivers-tab-view/drivers-tab1-android.png" class="android"/>
-<img src="images/supervisor/sa-drivers-tab-view/drivers-tab1-ios.png" class="ios"/>
+<img src="images/supervisor/sa-drivers-tab-view/drivers-tab1-android.png" class="android" data-lightbox="3" />
+<img src="images/supervisor/sa-drivers-tab-view/drivers-tab1-ios.png" class="ios" data-lightbox="4" />
 
 <section id="Drivers-Filters" markdown="1">
 ## Drivers Filters
@@ -61,12 +61,12 @@ The Driver Details panel focuses on one selected driver both on the map and on t
 1. 'Pause' (or 'Resume' not shown) an Active Assignment, which would notify the Driver in the Driver App that their Assignment has been paused.  
 1. 'Add Task' to the selected Driver, which would notify the Driver in the Driver App. 
 
-<img src="images/supervisor/sa-drivers-tab-view/driver-details-android.png" class="android"/>
-<img src="images/supervisor/sa-drivers-tab-view/driver-details-ios.png" class="ios"/>
+<img src="images/supervisor/sa-drivers-tab-view/driver-details-android.png" class="android" data-lightbox="5" />
+<img src="images/supervisor/sa-drivers-tab-view/driver-details-ios.png" class="ios" data-lightbox="6" />
 
 Clicking on the 'i' (information) icon produces the 'Detail information' profile page of the driver with the driver's contact information, as seen below:
 
-<img src="images/supervisor/sa-drivers-tab-view/driver-details1-android.png" class="android"/>
-<img src="images/supervisor/sa-drivers-tab-view/driver-details1-ios.png" class="ios"/>
+<img src="images/supervisor/sa-drivers-tab-view/driver-details1-android.png" class="android" data-lightbox="7" />
+<img src="images/supervisor/sa-drivers-tab-view/driver-details1-ios.png" class="ios" data-lightbox="8" />
 </section>
 </section>
