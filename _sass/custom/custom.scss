@@ -255,3 +255,28 @@ iframe {
     display:block;
   }
 }
+
+
+// NEW and UPDATED superscripts
+// Add by adding <sup class="new/updated>NEW/UPDATED</sup> to title in yaml frontmatter and headings
+
+// superscripts in breadcrumb navigation
+.breadcrumb-nav sup {
+  display:none;
+}
+
+// "updated" superscripts
+sup.updated {
+  color:blue;
+  font-size:55%;
+  top: -0.62em;
+  font-weight:bolder;
+}
+
+// "new" superscripts
+sup.new {
+  color:red;
+  font-size:55%;
+  top: -0.62em;
+  font-weight:bolder;
+}
