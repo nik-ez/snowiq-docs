@@ -4,8 +4,8 @@ title: Terms of Service
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: SNOWiQ Overview
-nav_order: 3
+parent: Legal
+nav_order: 1
 platform: false
 ---
 <section id="SnowIQ-terms-of-service" markdown="1">
