@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Driver App
+title: Legal
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
