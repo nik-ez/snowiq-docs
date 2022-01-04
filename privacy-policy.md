@@ -4,7 +4,7 @@ title: Privacy Policy
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: SNOWiQ Overview
+parent: Legal
 nav_order: 2
 platform: false
 ---
