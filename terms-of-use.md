@@ -32,7 +32,7 @@ I understand that use of SNOWiQ App may be hazardous, and I may be exposed to in
 
 <section id="assumptions-of-the-risks" markdown="1">
 
-## ASSUMPTION OF THE RISKS:  
+## ASSUMPTION OF THE RISKS  
 
 User hereby freely assume the inherent risks as well as any other risks not listed that are part of the use of SNOWiQ App, and any harm, injury, illness, or loss that may occur to me or my property as a result of my use of the SNOWiQ App. 
 
