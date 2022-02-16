@@ -13,7 +13,7 @@ comments: true
 # Login and Navigation
 
 <section id="Login" markdown="1">
-## Login
+## Login Adam's first edits in Document
 
 The login screen below allows Supervisor users to enter into
 the SNOWiQ Supervisor Application. Click the 'Login' button
