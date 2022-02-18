@@ -47,5 +47,8 @@ Tap the app icon to open the app. Upon opening the app, you will be asked for pe
 <img src="images/driver/da-installing-drivers-app/app-permissions-android2.png" class="android width-sm" data-lightbox="7" />
 <img src="images/driver/da-installing-drivers-app/app-permissions-android3.png" class="android width-sm" data-lightbox="8" />
 <img src="images/driver/da-installing-drivers-app/app-permissions-android4.png" class="android width-sm" data-lightbox="9" />
+<img src="images/driver/da-installing-drivers-app/app-permissions-android5.png" class="android width-sm" data-lightbox="10" />
+<img src="images/driver/da-installing-drivers-app/app-permissions-android6.png" class="android width-sm" data-lightbox="11" />
+<img src="images/driver/da-installing-drivers-app/app-permissions-android7.png" class="android width-sm" data-lightbox="12" />
 </section>
 </section>
