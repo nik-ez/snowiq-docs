@@ -146,8 +146,10 @@ Once a Route has all its assignments completed, a Supervisor needs to change the
 <section id="Changing-Driver-Status" markdown="1">
 ### Changing Driver Status
 
+Supervisor can change status of contractor drivers from Logged On to Stand By. 
+
 <section id="Assigning-Drivers-to-Tickets" markdown="1">
-#### Assigning Drivers to Tickets
+### Assigning Drivers to Tickets
 
 A Supervisor can assign an existing ticket to a Driver, by following the steps below:
 
@@ -173,7 +175,7 @@ This will remove the 'New' tag from the ticket on the ticket list and change the
 </section>
 
 <section id="Pausing-or-Resuming-Drivers" markdown="1">
-#### Pausing or Resuming Drivers
+### Pausing or Resuming Drivers
 
 A Supervisor can pause an active Assignment that a Driver is working on by following the steps below: (the reasons to pause: refil salt or go to gas station to document that no work is being performed on the route – no breadcrumbs are accumulated) 
 
