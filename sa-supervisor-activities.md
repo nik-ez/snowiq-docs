@@ -146,7 +146,8 @@ Once a Route has all its assignments completed, a Supervisor needs to change the
 <section id="Changing-Driver-Status" markdown="1">
 ### Changing Driver Status
 
-Supervisor can change status of contractor drivers from Logged On to Stand By. 
+Supervisor can change status of a contractor driver.
+<img src="images/supervisor/sa-supervisor-activities/change-driver-status-ios.png" class="ios" data-lightbox="21" /> 
 
 <section id="Assigning-Drivers-to-Tickets" markdown="1">
 ### Assigning Drivers to Tickets
