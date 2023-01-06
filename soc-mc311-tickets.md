@@ -91,7 +91,7 @@ In order for the ticket to be worked on, it must go through a sequence of steps,
 
 ![Sending Ticket](/images/soc/soc-mc311-tickets/sending-ticket.png){: data-lightbox="4"}
 
-* Once the ticket is sent, the Supervisor will continue through the SNOWiQ iPad Supervisor App to assign drivers to a ticket.The process can be seen [here](https://confluence.eastbanctech.com/display/Snow/SA+-+Supervisor+Activities#SASupervisorActivities-AssigningDriverstoTicket
+* Once the ticket is sent, the Supervisor will continue through the SNOWiQ iPad Supervisor App to assign drivers to a ticket.The process can be seen [here](https://confluence.eastbanctech.com/display/Snow/SA+-+Supervisor+Activities#SASupervisorActivities-AssigningDriverstoTickets)
 </section>
 
 <section id="Closing-Tickets" markdown="1">
