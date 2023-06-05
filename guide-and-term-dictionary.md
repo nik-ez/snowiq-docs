@@ -137,6 +137,24 @@ See ‘Driver’ Definition under the ‘Roles’ section above. When logged int
 </section>
 </section>
 
+
+
+
+<section id="Truck-1" markdown="1">
+### Truck
+
+Truck is a heavy vehicle equipment that has its profile in the system. All Trucks profiles are created by Administrators and Supervisors and stored in the Truck Management module. Trucks have different statuses.
+
+<section id="Truck-Status" markdown="1">
+#### Truck Status
+  * Active –  Truck successfully passed inspection and has been certified in the system.
+  * Inactive – Truck has been uncertified because of inspection fail.
+  * in Rewiew – Contractor's truck has been created and waiting for the certification by the contractor manager.
+</section>
+</section>
+
+
+
 <section id="Route" markdown="1">
 ### Route
 
