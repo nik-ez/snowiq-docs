@@ -24,7 +24,6 @@ Once logged into the SOC, all users will see the Map Monitoring view as seen bel
 
 **Only users assigned 'Admin' role in SNOWiQ can access the SOC web portal.**
 
-![Home Page](/images/soc/soc-login-and-navigation/home-page.png){: data-lightbox="2"}
 </section>
 
 <section id="Navigation" markdown="1">
