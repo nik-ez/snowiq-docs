@@ -29,7 +29,7 @@ SNOWiQ is a snowplow fleet management and reporting tool for municipalities, sno
 
 <section id="Storm-Operations-Center-SOC" markdown="1">
 ### Storm Operations Center (SOC)
-**Platform: Web Application**
+**Platform: Web Application** <br />
 **Audience: Storm Operations Managers and Supervisors**
 
 This application is primarily used for planning purposes by the SOC Manager to plan and create storm events, review and send 311 tickets to their respective depots, and view the current progress of all actions currently involved in the county. This application is Web-based but can be accessed on mobile devices (iPads, tablets, etc.), if needed. Old documentation refers to this web applications as Admin Portal.
@@ -37,7 +37,7 @@ This application is primarily used for planning purposes by the SOC Manager to p
 
 <section id="Supervisor-App-SA" markdown="1">
 ### Supervisor App (SA)
-**Platform: iOS and Android Tablets**
+**Platform: iOS and Android Tablets** <br />
 **Audience: Supervisors and Inspectors**
 
 This mobile application is used to create driver assignments for upcoming storm events, create address specific route assignments, view and manage driver assignment progress, and view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
@@ -45,7 +45,7 @@ This mobile application is used to create driver assignments for upcoming storm 
 
 <section id="Driver-App-DA" markdown="1">
 ### Driver App (DA)
-**Platform: iOS and Android Smartphones**
+**Platform: iOS and Android Smartphones** <br />
 **Audience: Drivers**
 
 This mobile application is accessed on plow drivers’ (contractor or county employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to "Completed" in order to move on to their next assignment.
@@ -53,7 +53,7 @@ This mobile application is accessed on plow drivers’ (contractor or county emp
 
 <section id="Resident-Portal-RP" markdown="1">
 ### Resident Portal (RP)
-**Platform: Web Site**
+**Platform: Web Site** <br />
 **Audience: Neighborhood Residents**
 
 This web site allows residents of the county to view statistics about the current storm event state and view data on the progress of different phases (salting, plowing, etc.).
@@ -135,7 +135,7 @@ A Depot is a centralized hub that manages a number of routes in the service area
 See ‘Driver’ Definition under the ‘Roles’ section above. When logged into the app, Storm Operations Managers, supervisors, and inspectors will be able to see the driver markers on an interactive map along with their current status at the time (notated by a color specified in Status below). County employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker.
 
 <section id="Driver-Statuses" markdown="1">
-#### Driver Statuses
+#### Driver Statuses:
   * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
   * Standby (Contractor Only) – is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
   * Ready – is the default status for County Drivers after logging on. For Contract Drivers, it is applied manually by their supervisor to indicate that the driver is ready to begin work on another assignment. (This status allows for calculation of payment in the Contract Driver's full rate.)
