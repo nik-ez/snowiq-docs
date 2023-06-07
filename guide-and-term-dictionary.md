@@ -171,7 +171,7 @@ Resource is a compose of Driver and Truck. Resources are managed by Administrato
   * New –  Resource just create, or imported from the previous event.
   * Checked-in – The Storm Event has started and a driver user logged in to his profile on the Driver app and confirmed a truck.
   * Released – The driver has been released from the truck.
-  * Abandoned – The driver changed a truck. Sonu resource has been created and the old one become abandoned.
+  * Abandoned – When a driver changed a truck, a New resource is created and the old one becomes Abandoned.
 </section>
 </section>
 
