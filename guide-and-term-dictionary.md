@@ -37,7 +37,7 @@ This application is primarily used for planning purposes by the SOC Manager to p
 
 <section id="Supervisor-App-SA" markdown="1">
 ### Supervisor App (SA)
-**Platform: iOS and Android Tablets** <br />
+**Platform: iPad and Android Tablets** <br />
 **Audience: Supervisors and Inspectors**
 
 This mobile application is used to create driver assignments for upcoming storm events, create address specific route assignments, view and manage driver assignment progress, and view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
