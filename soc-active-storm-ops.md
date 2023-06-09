@@ -49,13 +49,13 @@ The Inspectors tab contains a list of all the inspectors and the list can be fil
 </section>
 
 <section id="Filters" markdown="1">
-### 4. Filters
+## 4. Filters
 
 Using the filters at the top of the Map Monitoring view allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different priorities, and routes/drivers that belong to a specific depot. Below are the filters and their options:
 </section>
 
 <section id="Map-Legend" markdown="1">
-### 5. Map Legend
+## 5. Map Legend
 
 Click on the arrow in the lower part of the map opens the slider with map legend where the user can turn off/on boundaries and segments as well as different markers to display them on the map.
 </section>
