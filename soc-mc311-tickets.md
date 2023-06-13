@@ -103,13 +103,8 @@ An Admin user can manually close the ticket if the ticket is deemed to be invali
 * Click the blue 'Close' button (List View – located all the way on the right of the ticket; Map View – in the popup details for the ticket), as shown below.
 * Click 'Yes' on the validation popup.
 
-![Closing Ticket](/images/soc/soc-mc311-tickets/closing-ticket.png){: data-lightbox="5-group"}
-
-![Closing Ticket](/images/soc/soc-mc311-tickets/closing-ticket1.png){: .width-sm}{: data-lightbox="5-group"}
-
 If the status of the ticket is 'Assigned' or 'In Progress' a warining prompt will display as shown below:
 
-![Closing Ticket2](/images/soc/soc-mc311-tickets/closing-ticket2.png){: .width-md}{: data-lightbox="6"}
 </section>
 
 <section id="Creating-Emergency-Ticket-Requests" markdown="1">
@@ -129,11 +124,7 @@ An Admin user can manually create an Emergency Ticket by following the steps bel
 
 * Click on the marker and the system will display the following prompt.
 
-![Emergency Ticket2](/images/soc/soc-mc311-tickets/emergency-ticket2.png){: .width-md}{: data-lightbox="9"}
-
 * Enter value in the Notes field and select a Supervisor to send it to.
-
-![Emergency Ticket3](/images/soc/soc-mc311-tickets/emergency-ticket3.png){: .width-md}{: data-lightbox="10"}
 
 * If the ticket was created while on the MC311 Tickets Map View, the newly created ticket is added to the list on the panel to the left with a red asterisk like an Emergency Ticket. Its status is set to 'Sent' which means the process of sending it to the Supervisor has been completed.
 </section>
