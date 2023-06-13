@@ -89,8 +89,6 @@ In order for the ticket to be worked on, it must go through a sequence of steps,
 * Click the blue 'Send' button (List View – located all the way on the right of the ticket; Map View – in the popup details for the ticket)
 * Enter value in the Note field and select a Supervisor from the dropdown and click 'Send,' as shown below.
 
-![Sending Ticket](/images/soc/soc-mc311-tickets/sending-ticket.png){: data-lightbox="4"}
-
 * Once the ticket is sent, the Supervisor will continue through the SNOWiQ iPad Supervisor App to assign drivers to a ticket. (The process can be seen here.)
 </section>
 
