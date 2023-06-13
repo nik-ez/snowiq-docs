@@ -81,11 +81,11 @@ Phases are used during a storm Event to define specific Activities that allow pr
   * On the next prompt 'Edit Driver Assignments,' click 'Add' to assign a specific Route to Drivers attached to the Depot. Routes are pre-populated based on the selected Depot from the previous step. Select multiple Drivers where appropriate.
     * If a Route Assignment may require several passes of the same activity, then check the 'Multi-Pass' box. Routes can be filtered by Emergency or Residential.
 
-    ![Edit Driver Assignments](/images/soc/soc-event-management/edit-driver-assignments.png){: .width-md}{: data-lightbox="8"}
+    ![Edit Driver Assignments](/images/soc/soc-event-management/edit-driver-assignments.png){: data-lightbox="8"}
 
   * Once all Assignments are added, click 'Save Phase' to create the Phase in the Phase Management table.
 
-    ![Edit Driver Assignments1](/images/soc/soc-event-management/edit-driver-assignments1.png){: .width-md}{: data-lightbox="9"}
+    ![Edit Driver Assignments1](/images/soc/soc-event-management/edit-driver-assignments1.png){: data-lightbox="9"}
 
   * This will navigate back to Phase Management page, where the newly created Phase is listed with the status 'New.' The following Phase management options are available: edit the Phase details (pencil icon), edit driver assignments (snow plow icon), activate the phase (play icon), and delete a phase (X icon).
 
