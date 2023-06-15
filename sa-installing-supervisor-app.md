@@ -11,13 +11,13 @@ comments: true
 ---
 
 <section id="Installing-Supervisor-App---Android" markdown="1" class="content-android">
-# Installing Supervisor App - Android
+# Installing Supervisor App - Android Tablet
 The Latest version of the SnowIQ Supervisor App for Android tablets is available for download on the <a href="https://play.google.com/store/apps/details?id=com.eastbanctech.transitiq.snowtrax.console">Google Play Store</a>.
 
 </section>
 
 <section id="Installing-Supervisor-App" markdown="1" class="content-ios">
-# Installing Supervisor App 
+# Installing Supervisor App - iPad
 
 The Latest version of the SnowIQ Supervisor App for iPads is available for download on the <a href="https://apps.apple.com/us/app/snowiq-supervisor/id1537419881">Apple App Store</a>.
 
