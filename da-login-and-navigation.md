@@ -19,12 +19,7 @@ The login screen below allows Driver users to enter the SNOWiQ Driver Applicatio
 <img src="images/driver/da-login-and-navigation/login-ios.png" class="ios width-sm" data-lightbox="1" />
 <img src="images/driver/da-login-and-navigation/login-android.png" class="android width-sm" data-lightbox="2" />
 
-Once logged into the DA, Drivers will see the screen below. The screens display two types of Drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square indicates a Contractor. These icons are color coded to match the status.
-
-<img src="images/driver/da-login-and-navigation/login1-ios.png" class="ios width-sm" data-lightbox="3-group" />
-<img src="images/driver/da-login-and-navigation/login1-android.png" class="android width-sm" data-lightbox="4-group" />
-<img src="images/driver/da-login-and-navigation/login2-ios.png" class="ios width-sm" data-lightbox="3-group" />
-<img src="images/driver/da-login-and-navigation/login2-android.png" class="android width-sm" data-lightbox="4-group" />
+Once logged into the DA, Drivers will see the screens display two types of Drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square indicates a Contractor. These icons are color coded to match the status.
 
 </section>
 
@@ -36,24 +31,24 @@ The diagram below highlights basic navigation controls and map elements of the D
 <img src="images/driver/da-login-and-navigation/navigation-android.png" class="android width-md" data-lightbox="6" />
 
 1. User Profile Picture, Name, and Status – pressing on the Profile picture opens the Navigation Drawer 
-2. Weather widget – automatically updated based on location
-3. Status bar  
+2. Status bar  
    * If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage completed, status of the assignment, and progress bar
 
    * If it is in between assignments or no assignments, the system will display the appropriate notification to the user. 
-5. Map – based on the TBD
-6. "My current location on the map" pin
-7. Button to create Road Hazards
-8. Navigate button to get directions to the location from Google Maps
-9. Another Driver marker in near-real time with current status color coded 
-10. Route segments assigned to the Driver to work on. Routes are represented by different types of route segments: 
+3. Message banner – Displays important information like GPS issues, etc.
+4. Map – based on the TBD
+5. Current device location on the map
+6. Button to create Road Hazards
+7. Center map to the current location
+8. 3D Map Mode
+9. Route segments assigned to the Driver to work on. Routes are represented by different types of route segments: 
     * Emergency - red
     * Primary - blue
     * Neighborhood - orange
-  
-12. Breadcrumbs (green colored) appear in near-real time over the Route that the Driver has worked on already 
-13. Road hazard marker
-14. Button "Find my location on the map"
+    * Breadcrumbs (green colored) appear in near-real time over the Route that the Driver has worked on already 
+10. Road hazard marker
+11. Navigate button to get directions to the assignment from Google/Apple Maps
+12. Notifications screen
 
 <section id="Navigation-Drawer" markdown="1">
 ### Navigation Drawer
@@ -94,12 +89,9 @@ A user can press on 'Profile' to edit their name, phone number, and User Picture
 <img src="images/driver/da-login-and-navigation/profile-android.png" class="android width-sm" data-lightbox="12" />
 </section>
 
-<section id="Salt-Management" markdown="1">
-### Salt Management
-A Driver user can press on 'Salt Management' to record how much salt was loaded and returned by pressing 'Add Salt Usage Info.' The historical usage is saved in the list, as seen below. 
-
-<img src="images/driver/da-login-and-navigation/salt-management-ios.png" class="ios width-sm" data-lightbox="13" />
-<img src="images/driver/da-login-and-navigation/salt-management-android.png" class="android width-sm" data-lightbox="14" />
+<section id="GPS Widget" markdown="1">
+### GPS Widget
+Screen to verify your location in calibrate GPS on the device.
 </section>
 
 <section id="About" markdown="1">

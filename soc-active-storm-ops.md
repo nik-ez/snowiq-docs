@@ -25,66 +25,39 @@ The Map Monitoring view is the first page that users see when logging in, which 
 
   ![Map Monitoring View](/images/soc/soc-active-storm-ops/map-monitoring-view.png){: data-lightbox="1"}
 
-<section id="Filters" markdown="1">
-### Filters
-
-Using the filters at the top of the Map Monitoring view allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different priorities, and routes/drivers that belong to a specific depot. Below are the filters and their options:
-
-<section id="Route-Status" markdown="1">
-#### Route Status
-
-The Route Status filter allows users to view any routes set to a specific status during an assignment.
-
-  * Unassigned - When there are no assignments created for the route
-  * In Progress - When a route has at least one assignment attached to it that hasn't been completed yet
-  * Completed - The route has had its assignment(s) completed by assigned driver(s) or the inspector/supervisor manually set the route to 'Completed' 
-  * Inspected - The route has had its assignment verified and finalized by an inspector
-
-![Route Status Filter](/images/soc/soc-active-storm-ops/route-status-filter.png){: data-lightbox="2"}
-</section>
-
-<section id="Priority" markdown="1">
-#### Priority
-
-The Priority filter allows users to view only specific route details and segments based on their priority. The route segments are displayed as color coded lines on the map.
-
-Emergency (Red) – These routes have priority over Residential routes. When selected in an assignment, it must be worked on first. 
-
-Residential (Orange - neighborhood and Blue - primary) – These routes are for all route boundaries not included in the emergency selection.
-
-Route segments (map layer). Routes are represented by different type of route segments: Emergency - Red, Primary - Blue, Neighborhood - Orange
-
-![Priority Filter](/images/soc/soc-active-storm-ops/priority-filter.png){: data-lightbox="3"}
-</section>
-
-<section id="Depot" markdown="1">
-#### Depot
-
-The Depot filter allows users to select a depot within the county which narrows down what drivers and routes are displayed on the map and on the tabs to the left of the map.
-
-![Depot](/images/soc/soc-active-storm-ops/depot.png){: data-lightbox="4"}
-</section>
-</section>
-</section>
-
 <section id="Routes-Tab" markdown="1">
-## Routes Tab
+## 1. Routes Tab
 
 The Routes tab located to the left of the map, as seen below, displays a list of routes with their corresponding route name/number and a status indicator (color coded – see markers), the total number of miles on the route, and the percentage of completion if there is an active assignment. Applying Filters above the map will filter the routes on this tab as well. Clicking on any of the route labels within the tab focuses on that single route on the map.
 
-![Routes Tab](/images/soc/soc-active-storm-ops/routes-tab.png){: data-lightbox="5"}
 </section>
 
-<section id="Drivers-Tab" markdown="1">
-## Drivers Tab
 
-The Drivers tab to the right of the Routes tab, as seen below, displays a list of Drivers with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Driver from the list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
+<section id="Resources-Tab" markdown="1">
+## 2. Resources Tab
 
-![Drivers Tab](/images/soc/soc-active-storm-ops/drivers-tab.png){: data-lightbox="6"}
+The Resources tab to the right of the Routes tab, as seen below, displays a list of Resources with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Resource from the list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
 
-Clicking on the Blue arrow to the right of the Driver name produces the Driver's Profile panel, as seen below, with even more details.
+Clicking on the Blue arrow to the right of the Driver name produces the Driver's Profile panel, with even more details.
 
-![Driver Profile Panel](/images/soc/soc-active-storm-ops/driver-profile-panel.png){: data-lightbox="7"}
+</section>
+
+<section id="Resources-Tab" markdown="1">
+## 3. Inspectors Tab
+
+The Inspectors tab contains a list of all the inspectors and the list can be filtered.
+</section>
+
+<section id="Filters" markdown="1">
+## 4. Filters
+
+Using the filters at the top of the Map Monitoring view allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different priorities, and routes/drivers that belong to a specific depot. Below are the filters and their options:
+</section>
+
+<section id="Map-Legend" markdown="1">
+## 5. Map Legend
+
+Click on the arrow in the lower part of the map opens the slider with map legend where the user can turn off/on boundaries and segments as well as different markers to display them on the map.
 </section>
 
 <section id="Markers" markdown="1">

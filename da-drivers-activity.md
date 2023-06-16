@@ -14,7 +14,7 @@ comments: true
 # Driver's Activity
 
 <section id="Assignments" markdown="1">
-## Assignments
+## Driver's Assignments
 
 <section id="Accepting-and-Working-Assignments" markdown="1">
 ### Accepting and Working Assignments
@@ -46,24 +46,14 @@ This removes the assignment from the Status bar and also moves it from Active As
 If a Driver receives an Assignment with Multi-pass toggled on, it will be indicated in the notification. Once the Driver completes a pass, they will press 'Complete Pass' in the Navigation drawer and will await further instructions from the supervisor as specified in the status bar as seen below. 
   - If a Supervisor chooses another pass for this assignment, the Driver will receive the following notification to proceed work on the multi-pass assignment until completed with the pass and repeat the steps as specified above.
 
-<img src="images/driver/da-drivers-activity/completing-multi-pass-ios.png" class="ios width-sm" data-lightbox="7" />
-<img src="images/driver/da-drivers-activity/completing-multi-pass-android.png" class="android width-sm" data-lightbox="8" />
-
   - If a Supervisor decides that no more passes are needed, the Assignment will be removed from the Driver's Active Assignments into the 'History' tab on the 'Assignments' panel. The status bar will be updated to await further instructions. 
 
-<img src="images/driver/da-drivers-activity/completing-multi-pass1-ios.png" class="ios width-sm" data-lightbox="9-group" />
-<img src="images/driver/da-drivers-activity/completing-multi-pass1-android.png" class="android width-sm" data-lightbox="10-group" />
-<img src="images/driver/da-drivers-activity/completing-multi-pass2-ios.png" class="ios width-sm" data-lightbox="9-group" />
-<img src="images/driver/da-drivers-activity/completing-multi-pass2-android.png" class="android width-sm" data-lightbox="10-group" />
 </section>
 
 
 <section id="PausedResumed-Assignment" markdown="1">
 ### Paused/Resumed Assignment
 When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and the status bar is updated, as shown below. Once the Supervisor resumes the Driver, the previous Assignment is started again and the status returns to 'In Service.'
-
-<img src="images/driver/da-drivers-activity/paused-resumed-assignment-ios.png" class="ios width-sm" data-lightbox="11" />
-<img src="images/driver/da-drivers-activity/paused-resumed-assignment-android.png" class="android width-sm" data-lightbox="12" />
 
 </section>
 </section>
