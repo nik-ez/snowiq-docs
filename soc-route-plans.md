@@ -17,29 +17,31 @@ On the Route Plans page, an Admin user can view the currently used geo-location 
 
 ![Route Plans](/images/soc/soc-route-plans/route-plans.png){: data-lightbox="1"}
 
-<section id="Uploading-Route-Plans" markdown="1">
-## Uploading Route Plans
+<section id="Import-Route-Plans" markdown="1">
+## Import Route Plans
 
 An Admin can upload the geo-location data by following the steps below:
 
-* Click the orange 'Upload Plan Files' at the top of the Route Plans page.
+* Click the orange 'Import Plan Files' at the top of the Route Plans page.
 * The system will prompt the following:
 
-![Uploading Route Plans](/images/soc/soc-route-plans/uploading-route-plans.png){: data-lightbox="2"}
-
 * Select the Depot the geo-location data belong to specify the routes for that depot or overwrite the previous route plan.
-* Click 'Browse' to select the appropriate file for each individual section.
-* Select the file.
-* Click 'Upload'.
-* Once the upload is complete, the  Admin will be able to review the depot in the Route Plans list to see if the new Route Plan upload is Active.
+* Click 'Import'
+* Once the upload is complete, the  Admin will be able to review the depot in the Route Plans list to see if the new Route Plan upload is New.
 </section>
 
 <section id="Viewing-Archived-Routes" markdown="1">
 ## Viewing Archived Routes
 
-Route Plans are automatically archived once new Route Plan files are uploaded. An Admin can view all the previous Route Plan versions and their upload timestamps by clicking on the name of the Depot in bold (below 'Gaithersburg East' was clicked and the accordion-style list expanded to show the history and the previously archived files). Do NOT click the blue x marker next to the Depot name.
-
-![Archived Routes](/images/soc/soc-route-plans/archived-routes.png){: data-lightbox="3"}
+Route Plans are automatically archived once new Route Plan files are uploaded. An Admin can view all the previous Route Plan versions and their upload timestamps by clicking on the name of the Depot in bold (below 'Gaithersburg East' was clicked and the accordion-style list expanded to show the history and the previously archived files).
 </section>
+
+<section id="Preview-Routes" markdown="1">
+## Preview Routes
+
+Click on the Preview button to preview boundaries, routes segments, coordinates and other details.
+
+![Route Plans](/images/soc/soc-route-plans/preview-route.png){: data-lightbox="1"}
+
 </section>
 

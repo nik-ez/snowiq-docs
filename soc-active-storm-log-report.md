@@ -23,10 +23,12 @@ The Active Storm Log page is an Event Log that allows Admin users a closer look 
 <section id="Previous-Event-Log" markdown="1">
 ### Previous Event Log
 
-To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
+To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above.
 
 ![Previous Event Log](/images/soc/soc-active-storm-log-report/previous-event-log.png){: data-lightbox="2"}
+
 </section>
+
 </section>
 
 <section id="Active-Storm-Report" markdown="1">
@@ -57,7 +59,7 @@ This tab allows to filter the Route Statistics by Depot, Phase, and Route Type.
 </section>
 
 <section id="Driver-Tab" markdown="1">
-### Driver Tab
+### Resource Tab
 
 This tab allows to view individual Driver statistics by searching for a specific Driver by name or ID. 
 
@@ -65,9 +67,9 @@ This tab allows to view individual Driver statistics by searching for a specific
 </section>
 
 <section id="Salt-Usage-Tab" markdown="1">
-### Salt Usage Tab
+### Material Usage Tab
 
-This tab allows to filter Salt Usage statistics by Depot and Phase. 
+This tab allows to filter Salt/Brine Usage statistics by Depot and Phase. 
 
 ![Salt Usage Tab](/images/soc/soc-active-storm-log-report/salt-usage-tab.png){: data-lightbox="7"}
 </section>
@@ -75,9 +77,10 @@ This tab allows to filter Salt Usage statistics by Depot and Phase.
 <section id="Previous-Event-Reports" markdown="1">
 ### Previous Event Reports
 
-To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
+To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above.
 
-![Previous Event Reports](/images/soc/soc-active-storm-log-report/previous-event-reports.png){: data-lightbox="8"}
+![Previous Event Log](/images/soc/soc-active-storm-log-report/previous-event-log.png){: data-lightbox="2"}
 </section>
+
 </section>
 </section>

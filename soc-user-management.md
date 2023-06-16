@@ -15,12 +15,13 @@ comments: true
 
 The User Management view allows the Admin user to view all the users currently uploaded into the system as well as upload Excel files with new users, edit individual users, and Deactivate/ Reactivate users in the system.
 
+![User Management Filters](/images/soc/soc-user-management/user-management.png){: data-lightbox="1"}
+
 <section id="Filters" markdown="1">
 ## Filters
 
 Using the filters at the top of the application allows the Admin user to narrow down the users displayed on the list. The following filters are available: User Login ID, Name, Roles (Admin, Driver, Inspector, Supervisor), Supervisor or Inspector assigned to the user, and the company the user works for. 
 
-![User Management Filters](/images/soc/soc-user-management/user-management-filters.png){: data-lightbox="1"}
 </section>
 
 <section id="Upload-Users" markdown="1">
@@ -58,6 +59,5 @@ An Admin user can edit the personal information of users after they have been up
 
 An Admin user can Deactivate users when they are no longer needed in the system or no longer needed to fulfill duties. This would remove the user from showing up in selection lists throughout the application (e.g. task assignment). To deactivate the user, locate the user and click on 'Deactivate' button (shown below) and follow with a 'Yes' to the next prompt. The user has been deactivated, and the button now says 'Reactivate' for that user. To reactivate is the same process, click on 'Reactivate', and the user is live in the system again.
 
-![Deactivating Reactivating Users](/images/soc/soc-user-management/deactivating-reactivating-users.png){: data-lightbox="4"}
 </section>
 </section>
