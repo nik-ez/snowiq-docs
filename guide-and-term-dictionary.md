@@ -30,9 +30,13 @@ SNOWiQ is a snowplow fleet management and reporting tool for municipalities, sno
 <section id="Storm-Operations-Center-SOC" markdown="1">
 ### Storm Operations Center (SOC)
 **Platform: Web Application** <br />
-**Audience: Storm Operations Managers and Supervisors**
+**Audience: Storm Operations Managers and Supervisors Contractors**
 
-This application is primarily used for planning purposes by the SOC Manager to plan and create storm events, review and send 311 tickets to their respective depots, and view the current progress of all actions currently involved in the county. This application is Web-based but can be accessed on mobile devices (iPads, tablets, etc.), if needed. Old documentation refers to this web applications as Admin Portal.
+This application is primarily used for planning purposes by the SOC Manager to plan and create storm events, review and send 311 tickets to their respective depots, and view the current progress of all actions currently involved in the county. This application is Web-based but can be accessed on mobile devices (iPads, tablets, etc.), if needed. Old documentation refers to this web application as Admin Portal.
+
+Inspectors - mng cont resorces and route assignements
+
+Contr Man - mng fleet
 </section>
 
 <section id="Supervisor-App-SA" markdown="1">
@@ -40,7 +44,7 @@ This application is primarily used for planning purposes by the SOC Manager to p
 **Platform: iPad and Android Tablets** <br />
 **Audience: Supervisors and Inspectors**
 
-This mobile application is used to create driver assignments for upcoming storm events, create address specific route assignments, view and manage driver assignment progress, and view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
+This mobile application is used to create driver assignments for active storm event, create address specific route assignments, view and manage driver assignment progress, and view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
 </section>
 
 <section id="Driver-App-DA" markdown="1">
@@ -48,7 +52,7 @@ This mobile application is used to create driver assignments for upcoming storm 
 **Platform: iOS and Android Smartphones** <br />
 **Audience: Drivers**
 
-This mobile application is accessed on plow drivers’ (contractor or county employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to "Completed" in order to move on to their next assignment.
+This mobile application is accessed on plow drivers’ (contractor or employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to "Completed" in order to move on to their next assignment.
 </section>
 
 <section id="Resident-Portal-RP" markdown="1">
@@ -64,9 +68,9 @@ This web site allows residents of the county to view statistics about the curren
 <section id="Roles-in-SNOWiQ-SOC-User-Management" markdown="1">
 ## Roles in SNOWiQ (SOC-User Management)
 <section id="Admin" markdown="1">
-### Admin
+### Storm Operations Manager
 
-The Admin's primary role is to plan upcoming storm events once storm season begins. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for drivers. They will mainly use the SNOWiQ SOC for planning and management.
+Or Admin's primary role is to plan upcoming storm events once storm season begins. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for drivers. They will mainly use the SNOWiQ SOC for planning and management.
 </section>
 
 <section id="Supervisor" markdown="1">
@@ -80,7 +84,9 @@ Supervisors are managers over specific depots (potentially more than one) and ar
 
 Inspectors are responsible for the management of assignments and ensuring the completion of those assignments by reviewing the work done by the drivers on site once the job is completed. Supervisors primarily work in the SNOWiQ Supervisor Application (SA) to manage specific routes and to review 311 Requests to create assignments for drivers.
 
-Currently Supervisors and Inspectors have the same access (both SA and SOC). The difference is primarily in who they manage (Inspectors manage Contractors, Supervisors primarily manage County Drivers, and Chief Supervisors are responsible for the whole Depot).
+Currently Supervisors and Inspectors have the same access (both SA and SOC). The difference is primarily in who they manage (Inspectors manage Contractors, Supervisors primarily manage employees, and Chief Supervisors are responsible for the whole Depot).
+
+Work with Contractor workforce
 </section>
 
 <section id="Contractor Manager" markdown="1">
