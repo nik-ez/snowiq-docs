@@ -23,12 +23,10 @@ for the application.
 <img src="images/supervisor/sa-login-and-navigation/login-android.png" class="android width-xl" data-lightbox="1" />
 <img src="images/supervisor/sa-login-and-navigation/login-ios.png" class="ios width-xl" data-lightbox="2" />
 
-Once logged into SA, users will see the Map Monitoring view as seen below.
+Once logged into SA, users will see the Map Monitoring view.
 A Supervisor assigned to a specific depot will only see routes associated
 with that depot.
 
-<img src="images/supervisor/sa-login-and-navigation/map-monitoring-view1-android.png" class="android width-xl" data-lightbox="3" />
-<img src="images/supervisor/sa-login-and-navigation/map-monitoring-view1-ios.png" class="ios width-xl" data-lightbox="4" />
 </section>
 
 <section id="Navigation" markdown="1">
@@ -85,10 +83,8 @@ Displays the current version of the app.
 <section id="Event-Log" markdown="1">
 #### Event Log
  
-The Event Log allows Supervisor users a closer look at the actions, users and timestamps of the actions for the current actice Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed the action (username or system). Actions may include creating an Assignment or activating a new Phase for a Depot.
+The Event Log allows Supervisor users a closer look at the actions, users and timestamps of the actions for the current actice Event. The log shows the time the action occurred in the system, what the action was, and who performed the action (username or system). Actions may include creating an Assignment or activating a new Phase for a Depot.
 
-<img src="images/supervisor/sa-login-and-navigation/event-log2-android.png" class="android" data-lightbox="9" />
-<img src="images/supervisor/sa-login-and-navigation/event-log2-ios.png" class="ios" data-lightbox="10" />
 </section>
 
 <section id="Map-Layers" markdown="1">
