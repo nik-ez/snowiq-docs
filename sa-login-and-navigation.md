@@ -38,26 +38,15 @@ The diagram below highlights basic navigation controls and map elements of the S
 <img src="images/supervisor/sa-login-and-navigation/navigation-ios.png" class="ios width-xl" data-lightbox="6" />
 
  
-1. Gear Icon - Navigate to the Setting Menu
-2. Tabs - Switch between the different tabs Routes/Drivers/Tickets
+1. Main Menu - Navigate to the Menu and Setting
+2. Tabs - Switch between the different tabs Routes/Resources/Tickets/Inspectors
 3. Weather widget - automatically updated based on location
 4. Filter options based on what tab is selected
-5. List of routes, drivers or tickets depending on which tab is selected (with applied filters)
-6. Map - based on the service area that is covered, with the borders and boundaries of a country (or other entity such as district, city, state, etc.), along with borders of depots within that entity
-7. "Find my location on the map" button
-8. Route marker with route number and current status color coded (Map layers)
-9. MC3111 ticket or Emergency request marker (Map layers)
-10. Route segments (Map layers). Routes are represented by different type of route segments: 
-  - Emergency - Red
-  - Primary - Blue
-  - Neighborhood - Orange
-11. Residential route boundary (Map layers)
-12. Road hazard marker
-13. Cluster of multiple markers
-14. Service area (Depot) boundary (Map layers)
+5. List of routes, Resources or tickets depending on which tab is selected (with applied filters)
+6. "Find my location on the map" button
 15. Map layer button - displays a panel to select different map layers (Marker or Segements displayed on the map)
 16. Search bar - search address on the map to create address assignments
-17. Notification banner - displays active event estimates. Pressing on the banner opens up the Event Log
+17. Storm Event banner - displays active event estimates. Pressing on the banner opens up the Event Log
 
 <section id="Main-Menu" markdown="1">
 ### Main Menu
