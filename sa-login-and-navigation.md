@@ -58,8 +58,8 @@ The diagram below highlights basic navigation controls and map elements of the S
 16. Search bar - search address on the map to create address assignments
 17. Notification banner - displays active event estimates. Pressing on the banner opens up the Event Log
 
-<section id="Settings-Menu" markdown="1">
-### Settings Menu
+<section id="Main-Menu" markdown="1">
+### Main Menu
  
 Users can navigate to the Settings Menu by pressing the 'Gear' icon as specified in the diagram above. The menu opens to the 'My Profile' page automatically. The following menu options are available:
 

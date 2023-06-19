@@ -21,17 +21,17 @@ There are three ways of creating new assignments within the SA:
 3. From the Map Monitoring view on either the Routes or Drivers
 
 <section id="Assigning-New-Drivers" markdown="1">
-### Assigning New Drivers
+### Assigning Resource to a Route
 
-A Supervisor can assign a new driver to a route, by following the steps below:
+A Supervisor can assign a new resource to a route, by following the steps below:
 
-* From 'Routes Details' panel, tap 'Assign new drivers' as shown below
+* From 'Routes Details' panel, tap 'Assign Resource' as shown below
 
  
 <img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-android.png" class="android" data-lightbox="1" />
 <img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-ios.png" class="ios" data-lightbox="2" />
 
-* In the 'Assign Drivers' dialogue complete the following:
+* In the 'Assign Resource' dialogue complete the following:
   * Select type of Activity
   * Specify whether the assignment is Single-Pass or Multi-Pass  (switch the toggle on for Multi-Pass)
   * Specify whether it is a priority task (switch the toggle on to indicate yes)
@@ -40,18 +40,15 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 
 * Tap 'Assign'
 
-<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers1-android.png" class="android" data-lightbox="3" />
-<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers1-ios.png" class="ios" data-lightbox="4" />
-
 * This will add the assignment to the Route Details with the name of the Driver and the Assignment status of 'Pending' to indicate that the Assignment has been sent to the Driver but not accepted yet. It also adds the Assignment to the Future list of Assignments for the Driver, as can be seen in the next section. It also prompts the Driver in the Driver App (DA) to accept the Assignment
 </section>
 
 <section id="Adding-Tasks" markdown="1">
-### Adding Tasks
+### Adding Task to a Resource
 
-A Supervisor can add a new task to a Driver, by preforming the following the steps below:
+A Supervisor can add a new task to a Resource, by preforming the following the steps below:
 
-* From the Driver Details panel, tap 'Add Task'
+* From the Resource Details panel, tap 'Add Task'
 
 <img src="images/supervisor/sa-supervisor-activities/adding-tasks-android.png" class="android" data-lightbox="5" />
 <img src="images/supervisor/sa-supervisor-activities/adding-tasks-ios.png" class="ios" data-lightbox="6" />
@@ -64,13 +61,8 @@ A Supervisor can add a new task to a Driver, by preforming the following the ste
   * Select the route by either searching for a route number or pick from the routes available based on the selected Depot filter Depot, which defaults to the Supervisor's Depot
 * Tap 'Assign'
 
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks1-android.png" class="android" data-lightbox="7" />
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks1-ios.png" class="ios" data-lightbox="8" />
-
 * This will add the assignment to the Future list for the Driver, as seen below, with status of 'Pending' to indicate that the assignment has been sent to the Driver but not accepted yet. The system will prompt the Driver in the Driver App (DA) to accept the Assignment
 
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks2-android.png" class="android" data-lightbox="9" />
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks2-ios.png" class="ios" data-lightbox="10" />
 </section>
 
 <section id="Creating-Address-Specific-Assignment" markdown="1">
@@ -91,9 +83,6 @@ A Supervisor can create an Assignment related to a specific address by following
   * Select the driver by either searching for a driver by name in the search bar or pick from the drivers available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Driver Type: County or Contractor
 * Tap 'Assign'
 
-<img src="images/supervisor/sa-supervisor-activities/specific-assignment1-android.png" class="android" data-lightbox="13" />
-<img src="images/supervisor/sa-supervisor-activities/specific-assignment1-ios.png" class="ios" data-lightbox="14" />
-
 * This will add the assignment
 </section>
 </section>
@@ -107,8 +96,6 @@ A multi-pass Assignment (when assignment was created, the multi-pass toggle was 
 
 If a Supervisor selects 'Option 1' the system notifies the Driver to continue working on the assignment, i.e. make another pass. With 'Option 2' the system marks the multi-pass Assignment as Completed and removes it from the Driver's Active Assignments into the History tab
 
-<img src="images/supervisor/sa-supervisor-activities/completing-multi-passes-android.png" class="android" data-lightbox="15" />
-<img src="images/supervisor/sa-supervisor-activities/completing-multi-passes-ios.png" class="ios" data-lightbox="16" />
 </section>
 
 <section id="Cancelling-Assignments" markdown="1">
@@ -124,8 +111,7 @@ Supervisor can cancel assignments following these steps:
 
 <img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-android.png" class="android" data-lightbox="17-group" />
 <img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-ios.png" class="ios" data-lightbox="18-group" />
-<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments1-android.png" class="android" data-lightbox="17-group" />
-<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments1-ios.png" class="ios" data-lightbox="18-group" />
+
 </section>
 
 <section id="Routes" markdown="1">
@@ -140,14 +126,13 @@ Once a Route has all its assignments completed, a Supervisor needs to change the
 </section>
 </section>
 
-<section id="Drivers" markdown="1">
-## Drivers
+<section id="Resource" markdown="1">
+## Resource
 
-<section id="Changing-Driver-Status" markdown="1">
-### Changing Driver Status
+<section id="Changing-Resource-Status" markdown="1">
+### Changing Resource Status
 
-Supervisor can change status of a contractor driver.
-<img src="images/supervisor/sa-supervisor-activities/change-driver-status-ios.png" class="ios" data-lightbox="21" /> 
+Supervisor can change status of a contractor resource driver.
 
 <section id="Assigning-Drivers-to-Tickets" markdown="1">
 ### Assigning Drivers to Tickets
@@ -158,25 +143,22 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
 * Select the ticket to assign
 * From 'Routes Details' panel, tap 'Assign Drivers'as shown below
 
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-android.png" class="android" data-lightbox="21" />
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-ios.png" class="ios" data-lightbox="22" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-android.png" class="android" data-lightbox="23" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-ios.png" class="ios" data-lightbox="24" />
 
-* In the 'Assign Drivers' dialogue complete the following:
+* In the 'Assign Resource' dialogue complete the following:
    * Select type of Activity
    * Specify whether it is a priority task (switch the toggle on to indicate Yes: this moves the assignment to the top of the queue of the Future Assignments of the Driver)
    * Type a note to the driver
    * Select Driver by either searching for a driver by name in the search bar or pick from the drivers available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Driver Type: County or Contractor
 * Tap 'Assign'
 
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers1-android.png" class="android" data-lightbox="23" />
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers1-ios.png" class="ios" data-lightbox="24" />
-
 This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow <img src="images/supervisor/sa-supervisor-activities/yellow-logo-ios.png" class="ios" style="min-width:18px; width:18px; border:none;" /><img src="images/supervisor/sa-supervisor-activities/yellow-logo-android.png" class="android" style="min-width:18px; width:18px; border:none;" /> to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.
 
 </section>
 
-<section id="Pausing-or-Resuming-Drivers" markdown="1">
-### Pausing or Resuming Drivers
+<section id="Pausing-or-Resuming-Resource" markdown="1">
+### Pausing or Resuming Resource
 
 A Supervisor can pause an active Assignment that a Driver is working on by following the steps below: (the reasons to pause: refil salt or go to gas station to document that no work is being performed on the route – no breadcrumbs are accumulated) 
 
@@ -184,14 +166,8 @@ When the Driver status is 'In Service', a Supervisor can pause an Active Assignm
 
 * From the Driver Details panel, tap 'Pause' and then 'Yes' on the verification prompt
 
-<img src="images/supervisor/sa-supervisor-activities/pausing-resuming-drivers-android.png" class="android" data-lightbox="25" />
-<img src="images/supervisor/sa-supervisor-activities/pausing-resuming-drivers-ios.png" class="ios" data-lightbox="26" />
-
 * The system pauses the Driver (status is changed to 'Paused') and notifies the Driver in the Driver App that their Assignment has been paused and to wait for further instructions
 * To resume the assignment, tap 'Resume' on the Driver that's been paused, as seen below
-
-<img src="images/supervisor/sa-supervisor-activities/pausing-resuming-drivers1-android.png" class="android" data-lightbox="27" />
-<img src="images/supervisor/sa-supervisor-activities/pausing-resuming-drivers1-ios.png" class="ios" data-lightbox="28" />
 
  </section>
  </section>
@@ -232,10 +208,6 @@ A Supervisor can delete an existing road hazard from the map if it doesn't exist
 
   * The system will display the following 'Road hazard info' prompt
   * Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
-
-<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards1-android.png" class="android" data-lightbox="35" />
-<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards1-ios.png" class="ios" data-lightbox="36" />
-
   * Once deleted, the marker is removed from the map for everyone
 
 </section>
