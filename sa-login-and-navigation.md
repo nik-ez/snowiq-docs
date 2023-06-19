@@ -27,8 +27,8 @@ Once logged into SA, users will see the Map Monitoring view as seen below.
 A Supervisor assigned to a specific depot will only see routes associated
 with that depot.
 
-<img src="images/supervisor/sa-login-and-navigation/map-monitoring-view1-android.png" class="android" data-lightbox="3" />
-<img src="images/supervisor/sa-login-and-navigation/map-monitoring-view1-ios.png" class="ios" data-lightbox="4" />
+<img src="images/supervisor/sa-login-and-navigation/map-monitoring-view1-android.png" class="android width-xl" data-lightbox="3" />
+<img src="images/supervisor/sa-login-and-navigation/map-monitoring-view1-ios.png" class="ios width-xl" data-lightbox="4" />
 </section>
 
 <section id="Navigation" markdown="1">
@@ -36,8 +36,8 @@ with that depot.
  
 The diagram below highlights basic navigation controls and map elements of the Supervisor App 
 
-<img src="images/supervisor/sa-login-and-navigation/navigation-android.png" class="android" data-lightbox="5" />
-<img src="images/supervisor/sa-login-and-navigation/navigation-ios.png" class="ios" data-lightbox="6" />
+<img src="images/supervisor/sa-login-and-navigation/navigation-android.png" class="android width-xl" data-lightbox="5" />
+<img src="images/supervisor/sa-login-and-navigation/navigation-ios.png" class="ios width-xl" data-lightbox="6" />
 
  
 1. Gear Icon - Navigate to the Setting Menu
@@ -66,8 +66,8 @@ The diagram below highlights basic navigation controls and map elements of the S
  
 Users can navigate to the Settings Menu by pressing the 'Gear' icon as specified in the diagram above. The menu opens to the 'My Profile' page automatically. The following menu options are available:
 
-<img src="images/supervisor/sa-login-and-navigation/settings-menu-ios.png" class="ios" data-lightbox="7" />
-<img src="images/supervisor/sa-login-and-navigation/settings-menu-android.png" class="android" data-lightbox="8" />
+<img src="images/supervisor/sa-login-and-navigation/settings-menu-ios.png" class="ios width-xl" data-lightbox="7" />
+<img src="images/supervisor/sa-login-and-navigation/settings-menu-android.png" class="android width-xl" data-lightbox="8" />
 </section>
 
 <section id="My-Profile" markdown="1">
@@ -96,8 +96,8 @@ The Event Log allows Supervisor users a closer look at the actions, users and ti
  
 A user can access the Map Layers panel by pressing the Map Layers icon on the map (stack of layers icon as shown below). By selecting the elements from the panel, a user can specify which markers or segments to be displayed on the map, subjected to filters selected in the left-hand panel.
 
-<img src="images/supervisor/sa-login-and-navigation/map-layers-android.png" class="android" data-lightbox="11" />
-<img src="images/supervisor/sa-login-and-navigation/map-layers-ios.png" class="ios" data-lightbox="12" />
+<img src="images/supervisor/sa-login-and-navigation/map-layers-android.png" class="android width-xl" data-lightbox="11" />
+<img src="images/supervisor/sa-login-and-navigation/map-layers-ios.png" class="ios width-xl" data-lightbox="12" />
 </section>
 
 <section id="Clusters" markdown="1">
