@@ -70,7 +70,8 @@ This web site allows residents of the county to view statistics about the curren
 <section id="Admin" markdown="1">
 ### Storm Operations Manager
 
-Or Admin's primary role is to plan upcoming storm events once storm season begins. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for drivers. They will mainly use the SNOWiQ SOC for planning and management.
+The Admin (or Storm Operations Manager) - this user's primary role is to plan upcoming storm events once storm season begins. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for drivers. They will mainly use the SNOWiQ SOC for planning and management.
+
 </section>
 
 <section id="Supervisor" markdown="1">
@@ -85,8 +86,7 @@ Supervisors are managers over specific depots (potentially more than one) and ar
 Inspectors are responsible for the management of assignments and ensuring the completion of those assignments by reviewing the work done by the drivers on site once the job is completed. Supervisors primarily work in the SNOWiQ Supervisor Application (SA) to manage specific routes and to review 311 Requests to create assignments for drivers.
 
 Currently Supervisors and Inspectors have the same access (both SA and SOC). The difference is primarily in who they manage (Inspectors manage Contractors, Supervisors primarily manage employees, and Chief Supervisors are responsible for the whole Depot).
-
-Work with Contractor workforce
+Work with Contractors workforce.
 </section>
 
 <section id="Contractor Manager" markdown="1">
@@ -138,26 +138,17 @@ A Depot is a centralized hub that manages a number of routes in the service area
 <section id="Driver-1" markdown="1">
 ### Driver
 
-See ‘Driver’ Definition under the ‘Roles’ section above. When logged into the app, Storm Operations Managers, supervisors, and inspectors will be able to see the driver markers on an interactive map along with their current status at the time (notated by a color specified in Status below). County employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker.
+See ‘Driver’ Definition under the ‘Roles’ section above. When logged into the app, Storm Operations Managers, supervisors, and inspectors will be able to see the driver markers on an interactive map along with their current status at the time (notated by a color specified in Status below). Employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker.
 
 <section id="Driver-Statuses" markdown="1">
-#### Driver Statuses:
-  * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
-  * Standby (Contractor Only) – is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
-  * Ready – is the default status for County Drivers after logging on. For Contract Drivers, it is applied manually by their supervisor to indicate that the driver is ready to begin work on another assignment. (This status allows for calculation of payment in the Contract Driver's full rate.)
-  * Address Assignment – is for Drivers working on an address specific assignment.
-  * In Service – is for Drivers who have accepted and started an assignment on a route.
-  * Paused – is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually.
-  * Offline – is for users that are not logged into the SNOWiQ Driver Application, drivers that are out of range of the service area (out of range), or any drivers that are not able to broadcast/receive GPS coordinates to the system (out of service).
 
-  ![Driver Statuses](/images/home/guide-and-term-dictionary/driver-status.png){: .width-lg}{: data-lightbox="1"}
 </section>
 </section>
 
 <section id="Truck-1" markdown="1">
 ### Truck
 
-Truck is a heavy vehicle equipment that has its profile in the system. All Trucks profiles are created by Administrators and Supervisors and stored in the Truck Management module. Trucks have different statuses.
+Truck is a heavy vehicle equipment that has its profile in the system. All Trucks profiles are created by Storm Operations Manager and stored in the Truck Management module. Trucks have different statuses.
 
 <section id="Truck-Statuses" markdown="1">
 #### Truck Statuses:
@@ -170,14 +161,24 @@ Truck is a heavy vehicle equipment that has its profile in the system. All Truck
 <section id="Resource-1" markdown="1">
 ### Resource
 
-Resource is a compose of Driver and Truck. Resources are managed by Administrators and Supervisors in the Storm Operation Center and Supervisor app. Resources can have different statuses depending on the Storm Event stage.
+Resource is a compose of Driver and Truck. Resources are managed by Storm Operations Manager in the Storm Operation Center and Supervisor app. Resources can have different statuses depending on the Storm Event stage.
 
 <section id="Resource-Statuses" markdown="1">
-#### Resource Statuses:
+#### Resource Check-in Statuses:
   * New –  Resource just create, or imported from the previous event.
   * Checked-in – The Storm Event has started and a driver user logged in to his profile on the Driver app and confirmed a truck.
   * Released – The driver has been released from the truck.
   * Abandoned – When a driver changed a truck, a New resource is created and the old one becomes Abandoned.
+#### Resource Service Statuses:
+  * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
+  * Standby (Contractor Only) – is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
+  * Ready – is the default status for County Drivers after logging on. For Contract Drivers, it is applied manually by their supervisor to indicate that the driver is ready to begin work on another assignment. (This status allows for calculation of payment in the Contract Driver's full rate.)
+  * Address Assignment – is for Drivers working on an address specific assignment.
+  * In Service – is for Drivers who have accepted and started an assignment on a route.
+  * Paused – is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually.
+  * Offline – is for users that are not logged into the SNOWiQ Driver Application, drivers that are out of range of the service area (out of range), or any drivers that are not able to broadcast/receive GPS coordinates to the system (out of service).
+
+  ![Resource Service Statuses](/images/home/guide-and-term-dictionary/driver-status.png){: .width-lg}{: data-lightbox="1"}
 </section>
 </section>
 
@@ -237,7 +238,7 @@ MC311 ticket requests are imported from the Montgomery County 311 system where r
 * Description - request details.
 * Ticket Types:
     * Residential Tickets - imported MC311 tickets.
-    * Emergency Tickets - requests from emergency services (EMS, Fire Dept) or address specific requests created by an Admin user.
+    * Emergency Tickets - requests from emergency services (EMS, Fire Dept) or address specific requests created by a Storm Operations Manager user.
 * Address - address of the ticket request.
 * Supervisor - who the ticket has been assigned to.
 * Opened - date the ticket was opened. 
@@ -248,11 +249,11 @@ MC311 ticket requests are imported from the Montgomery County 311 system where r
 #### Ticket Status
 
 * New - The system checked that the 311 ticket is valid for assignment or a new emergency ticket was created but not sent out for assignment yet.
-* Sent - The Admin user reviewed the ticket and sent it to Supervisor App (SA) for assignment creation.
+* Sent - The Storm Operations Manager user reviewed the ticket and sent it to Supervisor App (SA) for assignment creation.
 * Assigned - The Supervisor created the Assignement in the SA and sent it to the Driver, but the work hasn't began yet.
 * In Progress - The Driver began working on the ticket assignment.
 * Closed:
-    1. An Admin user manually closes a ticket that they deem invalid or that doesn't need work
+    1. A Storm Operations Manager user manually closes a ticket that they deem invalid or that doesn't need work
     1. The system has checked the sevice request and found it invalid and set the ticket to closed
     1. The assigned driver has completed the task and marked the assignment as completed - which closes the ticket throughout all systems.
 * Pending - The system found the ticket to be invalid and is preparing to close the ticket. 
