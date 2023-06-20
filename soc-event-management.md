@@ -16,7 +16,7 @@ comments: true
 The Event Management page allows Admin users to create new storm events, edit Event details, create Phases, Activities for Depots during an event, as well as view Event Logs and Reports for each Event. 
 
 
-![Event Management](/images/soc/soc-event-management/event-management.png){: data-lightbox="1"}
+![Event Management](/images/soc/soc-event-management/event-management.png){: .width-xl}{: data-lightbox="1"}
 
 <section id="Event-Creation" markdown="1">
 ## Event Creation
@@ -52,7 +52,7 @@ Phases are used during a storm Event to define specific Activities that allow pr
 
   **Active - only 1 at a time.**
 
-  ![Phase Creation](/images/soc/soc-event-management/phase-creation.png){: data-lightbox="4"}
+  ![Phase Creation](/images/soc/soc-event-management/phase-creation.png){: .width-xl}{: data-lightbox="4"}
 
   * Once on the Phase Management page, the Admin user will see the screen below, with an already created Phase 'Monitoring.' 
 
@@ -81,11 +81,11 @@ Phases are used during a storm Event to define specific Activities that allow pr
   * On the next prompt 'Edit Driver Assignments,' click 'Add' to assign a specific Route to Drivers attached to the Depot. Routes are pre-populated based on the selected Depot from the previous step. Select multiple Drivers where appropriate.
     * If a Route Assignment may require several passes of the same activity, then check the 'Multi-Pass' box. Routes can be filtered by Emergency or Residential.
 
-    ![Edit Driver Assignments](/images/soc/soc-event-management/edit-driver-assignments.png){: data-lightbox="8"}
+    ![Edit Driver Assignments](/images/soc/soc-event-management/edit-driver-assignments.png){: .width-xl}{: data-lightbox="8"}
 
   * Once all Assignments are added, click 'Save Phase' to create the Phase in the Phase Management table.
 
-    ![Edit Driver Assignments1](/images/soc/soc-event-management/edit-driver-assignments1.png){: data-lightbox="9"}
+    ![Edit Driver Assignments1](/images/soc/soc-event-management/edit-driver-assignments1.png){: .width-xl}{: data-lightbox="9"}
 
   * This will navigate back to Phase Management page, where the newly created Phase is listed with the status 'New.' The following Phase management options are available: edit the Phase details (pencil icon), edit driver assignments (snow plow icon), activate the phase (play icon), and delete a phase (X icon).
 
@@ -100,7 +100,7 @@ Once the creation of Phases and Assignments is completed, the next step is to ac
 * Navigate back to the Event Management page.
 * Click 'Activate' as seen below. Click 'Activate' on the prompt.  
 
-  ![Event Activation](/images/soc/soc-event-management/event-activation.png){: data-lightbox="11"}
+  ![Event Activation](/images/soc/soc-event-management/event-activation.png){: .width-xl}{: data-lightbox="11"}
 
 * This step will activate the initial 'Monitoring' Phase in all of the depots. Now that the Event is Active, the next step is to click 'Phases,' which opens the Phase Management page. 
 

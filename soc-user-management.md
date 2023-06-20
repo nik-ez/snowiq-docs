@@ -15,7 +15,7 @@ comments: true
 
 The User Management view allows the Admin user to view all the users currently uploaded into the system as well as upload Excel files with new users, edit individual users, and Deactivate/ Reactivate users in the system.
 
-![User Management Filters](/images/soc/soc-user-management/user-management.png){: data-lightbox="1"}
+![User Management Filters](/images/soc/soc-user-management/user-management.png){: .width-xl}{: data-lightbox="1"}
 
 <section id="Filters" markdown="1">
 ## Filters
@@ -48,7 +48,7 @@ An Admin user can edit the personal information of users after they have been up
 * Click the 'Pencil' icon at the end of the user record.
 * The system will prompt with the following dialog box with the existing details of the user:
 
-![Edit User Info](/images/soc/soc-user-management/edit-user-info.png){: data-lightbox="3"}
+![Edit User Info](/images/soc/soc-user-management/edit-user-info.png){: .width-xl}{: data-lightbox="3"}
 
 * Make edits
 * Click 'Save Changes' to reflect them in the user record.

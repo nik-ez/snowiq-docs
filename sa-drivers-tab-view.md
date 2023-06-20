@@ -14,8 +14,8 @@ comments: true
 
 The Resources panel displays a list of resources active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details](#Driver-Details)
 
-<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-android.png" class="android" data-lightbox="1" />
-<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-ios.png" class="ios" data-lightbox="2" />
+<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-android.png" class="android width-xl" data-lightbox="1" />
+<img src="images/supervisor/sa-drivers-tab-view/drivers-tab-ios.png" class="ios width-xl" data-lightbox="2" />
 
 Pressing on the Resource marker on the map (the snowplow icon) produces a prompt on the map with additional Resource details, as seen below. Pressing on the name in the prompt takes the user to the **Resource Details panel**
 
@@ -58,12 +58,12 @@ The Resource Details panel focuses on one selected driver both on the map and on
 1. 'Pause' (or 'Resume' not shown) an Active Assignment, which would notify the Driver in the Driver App that their Assignment has been paused.  
 1. 'Add Task' to the selected Resource, which would notify the Driver in the Driver App. 
 
-<img src="images/supervisor/sa-drivers-tab-view/driver-details-android.png" class="android" data-lightbox="5" />
-<img src="images/supervisor/sa-drivers-tab-view/driver-details-ios.png" class="ios" data-lightbox="6" />
+<img src="images/supervisor/sa-drivers-tab-view/driver-details-android.png" class="android width-xl" data-lightbox="5" />
+<img src="images/supervisor/sa-drivers-tab-view/driver-details-ios.png" class="ios width-xl" data-lightbox="6" />
 
 Clicking on the 'i' (information) icon produces the 'Detail information' profile page of the Resource with the driver's contact information, as seen below:
 
-<img src="images/supervisor/sa-drivers-tab-view/driver-details1-android.png" class="android" data-lightbox="7" />
-<img src="images/supervisor/sa-drivers-tab-view/driver-details1-ios.png" class="ios" data-lightbox="8" />
+<img src="images/supervisor/sa-drivers-tab-view/driver-details1-android.png" class="android width-xl" data-lightbox="7" />
+<img src="images/supervisor/sa-drivers-tab-view/driver-details1-ios.png" class="ios width-xl" data-lightbox="8" />
 </section>
 </section>

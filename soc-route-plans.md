@@ -15,7 +15,7 @@ comments: true
 
 On the Route Plans page, an Admin user can view the currently used geo-location data for route lines and boundaries for each depot, the timestamp it was uploaded, and its current status. Additionally, the Admin can Upload Plan Files to update the data. Each event in the system is associated with a specific Route Plan version number. 
 
-![Route Plans](/images/soc/soc-route-plans/route-plans.png){: data-lightbox="1"}
+![Route Plans](/images/soc/soc-route-plans/route-plans.png){: .width-xl}{: data-lightbox="1"}
 
 <section id="Import-Route-Plans" markdown="1">
 ## Import Route Plans
@@ -41,7 +41,7 @@ Route Plans are automatically archived once new Route Plan files are uploaded. A
 
 Click on the Preview button to preview boundaries, routes segments, coordinates and other details.
 
-![Route Plans](/images/soc/soc-route-plans/preview-route.png){: data-lightbox="1"}
+![Route Plans](/images/soc/soc-route-plans/preview-route.png){: .width-xl}{: data-lightbox="1"}
 
 </section>
 
