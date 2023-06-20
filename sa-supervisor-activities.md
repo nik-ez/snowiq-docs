@@ -29,8 +29,8 @@ A Supervisor can assign a new resource to a route, by following the steps below:
 * From 'Routes Details' panel, tap 'Assign Resource' as shown below
 
  
-<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-android.png" class="android" data-lightbox="1" />
-<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-ios.png" class="ios" data-lightbox="2" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-android.png" class="android width-xl" data-lightbox="1" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-ios.png" class="ios width-xl" data-lightbox="2" />
 
 * In the 'Assign Resource' dialogue complete the following:
   * Select type of Activity
@@ -50,8 +50,8 @@ A Supervisor can add a new task to a Resource, by preforming the following the s
 
 * From the Resource Details panel, tap 'Add Task'
 
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks-android.png" class="android" data-lightbox="5" />
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks-ios.png" class="ios" data-lightbox="6" />
+<img src="images/supervisor/sa-supervisor-activities/adding-tasks-android.png" class="android width-xl" data-lightbox="5" />
+<img src="images/supervisor/sa-supervisor-activities/adding-tasks-ios.png" class="ios width-xl" data-lightbox="6" />
 
 * In the 'Create Resource Assignment' dialogue complete the following:
   * Select type of Activity
@@ -73,8 +73,8 @@ A Supervisor can create an Assignment related to a specific address by following
 
 * From the Map Monitoring view (either tab: Routes, Resources, or Tickets), tap the magnifying glass or search bar and enter the address for the assignment
 
-<img src="images/supervisor/sa-supervisor-activities/specific-assignment-android.png" class="android" data-lightbox="11" />
-<img src="images/supervisor/sa-supervisor-activities/specific-assignment-ios.png" class="ios" data-lightbox="12" />
+<img src="images/supervisor/sa-supervisor-activities/specific-assignment-android.png" class="android width-xl" data-lightbox="11" />
+<img src="images/supervisor/sa-supervisor-activities/specific-assignment-ios.png" class="ios width-xl" data-lightbox="12" />
 
 * The system will display a location marker on the map
 * Tap the marker and fill out the address specific assignment prompt, as seen below
@@ -110,8 +110,8 @@ Supervisor can cancel assignments following these steps:
 * Swipe the Assignment you want to cancel to the left
 * Tap on Yes button
 
-<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-android.png" class="android" data-lightbox="17-group" />
-<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-ios.png" class="ios" data-lightbox="18-group" />
+<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-android.png" class="android width-xl" data-lightbox="17-group" />
+<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-ios.png" class="ios width-xl" data-lightbox="18-group" />
 
 </section>
 
@@ -122,8 +122,8 @@ Supervisor can cancel assignments following these steps:
 
 Once a Route has all its assignments completed, a Supervisor needs to change the status of that route to 'Inspected' to verify that the route is finished, by navigating to the Route Details panel and pressing 'Change Status' and then pressing 'Inspected' on the prompt.
  
-<img src="images/supervisor/sa-supervisor-activities/inspecting-routes-android.png" class="android" data-lightbox="19" />
-<img src="images/supervisor/sa-supervisor-activities/inspecting-routes-ios.png" class="ios" data-lightbox="20" />
+<img src="images/supervisor/sa-supervisor-activities/inspecting-routes-android.png" class="android width-xl" data-lightbox="19" />
+<img src="images/supervisor/sa-supervisor-activities/inspecting-routes-ios.png" class="ios width-xl" data-lightbox="20" />
 </section>
 </section>
 
