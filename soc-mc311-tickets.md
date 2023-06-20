@@ -22,7 +22,7 @@ There are two ways to view the tickets: the List view and the Map View, as shown
 
 This view is a standard table that allows users to close (blue 'Close' button) or assign (blue 'Send' button) tickets to Supervisors. Additionally, there are multiple filters available to narrow down the list displayed: Service Request (SR) ID, Route Name/Number, Depot, Supervisors the ticket is assigned to, Status Indicator, and Type of Ticket. A user can also filter the tickets by the time they were opened and/or closed.  
 
-![MC311 Ticket Management](/images/soc/soc-mc311-tickets/mc311-ticket-management.png){: data-lightbox="1"}
+![MC311 Ticket Management](/images/soc/soc-mc311-tickets/mc311-ticket-management.png){: .width-xl}{: data-lightbox="1"}
 
 <section id="Ticket-Type" markdown="1">
 ### Ticket Type
@@ -71,7 +71,7 @@ This view provides a panel on the left that lists the tickets and their statuses
 
 Clicking on the blue arrow next to the ticket in the left panel or on the marker on the map produces a popup with the details of the ticket, as seen below. It also allows to either Close or Send a ticket.
 
-![Ticket Map View](/images/soc/soc-mc311-tickets/ticket-map-view.png){: data-lightbox="3"}
+![Ticket Map View](/images/soc/soc-mc311-tickets/ticket-map-view.png){: .width-xl}{: data-lightbox="3"}
 
 <section id="Clusters" markdown="1">
 ### Clusters

@@ -144,8 +144,8 @@ A Supervisor can assign an existing ticket to a Resource, by following the steps
 * Select the ticket to assign
 * From 'Routes Details' panel, tap 'Assign Resource'.
 
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-android.png" class="android" data-lightbox="23" />
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-ios.png" class="ios" data-lightbox="24" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-android.png" class="android width-xl" data-lightbox="23" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-ios.png" class="ios width-xl" data-lightbox="24" />
 
 * In the 'Assign Resource' dialogue complete the following:
    * Select type of Activity
@@ -184,8 +184,8 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 * The system will display the following 'New road hazard' prompt
 * Tap the type of road hazard from the list and tap 'Yes' to confirm the creation of a new road hazard on the next prompt
 
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards-android.png" class="android" data-lightbox="29" />
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards-ios.png" class="ios" data-lightbox="30" />
+<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards-android.png" class="android width-xl" data-lightbox="29" />
+<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards-ios.png" class="ios width-xl" data-lightbox="30" />
 
 * The system will display the hazards as either a road plate or a warning as seen below:
   * Road plates (orange stacked layes marker): permanent hazard on the road

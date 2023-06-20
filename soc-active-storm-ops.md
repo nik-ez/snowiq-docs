@@ -23,7 +23,7 @@ The Map Monitoring view is the first page that users see when logging in, which 
   * A panel to the left of the map with two tabs for Routes and their current status and Drivers and their status
   * A set of filters above the map that allow to narrow or expand what is displayed on the map
 
-  ![Map Monitoring View](/images/soc/soc-active-storm-ops/map-monitoring-view.png){: data-lightbox="1"}
+  ![Map Monitoring View](/images/soc/soc-active-storm-ops/map-monitoring-view.png){: .width-xl}{: data-lightbox="1"}
 
 <section id="Routes-Tab" markdown="1">
 ## 1. Routes Tab
