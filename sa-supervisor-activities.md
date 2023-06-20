@@ -21,6 +21,7 @@ There are three ways of creating new assignments within the SA:
 3. From the Map Monitoring view on either the Routes or Resource
 
 <section id="Assigning-New-Resources" markdown="1">
+
 ### Assigning Resource to a Route
 
 A Supervisor can assign a new resource to a route, by following the steps below:
@@ -39,9 +40,8 @@ A Supervisor can assign a new resource to a route, by following the steps below:
   * Select Resource by either searching for a driver name in the search bar or pick from the Resource available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Resource Type: County or Contractor
 
 * Tap 'Assign'
-
 * This will add the assignment to the Route Details with the name of the Driver and the Assignment status of 'Pending' to indicate that the Assignment has been sent to the Driver but not accepted yet. It also adds the Assignment to the Future list of Assignments for the Resource, as can be seen in the next section. It also prompts the Driver in the Driver App (DA) to accept the Assignment
-</section>
+
 
 <section id="Adding-Tasks" markdown="1">
 ### Adding Task to a Resource
@@ -60,6 +60,7 @@ A Supervisor can add a new task to a Resource, by preforming the following the s
   * Type a note to the driver
   * Select the route by either searching for a route number or pick from the routes available based on the selected Depot filter Depot, which defaults to the Supervisor's Depot
 * Tap 'Assign'
+
 
 * This will add the assignment to the Future list for the Driver, with status of 'Pending' to indicate that the assignment has been sent to the Driver but not accepted yet. The system will prompt the Driver in the Driver App (DA) to accept the Assignment
 
@@ -165,9 +166,8 @@ A Supervisor can pause an active Assignment that a Driver is working on by follo
 When the Resource status is 'In Service', a Supervisor can pause an Active Assignment that a Driver has accepted/ is working on or resume it after it's been paused by following the steps below:
 
 * From the Driver Details panel, tap 'Pause' and then 'Yes' on the verification prompt
-
 * The system pauses the Resource (status is changed to 'Paused') and notifies the Driver in the Driver App that their Assignment has been paused and to wait for further instructions
-* To resume the assignment, tap 'Resume' on the Resource that's been paused
+* To resume the assignment, tap 'Resume' on the Resource that's been paused.
 
  </section>
  </section>
