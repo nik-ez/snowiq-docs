@@ -20,7 +20,7 @@ The login screen below allows users to enter into the SNOWiQ Storm Operations Ce
 
 ![Portal Login](/images/soc/soc-login-and-navigation/portal-login.png){: .width-xl}{: data-lightbox="1"}
 
-Once logged into the SOC, all users will see the Map Monitoring view as seen below, which is also called the 'Active Storm Ops' page.
+Once logged into the SOC, all users will see the Map Monitoring view, which is also called the 'Active Storm Ops' page.
 
 **Only users assigned 'Admin' role in SNOWiQ can access the SOC web portal.**
 

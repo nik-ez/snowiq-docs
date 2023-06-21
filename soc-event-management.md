@@ -31,34 +31,31 @@ When a snow storm is approaching, to plan the event before it occurs (there are 
 **Note:** Because the newly created Event isn't Active yet, it can be edited or deleted. Once the Event is Active, these are no longer an option. 
 
 
-**Event Statuses**
+**Event Statuses:**
 
   * New - not activated
   * Archived - only viewable after archived
   * Active - only one active event at a time
 
-<section id="Phase-Creation-and-Management" markdown="1">
-### Phase Creation and Management
+<section id="Phase-Management" markdown="1">
+### Phase Management
 
-Phases are used during a storm Event to define specific Activities that allow proper planning of Assignments for Drivers. Once the newly created Event is on the list, as described in the previous section, the Admin user can create and manage Phases by following the steps below:
+Phases are used during a storm Event to define specific Activities that allow planning of Assignments for Rosources. Once a new Event is created, the Admin user can create and manage Phases.
 
-  * Click the blue 'Phases' button as seen below. This will navigate the user to the Phase Management page.
+![Phase Creation](/images/soc/soc-event-management/phase-creation.png){: .width-xl}{: data-lightbox="4"}
 
-  **Note:** Although 'Phases' button is available for all Events listed, an Admin user can only create and manage Phases for Events with statuses 'New'and 'Active'
+**Note:** 'Monitoring' Phase for each depot created automatically with event. 
 
-  **New - not activated.** 
+**Phase Statuses:**
+  * New - Newly created not activated Phase.
+  * Active - Manually activated Phase (event can have several active phases at the time).
+  * Completed - Manually complited by Supervisor user.
+  * Archived - Status after event archivation.
 
-  **Archived - once event archived it's just viewable.** 
+<section id="Phase-Creation" markdown="1">
+#### Phase Creation
 
-  **Active - only 1 at a time.**
-
-  ![Phase Creation](/images/soc/soc-event-management/phase-creation.png){: .width-xl}{: data-lightbox="4"}
-
-  * Once on the Phase Management page, the Admin user will see the screen below, with an already created Phase 'Monitoring.' 
-
-  **Note:** All Depots will have the Monitoring Phase created automatically. The Monitoring Phase is for Depots and their teams to plan out the remaining phases and to observe the effects of the beginning of a Storm.
-      
-  * Click the orange 'Create New Phase' button at the top right of the page as seen below. 
+![Phase Creation3](/images/soc/soc-event-management/phase-creation3.png){: .width-md}{: data-lightbox="7"}
 
 
   * Enter values in all data fields in the prompt for 'New Phase.' Click 'Next.' See below on specific fields.
@@ -76,8 +73,7 @@ Phases are used during a storm Event to define specific Activities that allow pr
 
 **Start Date and Completion Date:** Phases cannot overlap, so select the date and time of the new phase so it doesn't overlap with an already existing Phase (in this case, it would be the Monitoring Phase, but there can be more than just one existing Phase). Completion Date is an estimate in the system.
 
-   ![Phase Creation3](/images/soc/soc-event-management/phase-creation3.png){: .width-md}{: data-lightbox="7"}
-
+ 
   * On the next prompt 'Edit Driver Assignments,' click 'Add' to assign a specific Route to Drivers attached to the Depot. Routes are pre-populated based on the selected Depot from the previous step. Select multiple Drivers where appropriate.
     * If a Route Assignment may require several passes of the same activity, then check the 'Multi-Pass' box. Routes can be filtered by Emergency or Residential.
 

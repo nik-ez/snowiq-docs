@@ -70,7 +70,7 @@ This web site allows residents of the county to view statistics about the curren
 <section id="Admin" markdown="1">
 ### Storm Operations Manager
 
-The Admin (or Storm Operations Manager) - this user's primary role is to plan upcoming storm events once storm season begins. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for drivers. They will mainly use the SNOWiQ SOC for planning and management.
+The Admin (or Storm Operations Manager) - this user's primary role is to plan work on upcoming storm events. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for resources. They will mainly use the SNOWiQ SOC for planning and management.
 
 </section>
 
@@ -163,12 +163,14 @@ Truck is a heavy vehicle equipment that has its profile in the system. All Truck
 
 Resource is a compose of Driver and Truck. Resources are managed by Storm Operations Manager in the Storm Operation Center and Supervisor app. Resources can have different statuses depending on the Storm Event stage.
 
-<section id="Resource-Statuses" markdown="1">
+<section id="Resource-Checkin-Statuses" markdown="1">
 #### Resource Check-in Statuses:
   * New –  Resource just create, or imported from the previous event.
   * Checked-in – The Storm Event has started and a driver user logged in to his profile on the Driver app and confirmed a truck.
   * Released – The driver has been released from the truck.
   * Abandoned – When a driver changed a truck, a New resource is created and the old one becomes Abandoned.
+</section>
+<section id="Resource-Service-Statuses" markdown="1">
 #### Resource Service Statuses:
   * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
   * Standby (Contractor Only) – is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
@@ -246,7 +248,7 @@ MC311 ticket requests are imported from the Montgomery County 311 system where r
 * Route ID - which route is associated with the ticket.
 
 <section id="Ticket-Status" markdown="1">
-#### Ticket Status
+#### Ticket Statuses
 
 * New - The system checked that the 311 ticket is valid for assignment or a new emergency ticket was created but not sent out for assignment yet.
 * Sent - The Storm Operations Manager user reviewed the ticket and sent it to Supervisor App (SA) for assignment creation.
