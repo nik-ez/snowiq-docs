@@ -122,18 +122,4 @@ Once the Event has been completed to the Admin's specifications, the Event can b
 If there are active assignments, the system will prompt with a warning as shown below. If the user clicks 'Archive' on this prompt, the system, in addition to closing out the Event, will close out and mark as 'completed' all outstanding phases and assignments that were still in progress.
 
 </section>
-
-<section id="Event-Log" markdown="1">
-## Event Log
-
-The Event Log button, as shown below, allows users to view all actions taken during a Storm Event, wqhich includes assignment/event status changes, driver status changes, etc. More details can be found on **SOC - Active Storm Log/Report**
-
-</section>
-
-<section id="Event-Report" markdown="1">
-## Event Report
-
-The Reports button, as shown below, provides a visual representation of statistical data in a dashboard format for the selected Event. More details can be found on **SOC - Active Storm Log/Report**
-
-</section>
 </section>
