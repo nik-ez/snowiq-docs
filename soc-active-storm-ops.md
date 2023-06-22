@@ -26,7 +26,8 @@ The Map Monitoring view is the first page that users see when logging in, which 
   ![Map Monitoring View](/images/soc/soc-active-storm-ops/map-monitoring-view.png){: data-lightbox="1"}
 
 <section id="Routes-Tab" markdown="1">
-## 1. Routes Tab
+
+### 1. Routes Tab
 
 The Routes tab located to the left of the map, as seen below, displays a list of routes with their corresponding route name/number and a status indicator (color coded – see markers), the total number of miles on the route, and the percentage of completion if there is an active assignment. Applying Filters above the map will filter the routes on this tab as well. Clicking on any of the route labels within the tab focuses on that single route on the map.
 
@@ -34,7 +35,8 @@ The Routes tab located to the left of the map, as seen below, displays a list of
 
 
 <section id="Resources-Tab" markdown="1">
-## 2. Resources Tab
+
+### 2. Resources Tab
 
 The Resources tab to the right of the Routes tab, as seen below, displays a list of Resources with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Resource from the list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
 
@@ -43,25 +45,28 @@ Clicking on the Blue arrow to the right of the Driver name produces the Driver's
 </section>
 
 <section id="Resources-Tab" markdown="1">
-## 3. Inspectors Tab
+
+### 3. Inspectors Tab
 
 The Inspectors tab contains a list of all the inspectors and the list can be filtered.
 </section>
 
 <section id="Filters" markdown="1">
-## 4. Filters
+
+### 4. Filters
 
 Using the filters at the top of the Map Monitoring view allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different priorities, and routes/drivers that belong to a specific depot. Below are the filters and their options:
 </section>
 
 <section id="Map-Legend" markdown="1">
-## 5. Map Legend
+
+### 5. Map Legend
 
 Click on the arrow in the lower part of the map opens the slider with map legend where the user can turn off/on boundaries and segments as well as different markers to display them on the map.
 </section>
 
 <section id="Markers" markdown="1">
-## 6. Markers
+## Markers
 
 ### Drivers
 

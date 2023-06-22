@@ -77,7 +77,8 @@ The Admin (or Storm Operations Manager) - this user's primary role is to plan wo
 <section id="Supervisor" markdown="1">
 ### Supervisor
 
-Supervisors are managers over specific depots (potentially more than one) and are responsible for the management of phases and driver assignments. Supervisors also work with the Storm Operations Managers during storm events planning to create phases and driver assignments. Supervisors have access to the SNOWiQ SOC for planning and the SNOWiQ Supervisor Application (SA) to create assignments, stop and start phases, and review 311 tickets for assignment. Supervisors can only view routes assigned to their depot, which is automatically set to their default depot. 
+Supervisors are managers over specific depots (potentially more than one) and are responsible for the management of phases and assignments. Supervisors also work with the Storm Operations Managers during storm events planning to create phases and assignments. Supervisors have access to the SNOWiQ SOC for planning and the SNOWiQ Supervisor Application (SA) to create assignments, stop and start phases, and review tickets for assignment. Supervisors can only view routes assigned to their depot, which is automatically set to their default depot. Also Supervisors manage Contractor workforce.
+
 </section>
 
 <section id="Inspector" markdown="1">
@@ -86,7 +87,6 @@ Supervisors are managers over specific depots (potentially more than one) and ar
 Inspectors are responsible for the management of assignments and ensuring the completion of those assignments by reviewing the work done by the drivers on site once the job is completed. Supervisors primarily work in the SNOWiQ Supervisor Application (SA) to manage specific routes and to review 311 Requests to create assignments for drivers.
 
 Currently Supervisors and Inspectors have the same access (both SA and SOC). The difference is primarily in who they manage (Inspectors manage Contractors, Supervisors primarily manage employees, and Chief Supervisors are responsible for the whole Depot).
-Work with Contractors workforce.
 </section>
 
 <section id="Contractor Manager" markdown="1">
@@ -156,7 +156,7 @@ Truck is a heavy vehicle equipment that has its profile in the system. All Truck
 
 | Active | Truck successfully passed inspection and has been certified in the system. |
 | Inactive | Truck has been uncertified because of inspection fail. |
-| in Rewiew | Contractor's truck has been created and waiting for the certification by the contractor manager. |
+| In Rewiew | Contractor's truck has been created and waiting for the certification by the contractor manager. |
 
 </section>
 </section>
@@ -182,7 +182,7 @@ Resource is a compose of Driver and Truck. Resources are managed in the Storm Op
 #### Resource Service Statuses
 
 | Logged in (Contractor Only) | Contractor loggedin to the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.) |
-| Standby (Contractor Only) | is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.) |
+| StandBy (Contractor Only) | is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.) |
 | Ready | is the default status for County Drivers after logging on. For Contract Drivers, it is applied manually by their supervisor to indicate that the driver is ready to begin work on another assignment. (This status allows for calculation of payment in the Contract Driver's full rate.) |
 | In Service | is for Drivers who have accepted and started an assignment. |
 | Paused | is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually. |
