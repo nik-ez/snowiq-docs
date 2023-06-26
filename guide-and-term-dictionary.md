@@ -30,13 +30,10 @@ SNOWiQ is a snowplow fleet management and reporting tool for municipalities, sno
 <section id="Storm-Operations-Center-SOC" markdown="1">
 ### Storm Operations Center (SOC)
 **Platform: Web Application** <br />
-**Audience: Storm Operations Managers and Supervisors Contractors**
+**Audience: Storm Operations Managers, Supervisors, Inspectors and Contractor Managers**
 
 This application is primarily used for planning purposes by the SOC Manager to plan and create storm events, review and send 311 tickets to their respective depots, and view the current progress of all actions currently involved in the county. This application is Web-based but can be accessed on mobile devices (iPads, tablets, etc.), if needed. Old documentation refers to this web application as Admin Portal.
 
-Inspectors - mng cont resorces and route assignements
-
-Contr Man - mng fleet
 </section>
 
 <section id="Supervisor-App-SA" markdown="1">
@@ -84,7 +81,7 @@ Supervisors are managers over specific depots (potentially more than one) and ar
 <section id="Inspector" markdown="1">
 ### Inspector
 
-Inspectors are responsible for the management of assignments and ensuring the completion of those assignments by reviewing the work done by the drivers on site once the job is completed. Supervisors primarily work in the SNOWiQ Supervisor Application (SA) to manage specific routes and to review 311 Requests to create assignments for drivers.
+Inspectors are responsible for the management of contractor resorces, route assignements of assignments and ensuring the completion of those assignments by reviewing the work done by the drivers on site once the job is completed. Inspectors primarily work in the SNOWiQ Supervisor Application (SA).
 
 Currently Supervisors and Inspectors have the same access (both SA and SOC). The difference is primarily in who they manage (Inspectors manage Contractors, Supervisors primarily manage employees, and Chief Supervisors are responsible for the whole Depot).
 </section>
@@ -92,7 +89,8 @@ Currently Supervisors and Inspectors have the same access (both SA and SOC). The
 <section id="Contractor Manager" markdown="1">
 ### Contractor Manager
 
-Contractor Manager - is a representative person of a contractor company that helps to support Snow Storm Events on a part-time basis. The Contractor Manager has access to SOC and is responsible for providing up-to-date equipment information and confirming truck availability.
+Contractor Manager - is a representative person of a contractor company that helps to support Snow Storm Events on a part-time basis. The Contractor Manager has access to SOC and is responsible for managing contractors fleet,providing up-to-date equipment information and confirming truck availability.
+
 </section>
 
 <section id="Driver" markdown="1">
