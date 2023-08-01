@@ -1,33 +1,40 @@
 ---
 layout: page
-title: Installing Driver App
+title: Setup
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Driver App
 nav_order: 1
-platform: true
+platform: false
 comments: true
 ---
 
-<section id="Installing-Driver-App" markdown="1">
-<h1>Installing Driver App - <span class="content-android">Android</span><span class="content-ios">iOS</span></h1>
-**To see <span class="content-ios">Android</span><span class="content-android">iOS</span> specific content, click the Platform dropdown and select <span class="content-ios">Android</span><span class="content-android">iOS</span>.**
 
-<div class="content-ios">
-The Latest version of the SnowIQ Driver App for iPhone is available for download on the <a href="https://apps.apple.com/us/app/snowiq-driver/id1336056235">Apple App Store</a>.
-</div>
-<div class="content-android">
-The Latest version of the SnowIQ Driver App for Android phones is available for download on the <a href="https://play.google.com/store/apps/details?id=com.eastbanctech.transitiq.snowtrax&hl=en_US&gl=US">Google Play Store</a>.
-</div>
+## Permissions
 
-</section>
+Tap the app icon to open the app. Upon opening the app, you will be asked to grant permission to access your location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
 
-<section id="Set-up-and-Permissions" markdown="1">
-## Set-up and Permissions
+<img src="images/driver/da-installing-drivers-app/da-permissions.png" class="ios width-sm" data-lightbox="1" />
 
-Tap the app icon to open the app. Upon opening the app, you will be asked for permission to access your location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
+## Log In
 
-<img src="images/driver/da-installing-drivers-app/app-permissions-ios.png" class="ios width-sm" data-lightbox="5" />
-<img src="images/driver/da-installing-drivers-app/app-permissions-android.png" class="android width-sm" data-lightbox="6" />
-</section>
+The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
+
+<img src="images/driver/da-installing-drivers-app/da-login.png" class="ios width-sm" data-lightbox="2" />
+
+## Check-In
+
+After successfully logged in user will be asked to carefully fill out all the fields of the Check-in form.
+
+<img src="images/driver/da-installing-drivers-app/da-checkin.png" class="ios width-sm" data-lightbox="3" />
+
+After user submitted the form, a check-in request sent to a Supervisor for review.
+
+## Consent
+
+And the last, but not least step - user have to read and accept the Terms of Use and Privacy Policy.
+
+<img src="images/driver/da-installing-drivers-app/da-terms-of-use.png" class="ios width-sm" data-lightbox="3" />
+
+After you read everything, tap ACCEPT button and you will have full access to Driver App functionality.

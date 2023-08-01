@@ -18,7 +18,7 @@ The Resource Management screen accessible through the main menu of the Superviso
 
 When Resource Management screen opens, it displays list of existing resources within the current active event.
 
-Resources can be filtered oh by Depot Stste, and Type.
+Resources can be filtered by Depot State, and Type.
 
 To manage some resource, slide it's list's row to the left and tap the option.
 
@@ -36,20 +36,18 @@ When Check-in Request modal opens, you can review details and confirm/deny a dri
 
 Once a Request successfully confirmed, it is become a New resource.
 
+
 ## Shift Handover
 
+When assignments need to be moved from one resource to another user can initiate shift handover procedure.
 
-When assignments need to be moving from one resource to another user can iniciate shift handover procedure.
+Once the handover procedure is completed and assignments are moved to the new resource, previous driver automatically release.
 
-Once the handover procedure is completed and assignments are moved to the new resource, previous driver automatically release 
 
 ## Release Resources
 
+When a Driver finished his assignments, he can be released from duty.
 
-When a Driver finished his assignments, he can be rcelease from duty.
-
-Release of the driver will result in automatic logout of the driver from the Driver App.
+Release of a driver will result an automatic logout of the driver from the Driver App.
 
 Truck assigned to the driver that was released becomes available for assignment to another driver.
-
-
