@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Login and Navigation
+title: Navigation
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -9,19 +9,8 @@ nav_order: 2
 platform: true
 comments: true
 ---
-<section id="Login-and-Navigation" markdown="1">
-# Login and Navigation
 
-<section id="Login" markdown="1">
-## Login
-The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
-
-<img src="images/driver/da-login-and-navigation/login-ios.png" class="ios width-sm" data-lightbox="1" />
-<img src="images/driver/da-login-and-navigation/login-android.png" class="android width-sm" data-lightbox="2" />
-
-Once logged into the DA, Drivers will see the screens display two types of Drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square indicates a Contractor. These icons are color coded to match the status.
-
-</section>
+After successfully setup the Driver Application user user will have full access to Driver App functionality.
 
 <section id="Navigation" markdown="1">
 ## Navigation
@@ -91,7 +80,7 @@ A user can press on 'Profile' to edit their name, phone number, and User Picture
 
 <section id="GPS Widget" markdown="1">
 ### GPS Widget
-Screen to verify your location in calibrate GPS on the device.
+Screen to verify your location and calibrate GPS on the device.
 </section>
 
 <section id="About" markdown="1">
@@ -102,6 +91,5 @@ Displays the current version of the app.
 <section id="Logout" markdown="1">
 ### Logout
 A user must logout at the end of each workday.
-</section>
 </section>
 </section>
