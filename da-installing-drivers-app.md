@@ -10,10 +10,11 @@ platform: false
 comments: true
 ---
 
+After successfully downloading and installing the Driver App, a user should go through the setup process to be able to use the application.
 
 ## Permissions
 
-Tap the app icon to open the app. Upon opening the app, you will be asked to grant permission to access your location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
+Upon first lounch of the app, user need to grant permission to access device's location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
 
 <img src="images/driver/da-installing-drivers-app/da-permissions.png" class="ios width-sm" data-lightbox="1" />
 
@@ -31,9 +32,9 @@ After successfully logged in user will be asked to carefully fill out all the fi
 
 After user submitted the form, a check-in request sent to a Supervisor for review.
 
-## Consent
+## Terms of Use
 
-And the last, but not least step - user have to read and accept the Terms of Use and Privacy Policy.
+And the last step, user have to read and accept the Terms of Use and Privacy Policy.
 
 <img src="images/driver/da-installing-drivers-app/da-terms-of-use.png" class="ios width-sm" data-lightbox="3" />
 
