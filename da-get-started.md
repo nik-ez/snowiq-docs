@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Setup
+title: Get Started
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

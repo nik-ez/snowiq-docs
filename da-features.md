@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Features
+title: App Features
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
@@ -68,24 +68,6 @@ A user can press on 'Profile' to edit user name, phone number, and profile pictu
 Screen to verify your location and calibrate GPS on the device.
 
 <img src="images/driver/da-login-and-navigation/da-gps-widget.png" class="ios width-sm" data-lightbox="4" />
-
-</section>
-
-<section id="Detached-Mode" markdown="1">
-
-## Detached Mode
-
-Detached Mode is  offline mode for the Driver App, which can be manually activated in case of network outage is expecting within the working aria due to severe weather.
-
-To access and activate the Detached Mode, go to Main menu > Settings > Detached Mode > Turn On. 
-Device should be connected to the Internet to activate the Detached Mode.
-
-Once activated, the app will download and cache the complete map of working aria. Also app will download complete user's assignment queue and complete route data (including segments).
-
-After all data successfully downloaded and set map layer on the home screen change color to yellow and driver can continue work on assignments.
-
-<img src="images/driver/da-login-and-navigation/da-detached-mode.png" class="ios width-sm" data-lightbox="5" />
-<img src="images/driver/da-login-and-navigation/da-detached-mode-map.png" class="ios width-sm" data-lightbox="6" />
 
 </section>
 
