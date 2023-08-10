@@ -23,23 +23,23 @@ Device should be connected to the Internet to activate the Detached Mode.
 
 Once activated, the app will download and cache the complete map of working area as well as user's assignment queue and routes data.
 
-<img src="images/driver/da-login-and-navigation/da-detached-mode.png" class="ios width-sm" data-lightbox="5" />
+<img src="images/driver/da-login-and-navigation/da-detached-mode.png" class="ios width-sm" data-lightbox="1" />
 
 
 ### Map view
 
 After all data successfully downloaded and setup, map layer on the home screen change color to yellow.
 
-<img src="images/driver/da-login-and-navigation/da-detached-mode-map.png" class="ios width-sm" data-lightbox="6" />
+<img src="images/driver/da-login-and-navigation/da-detached-mode-map.png" class="ios width-sm" data-lightbox="2" />
 
 
 ### Offline work on Assignments
 
 In the Detached Mode driver can efficiently continue work on assignments without losing progress.
 
-To synchronize all the assignments go to **Main menu > Assignments** and tap on the **Sync** button.
+To synchronize all the assignments go to **Main menu > Assignments** and tap on the **SYNC** button.
 
-<img src="/images/driver/da-login-and-navigation/da-detached-mode-assignments.png" class="ios width-sm" data-lightbox="5" />
+<img src="/images/driver/da-login-and-navigation/da-detached-mode-assignments.png" class="ios width-sm" data-lightbox="3" />
 
 After that App will download and synchronize all the assignments existing in the system, including planned assignments from future not activated phases.
 
