@@ -39,7 +39,7 @@ In the Detached Mode driver can efficiently continue work on assignments without
 
 To synchronize all the assignments go to **Main menu > Assignments** and tap on the **SYNC** button.
 
-<img src="/images/driver/da-login-and-navigation/da-detached-mode-assignments.png" class="ios width-sm" data-lightbox="3" />
+<img src="images/driver/da-login-and-navigation/da-detached-mode-assignments.png" class="ios width-sm" data-lightbox="3" />
 
 After that App will download and synchronize all the assignments existing in the system, including planned assignments from future not activated phases.
 
