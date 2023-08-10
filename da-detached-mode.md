@@ -51,4 +51,4 @@ To deactivate the Detached Mode, go to **Main menu > Settings > Detached Mode > 
 
 Device should be connected to the Internet to deactivate the Detached Mode.
 
-After detached mode is turned off, the App will upload and synchronicity all the progress with the system.
+After detached mode is turned off, the App will upload and synchronize all the progress with the system.
