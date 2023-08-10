@@ -22,7 +22,7 @@ Resources can be filtered by Depot State, and Type.
 
 To manage some resource, slide it's list's row to the left and tap the option.
 
-Tap on the switch on the top of the screen to access Requests view.
+Tap on the switch at the top of the screen to access Requests view.
 
 Requests view displays a list of drivers who requested to participate in the current active event.
 

@@ -14,7 +14,7 @@ After successfully downloading and installing the Driver App, a user should go t
 
 ## Permissions
 
-Upon first lounch of the app, user need to grant permission to access device's location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permssions, you will be able to login.
+Upon first launch of the app, user need to grant permission to access device's location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permissions, you will be able to login.
 
 <img src="images/driver/da-installing-drivers-app/da-permissions.png" class="ios width-sm" data-lightbox="1" />
 
