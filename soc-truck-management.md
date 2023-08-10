@@ -14,14 +14,14 @@ comments: true
 
 ## Truck Management
 
-The Truck Management module allows to manage truck information, add profiles and update details, inspect and Certify/Decertify them.
+The Truck Management module allows managing truck information, add profiles and update details, inspect and Certify/Decertify them.
 
 ![Truck Management](/images/soc/soc-truck-management/truck-management.png){: .width-xl}{: data-lightbox="1"}
 
 
 ### Filters
 
-Using the filters at the top of the screen allows to narrow down the trucks list. The truck list can be filtered by Truck Type, Status or Class.
+Using the filters at the top of the screen allows narrowing down the trucks list. The truck list can be filtered by Truck Type, Status or Class.
 
 ### Sorting
 
@@ -30,11 +30,6 @@ Sorting of the truck can be applied by clicking on the table header. The truck l
 ### Adding Truck
 
 To add a new truck to the system Click the blue 'Add Truck' button on the top left part of the screen. On the new page Fill out all truck details in the form and upload the truck picture and registration. Then click the 'Add Truck' button to save the truck in the system. If the form has been filled out correctly, the system will display the message "Truck successfully added".
-
-
-
-
-
 
 
 ## Truck Profile
@@ -47,16 +42,15 @@ Each truck has its profile in the system containing all the details about vehicl
 
 ### Editing Truck
 
-To edit existing truck details click on the "Edit Truck Profile" button. Make necessary corrections in the form and click "Save Changes". The system will display succes. If the truck is currently in use on the active event, it cannot be edited and system will display error message.
-
+To edit existing truck details click on the "Edit Truck Profile" button. Make necessary corrections in the form and click "Save Changes". The system will display success. If the truck is currently in use on the active event, it cannot be edited and system will display error message.
 
 ### Certify and Decertify Truck
 
-Newly created truck is certified by default. To cettify a truck click on the "certify" button. Once the truck is certified, it can be certified by clicking the "Decertify" button. Decertification reason is mandatory to finish Decertification.
+Newly created truck is certified by default. To certify a truck click on the "Certify" button. Once the truck is certified, it can be certified by clicking the "Decertify" button. Decertification reason is mandatory to finish Decertification.
 
-Depending on certification truck and can have different status:
+Depending on certification status truck can have different status:
 
 | Active | Truck successfully passed inspection and has been certified by Supervisor. |
 | Inactive | Truck has been uncertified because of inspection failed. |
-| In Rewiew | Contractor's truck has been created and waiting for the certification by the Contractor manager. |
+| In Review | Contractor's truck has been created and waiting for the certification by the Contractor manager. |
 

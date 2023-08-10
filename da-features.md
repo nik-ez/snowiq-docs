@@ -55,7 +55,7 @@ The panel contains 3 sections:
 
 ## User Profile
 
-A user can press on 'Profile' to edit user name, phone number, and profile picture.
+A user can press on 'Profile' to edit user name, phone number, profile picture etc.
 
 <img src="images/driver/da-login-and-navigation/da-user-profile.png" class="ios width-sm" data-lightbox="3" />
 
