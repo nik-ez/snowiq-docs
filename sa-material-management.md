@@ -18,7 +18,7 @@ comments: true
 
 The Material Usage screen accessible through the main menu of the Supervisor App.
 
-Material Usage screen displays list of trucks within 100 feet around.
+Material Usage screen displays list of trucks within a 100-foot radius of the user's current position.
 
 <img src="images/supervisor/sa-resource-management/sa-material-usage.png" class="ios width-xl" data-lightbox="1" />
 

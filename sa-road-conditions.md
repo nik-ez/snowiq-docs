@@ -28,7 +28,7 @@ To create a Road Condition:
 
 <img src="images/supervisor/sa-road-conditions/sa-new-road-condition.png" class="ios width-xl" data-lightbox="1" />
 
-* Fill out the form with Road Condition details
+* Fill out the form with details, such as Road and Air temperature, as well as Precipitation Type and Quantity.
 * Tap 'Create'
 
 The Road Condition marker icon will appear on the map, and it's going to be visible to all the users.
