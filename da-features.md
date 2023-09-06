@@ -20,18 +20,17 @@ The diagram below highlights basic navigation controls and map elements of the D
 
 <img src="images/driver/da-login-and-navigation/da-home-screen.png" class="ios width-md" data-lightbox="1" />
 
-| 1 | User Profile Picture, Name, and Status – pressing on the Profile picture opens the Navigation Drawer|
+| 1 | User Profile Picture, Name, and Status (tap on the Profile picture to open the main menu) |
 | 2 | Assignment status and progress bar |
-| 3 | Message banner – Displays important information like GPS issues, etc. |
-| 4 | Map |
-| 5 | Current device location on the map |
+| 3 | Message banner – Appears only to displays important information like GPS issues, etc. |
+| 4 | Current device location on the map |
+| 5 | Road Hazard marker |
 | 6 | Button to create Road Hazards |
-| 7 | Center map to the current location |
+| 7 | Center map to the current device location |
 | 8 | 3D Map Mode |
-| 9 | Breadcrumbs appear in near-real time over the Route that the Driver has worked on already. |
-| 10 | Road hazard marker |
-| 11 | Navigate button to get directions to the assignment from Google/Apple Maps |
-| 12 | Notifications screen |
+| 9 | Breadcrumbs over the Route that the Driver has worked on already (appear in near-real time). |
+| 10 | Navigate button to get directions to the assignment from Google/Apple Maps |
+| 11 | Notifications screen |
 
 
 <section id="Main-Menu-Panel" markdown="1">
@@ -75,16 +74,17 @@ Screen to verify your location and calibrate GPS on the device.
 
 ## About
 
-Displays the current version of the app.
+This screen contains the app version and environment, user can access Help, Terms and Privacy webpages, as well as perform diagnostic of the app and device.
 
 <img src="images/driver/da-login-and-navigation/da-about.png" class="ios width-sm" data-lightbox="7" />
+
 </section>
 
 <section id="Logout" markdown="1">
 
 ## Logout
 
-A user must logout at the end of each workday.
+A user should logout at the end of each workday.
 
 </section>
 
