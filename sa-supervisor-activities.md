@@ -6,7 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 3
-platform: true
+platform: false
 comments: true
 ---
 <section id="Supervisor-Activities" markdown="1">
@@ -29,8 +29,7 @@ A Supervisor can assign a new resource to a route, by following the steps below:
 * From 'Routes Details' panel, tap 'Assign Resource' as shown below
 
  
-<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-android.png" class="android width-xl" data-lightbox="1" />
-<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers-ios.png" class="ios width-xl" data-lightbox="2" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers.png" class="android width-xl" data-lightbox="1" />
 
 * In the 'Assign Resource' dialogue complete the following:
   * Select type of Activity
@@ -50,8 +49,7 @@ A Supervisor can add a new task to a Resource, by preforming the following the s
 
 * From the Resource Details panel, tap 'Add Task'
 
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks-android.png" class="android width-xl" data-lightbox="5" />
-<img src="images/supervisor/sa-supervisor-activities/adding-tasks-ios.png" class="ios width-xl" data-lightbox="6" />
+<img src="images/supervisor/sa-supervisor-activities/adding-tasks.png" class="ios width-xl" data-lightbox="6" />
 
 * In the 'Create Resource Assignment' dialogue complete the following:
   * Select type of Activity
@@ -73,8 +71,7 @@ A Supervisor can create an Assignment related to a specific address by following
 
 * From the Map Monitoring view (either tab: Routes, Resources, or Tickets), tap the magnifying glass or search bar and enter the address for the assignment
 
-<img src="images/supervisor/sa-supervisor-activities/specific-assignment-android.png" class="android width-xl" data-lightbox="11" />
-<img src="images/supervisor/sa-supervisor-activities/specific-assignment-ios.png" class="ios width-xl" data-lightbox="12" />
+<img src="images/supervisor/sa-supervisor-activities/specific-assignment.png" class="ios width-xl" data-lightbox="12" />
 
 * The system will display a location marker on the map
 * Tap the marker and fill out the address specific assignment prompt, as seen below
@@ -89,6 +86,7 @@ A Supervisor can create an Assignment related to a specific address by following
 </section>
 
 <section id="Completing-Assignments-for-Multi-Passes" markdown="1">
+
 ## Completing Assignments for Multi-Passes
 
 A multi-pass Assignment (when assignment was created, the multi-pass toggle was switched to On) requires a Supervisor to determine the next step after each pass completed by the Driver. Once the Driver completes a pass, a Supervisor receives a 'Pass Completion Notice' prompt with the details about the assignment, including the number of passes made, as seen below. A Supervisor has two options: either 
@@ -100,6 +98,7 @@ If a Supervisor selects 'Option 1' the system notifies the Driver to continue wo
 </section>
 
 <section id="Cancelling-Assignments" markdown="1">
+
 ## Cancelling Assignments
 
 Supervisor can cancel assignments following these steps:
@@ -110,8 +109,7 @@ Supervisor can cancel assignments following these steps:
 * Swipe the Assignment you want to cancel to the left
 * Tap on Yes button
 
-<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-android.png" class="android width-xl" data-lightbox="17-group" />
-<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments-ios.png" class="ios width-xl" data-lightbox="18-group" />
+<img src="images/supervisor/sa-supervisor-activities/cancelling-assignments.png" class="ios width-xl" data-lightbox="18-group" />
 
 </section>
 
@@ -122,20 +120,23 @@ Supervisor can cancel assignments following these steps:
 
 Once a Route has all its assignments completed, a Supervisor needs to change the status of that route to 'Inspected' to verify that the route is finished, by navigating to the Route Details panel and pressing 'Change Status' and then pressing 'Inspected' on the prompt.
  
-<img src="images/supervisor/sa-supervisor-activities/inspecting-routes-android.png" class="android width-xl" data-lightbox="19" />
-<img src="images/supervisor/sa-supervisor-activities/inspecting-routes-ios.png" class="ios width-xl" data-lightbox="20" />
+<img src="images/supervisor/sa-supervisor-activities/inspecting-routes.png" class="ios width-xl" data-lightbox="20" />
+
 </section>
 </section>
 
 <section id="Resource" markdown="1">
+
 ## Resource
 
 <section id="Changing-Resource-Status" markdown="1">
+
 ### Changing Resource Status
 
 Supervisor can change status of a contractor resource.
 
 <section id="Assigning-Resource-to-Tickets" markdown="1">
+
 ### Assigning Resource to Tickets
 
 A Supervisor can assign an existing ticket to a Resource, by following the steps below:
@@ -144,8 +145,7 @@ A Supervisor can assign an existing ticket to a Resource, by following the steps
 * Select the ticket to assign
 * From 'Routes Details' panel, tap 'Assign Resource'.
 
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-android.png" class="android width-xl" data-lightbox="23" />
-<img src="images/supervisor/sa-supervisor-activities/assigning-drivers-ios.png" class="ios width-xl" data-lightbox="24" />
+<img src="images/supervisor/sa-supervisor-activities/assigning-drivers.png" class="ios width-xl" data-lightbox="24" />
 
 * In the 'Assign Resource' dialogue complete the following:
    * Select type of Activity
@@ -154,7 +154,7 @@ A Supervisor can assign an existing ticket to a Resource, by following the steps
    * Select Resource by either searching for a driver by name in the search bar or pick from the drivers available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Driver Type: County or Contractor
 * Tap 'Assign'
 
-This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow <img src="images/supervisor/sa-supervisor-activities/yellow-logo-ios.png" class="ios" style="min-width:18px; width:18px; border:none;" /><img src="images/supervisor/sa-supervisor-activities/yellow-logo-android.png" class="android" style="min-width:18px; width:18px; border:none;" /> to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.
+This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow <img src="images/supervisor/sa-supervisor-activities/yellow-logo.png" class="android" style="min-width:18px; width:18px; border:none;" /> to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.
 
 </section>
 
@@ -184,16 +184,15 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 * The system will display the following 'New road hazard' prompt
 * Tap the type of road hazard from the list and tap 'Yes' to confirm the creation of a new road hazard on the next prompt
 
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards-android.png" class="android width-xl" data-lightbox="29" />
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards-ios.png" class="ios width-xl" data-lightbox="30" />
+<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards.png" class="ios width-xl" data-lightbox="30" />
 
 * The system will display the hazards as either a road plate or a warning as seen below:
   * Road plates (orange stacked layes marker): permanent hazard on the road
   * Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
     **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
 
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1-android.png" class="android width-sm" data-lightbox="31" />
-<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1-ios.png" class="ios width-sm" data-lightbox="32" />
+<img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1.png" class="ios width-sm" data-lightbox="32" />
+
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
@@ -203,8 +202,7 @@ A Supervisor can delete an existing road hazard from the map if it doesn't exist
 
   * Press on an existing road hazard from the map if it doesn't exist anymore:
 
-<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards-android.png" class="android width-sm" data-lightbox="33" />
-<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards-ios.png" class="ios width-sm" data-lightbox="34" />
+<img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards.png" class="ios width-sm" data-lightbox="34" />
 
   * The system will display the following 'Road hazard info' prompt
   * Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard

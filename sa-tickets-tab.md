@@ -6,10 +6,11 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 6
-platform: true
+platform: false
 comments: true
 ---
 <section id="Tickets-Tab-View" markdown="1">
+
 # Tickets Tab View
 
 When Admin sends a new ticket to a Supervisor it will be appear as a ticket count on the Ticket tab for the Supervisor, as seen below.
@@ -18,8 +19,7 @@ After selecting the Tickets tab, the Tickets panel displays a list of tickets an
    
 A new Ticket is notated with a 'New' tag and identified with a red asterisk marker on the map on the right. A checkmark on any type of ticket indicates that the ticket is closed.
 
-<img src="images/supervisor/sa-tickets-tab/tickets-tab-android.png" class="android width-xl" data-lightbox="3" />
-<img src="images/supervisor/sa-tickets-tab/tickets-tab-ios.png" class="ios width-xl" data-lightbox="4" />
+<img src="images/supervisor/sa-tickets-tab/tickets-tab.png" class="ios width-xl" data-lightbox="4" />
 
 <section id="Ticket-Filters" markdown="1">
 ## Ticket Filters
@@ -64,8 +64,7 @@ Ticket Type filter allows users to filter by two different types of tickets.
 
 A Checkmark on either type of ticket indicates that the ticket is closed.
 
-<img src="images/supervisor/sa-tickets-tab/ticket-type-android.png" class="android width-xs" />
-<img src="images/supervisor/sa-tickets-tab/ticket-type-ios.png" class="ios width-xs" />
+<img src="images/supervisor/sa-tickets-tab/ticket-type.png" class="ios width-xs" />
 
 </section>
 </section>
@@ -75,8 +74,7 @@ A Checkmark on either type of ticket indicates that the ticket is closed.
 
 Selecting a ticket label from the list focuses on that single ticket on the map and brings up the 'Ticket details' panel on the left. The panel includes all the relevant ticket information and allows the Supervisor to 'Assign Resources' to that ticket. 
 
-<img src="images/supervisor/sa-tickets-tab/tickets-details-android.png" class="android width-xl" data-lightbox="7" />
-<img src="images/supervisor/sa-tickets-tab/tickets-details-ios.png" class="ios width-xl" data-lightbox="8" />
+<img src="images/supervisor/sa-tickets-tab/tickets-details.png" class="ios width-xl" data-lightbox="8" />
 
 </section>
 </section>
