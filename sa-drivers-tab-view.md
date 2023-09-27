@@ -12,7 +12,7 @@ comments: true
 <section id="Resources-Tab-View" markdown="1">
 # Resources Tab View
 
-The Resources panel displays a listhe name of the driver in the panel on the left takes the user to the [Driver Details](#Driver-Details)
+The Resources panel displays a list of resources active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details](#Driver-Details)
 
 <img src="images/supervisor/sa-drivers-tab-view/drivers-tab.png" class="ios width-xl" data-lightbox="2" />
 
