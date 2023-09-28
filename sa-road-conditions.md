@@ -12,26 +12,26 @@ comments: true
 
 # Road Conditions
 
-Road Conditions are temperature and precipitation details at some specific location of a service area, reported by supervisors/inspector users.
+Road Conditions are temperature and precipitation details at a specific location of a service area, as reported by supervisors/inspector users.
 
 <img src="images/supervisor/sa-road-conditions/sa-road-condition-popup.png" class="ios width-xl" data-lightbox="1" />
 
-To see Road Condition details tap on the marker on the map.
+To see Road Condition details, tap on the marker on the map.
 
 ## Creating Road Conditions
 
 To create a Road Condition:
 
-* On the map long tap on a location
+* On the map, tap and hold on a location
 * Choose 'Add New Road Condition'
-* The ‘New Road Condition’ window with the form will appear
+* The ‘New Road Condition’ window with a form will appear
 
 <img src="images/supervisor/sa-road-conditions/sa-new-road-condition.png" class="ios width-xl" data-lightbox="1" />
 
 * Fill out the form with details, such as Road and Air temperature, as well as Precipitation Type and Quantity.
 * Tap 'Create'
 
-The Road Condition marker icon will appear on the map, and it's going to be visible to all the users.
+The Road Condition marker icon will appear on the map and will be visible to all users.
 
 ## Road Conditions menu
 
@@ -39,13 +39,11 @@ The Road Conditions screen is accessible through the main menu and displays a li
 
 <img src="images/supervisor/sa-road-conditions/sa-road-condition-menu.png" class="ios width-xl" data-lightbox="2" />
 
-The list can be filtered and sorted by depot and time frame. Also, entries can be searched by reporter, route and address.
+The list can be filtered and sorted by depot and timeframe. Entries can also be searched by reporter, route and address.
 
 
 ## Road Conditions expiration
 
-All the Road Conditions automatically expire within 1 hour from reporting.
+All Road Conditions automatically expire within 1 hour from reporting, and the status of a condition will change from 'Active' to 'Expired'.
 
-Status of a condition changed from 'Active' to 'Expired'.
-
-Expired Road Condition disappears from the map, but it is available in the Road Conditions menu until the end of a Storm Event.
+Expired Road Conditions disappear from the map, but are available in the Road Conditions menu until the end of a Storm Event.
