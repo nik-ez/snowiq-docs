@@ -40,7 +40,7 @@ The Routes tab located to the left of the map, as seen below, displays a list of
 
 The Resources tab to the right of the Routes tab, as seen below, displays a list of Resources with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Resource from the list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
 
-Clicking on the Blue arrow to the right of the Driver name produces the Driver's Profile panel, with even more details.
+Clicking on the Blue arrow to the right of the Driver name produces the Driver's Profile panel, with additional details.
 
 </section>
 
@@ -62,7 +62,7 @@ Using the filters at the top of the Map Monitoring view allows users to narrow d
 
 ### 5. Map Legend
 
-Click on the arrow in the lower part of the map opens the slider with map legend where the user can turn off/on boundaries and segments as well as different markers to display them on the map.
+Clicking on the arrow in the lower part of the map opens the slider with a map legend where the user can turn off/on boundaries and segments as well as different markers to display them on the map.
 </section>
 
 <section id="Markers" markdown="1">
