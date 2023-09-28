@@ -21,7 +21,7 @@ Phases are used during a storm Event to define specific Activities that allow pl
 
 **Phase Statuses:**
 
-| New | Newly created not activated Phase. |
+| New | Newly created, not activated Phase. |
 | Active | Manually activated Phase (event can have several active phases at the time). |
 | Completed | Manually completed by Supervisor user. |
 | Archived | Status after event archivation. |
@@ -30,15 +30,15 @@ Phases are used during a storm Event to define specific Activities that allow pl
 
 ## Phase Creation
 
-"Monitoring" Phase for each depot is created automatically with event.
+The "Monitoring" Phase for each depot is created automatically with each event.
 
-Phase creation process contains two steps: specify Phase details and Assignments Planning.
+The Phase creation process has two steps: specify Phase details and Assignments Planning.
 
 To create a new phase click on the "Add Phase" button.
 
 ![Phase Creation](/images/soc/soc-event-management/add-phase.png){: .width-xl}{: data-lightbox="7"}
 
-Fill out all the properties of the form and click "Add Phase" button. After that system will redirect you to the Assignment Planning screen.
+Fill out all the information on the form and click the "Add Phase" button. The system will then redirect you to the Assignment Planning screen.
 
 </section>
 
@@ -48,7 +48,7 @@ Fill out all the properties of the form and click "Add Phase" button. After that
 
 ## Assignments Planning
 
-Assignments Planning screen allows to plan and specify work on routes.
+The Assignments Planning screen allows the user to plan and specify work on routes.
 
 It is a necessary step during the phase creation process.
 
@@ -56,25 +56,25 @@ It has two view modes: "By Route" and "By Resource".
 
 ### By Route
 
-By Route screen is a default view mode.
+The By Route screen is a default view mode.
 
 ![By Route Assignments](/images/soc/soc-event-management/edit-driver-assignments.png){: .width-xl}{: data-lightbox="8"}
 
-On By Route screen user can add Resources to Routes and specify Inspectors.
+On the By Route screen a user can add Resources to Routes and specify Inspectors.
 
 
 ### By Resource
 
-To see "By Resource" view mode click on the switch under the Phase details in the top left corner of the screen.
+To see "By Resource" view mode, click on the switch under the Phase details in the top left corner of the screen.
 
 ![By Resource Assignments](/images/soc/soc-event-management/edit-driver-assignments1.png){: .width-xl}{: data-lightbox="9"}
 
-On the By Resource screen user can add resources to the event and specify routes for each resource to work on.
-Also after adding a resource, if some driver doesn't have a truck assigned truck can be assigned here.
+On the By Resource screen, a user can add resources to the event and specify routes for each resource to work on.
+Additionally, after adding a resource, a can be assigned here if a driver doesn't have a truck.
 
-To complete assignment planning process click on "Save Assagnments" button Progress will be saved in the system. 
+To complete the assignment planning process click on the "Save Assagnments" button, and Progress will be saved in the system. 
 
-If the assignment planning was part of the phase creation process, after clicking on "Save Assagnments" button uses will be redirected to the Phase Management screen and a new phase will be created and appeared in the list.
+If the assignment planning was part of the phase creation process, clicking the "Save Assignments" button uses will redirect the user to the Phase Management screen and a new phase will be created and will appear in the list.
 
 </section>
 
@@ -87,25 +87,25 @@ If the assignment planning was part of the phase creation process, after clickin
 
 Phases can be activated only when the storm event they belong to is active.
 
-All the default 'Monitoring' phases in all of the depots will be activated automatically with storm event.
+All default 'Monitoring' phases in all depots will be activated automatically with a storm event.
 
 Typically, it will be the Depot Supervisor's duty to move the phases forward during an Event. Once one Phase is completed, all Supervisors are notified in the Supervisor App (SA) on the iPad the phase is completed.
 
-To activate a newly created phase click Play button.
+To activate a newly created phase, click the Play button.
 
 ![Phase Activation](/images/soc/soc-event-management/phase-activation.png){: .width-xl}{: data-lightbox="11"}
 
 Several phrases can be active simultaneously.
-However, during the phase activation process user can complete previous active phases by checking it. This is the convenient way to move work forward consequently.
+However, during the phase activation process a user can complete an active phase by checking it. This is a convenient way to move through the phase management workflow.
 
 
 ### Phase Pause
 
-Phases also can be paused, this allows to retain the states of all assignments. When Phase is resumed, all assignments will resume from their previous state. Pausing an Active Phase is used in case something occurred during a snow event that required moving to the next phase quickly but still needs to go back to it. 
+Phases can also be paused. This allows retention of the states of all assignments. When a Phase is resumed, all assignments will resume from their previous state. Pausing an Active Phase is used in case something occurred during a snow event that required moving to the next phase quickly while allowing the user to return and resume work on a previous phase. 
 
 ### Phase Completion
 
-Phase can be completed manually by clicking on the complete button.
+A Phase can be completed manually by clicking on the Complete button.
 When a storm event is completed, all the phases belonging to this event complete automatically.
 
 </section>
@@ -117,7 +117,7 @@ When a storm event is completed, all the phases belonging to this event complete
 ## Commit Routes
 
 During phase activation process, Supervisors are able to make a decision which routes they would like to commit for work (such routes become committed).
-Once the phase is active, supervisors/inspectors are able to commit more routes for work or choose to commit all non-committed routes within the phase for work as event progresses.
+Once the phase is active, supervisors/inspectors are able to commit more routes for work or choose to commit all non-committed routes within the phase for work as an event progresses.
 
 ![Commit Routes](/images/soc/soc-event-management/commit-routes.png){: .width-xl}{: data-lightbox="8"}
 
