@@ -11,7 +11,7 @@ platform: false
 
 ## Driver App (DA)
 
-This mobile application is accessed on plow drivers’ (contractor or county employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to "Completed" in order to move on to their next assignment.
+This mobile application is accessed by a driver (contractor or county employee) using a mobile device. This app allows drivers to view their current assigned routes, their progress, and to set the status of their route to "Completed" and proceed to work on their next assignment.
 
 ### Download the latest version of the app for your smartphone platform:
 <br>
