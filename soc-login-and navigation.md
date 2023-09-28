@@ -16,7 +16,7 @@ comments: true
 <section id="Login" markdown="1">
 ## Login
 
-The login screen below allows users to enter into the SNOWiQ Storm Operations Center (SOC) web portal. Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
+The login screen below allows users to enter the SNOWiQ Storm Operations Center (SOC) web portal. Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
 
 ![Portal Login](/images/soc/soc-login-and-navigation/portal-login.png){: .width-xl}{: data-lightbox="1"}
 
@@ -60,7 +60,7 @@ The Active Storm Report page allows Admin users to look at the details of the Ev
 <section id="Event-Management" markdown="1">
 ### Event Management
 
-The Event Management page allows users to create new Events as storms are announced, create Phases within those events, archive active storms, and view reports on specific storms as well.
+The Event Management page allows users to create new Events as storms are announced, create Phases within those events, archive active storms, and view reports on specific storms.
 
 ![Event Management](/images/soc/soc-login-and-navigation/event-management.png){: .width-xl}{: data-lightbox="7"}
 </section>
@@ -68,7 +68,7 @@ The Event Management page allows users to create new Events as storms are announ
 <section id="MC311-Tickets" markdown="1">
 ### MC311 Tickets
 
-The MC311 system is used by Montgomery County, MD to process emergency ticket requests that come in during the snow storm. The SNOWiQ's MC311 Tickets page allows Admin users to send emergency requests that come in from the MC311 system to Supervisors who will in turn assign them to Drivers during an event.
+The MC311 system is used by Montgomery County, MD to process emergency ticket requests received during a snow storm. The SNOWiQ's MC311 Tickets page allows Admin users to send emergency requests received from the MC311 system to Supervisors, who will in turn assign them to Drivers during an event.
 
 ![MC311 Tickets](/images/soc/soc-login-and-navigation/mc311-tickets.png){: .width-xl}{: data-lightbox="8"}
 </section>
