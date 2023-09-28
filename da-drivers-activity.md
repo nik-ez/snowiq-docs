@@ -17,7 +17,7 @@ comments: true
 
 ### Accepting Assignment
 
-When a Supervisor assigns a route, a ticket, or an address-specific assignment, the Driver receives a notification as seen below. Press 'Ok' and follow the steps below:
+When a Supervisor assigns a route, a ticket, or an address-specific assignment, the Driver will receive a notification as pictured below. Press 'Ok' and follow the steps below:
 
 <img src="images/driver/da-drivers-activity/da-new-assignment.png" class="ios width-sm" data-lightbox="1" />
 
@@ -28,32 +28,32 @@ When a Supervisor assigns a route, a ticket, or an address-specific assignment, 
 
 ### Assignments Menu
 
-The driver app has Assignments Menu, which contains a list of current, future and historical assignments.
+The driver app has an Assignments Menu, which contains a list of current, future and historical assignments.
 
 <img src="images/driver/da-drivers-activity/da-assignments-screen.png" class="ios width-sm" data-lightbox="1" />
 
-The screen is accessible through the main menu.
+This screen is accessible through the main menu.
 
 
 ### Completing Assignments
 
-A Driver can complete their Active Assignment by opening the Navigation drawer and pressing 'Complete Assignment' as seen below.
+A Driver can complete their Active Assignment by opening the Navigation drawer and selecting 'Complete Assignment' as seen below.
 
 <img src="images/driver/da-drivers-activity/da-completing-assignment.png" class="ios width-sm" data-lightbox="3" />
 
-This removes the assignment from the Status bar and also moves it from Active Assignments to the History tab in the 'Assignments' panel in the Operations Menu. If the Driver has another Assignment in the queue (in the 'Future' tab in the 'Assignments' panel), then the Driver will receive the notification as seen below and will follow the process as specified in the section "Accepting Assignments" above.
+This removes the assignment from the Status bar and also moves it from Active Assignments to the History tab in the 'Assignments' panel in the Operations Menu. If the Driver has another Assignment in the queue (in the 'Future' tab in the 'Assignments' panel), then the Driver will receive the notification as seen below and will follow the process as specified in the "Accepting Assignments"  section above.
 
 
 ### Completing Multi-Pass Assignment
 
 If a Driver receives an Assignment with Multi-pass toggled on, it will be indicated in the notification. Once the Driver completes a pass, they will press 'Complete Pass' in the Navigation drawer and will await further instructions from the supervisor as specified in the status bar as seen below. 
-  - If a Supervisor chooses another pass for this assignment, the Driver will receive the following notification to proceed work on the multi-pass assignment until completed with the pass and repeat the steps as specified above.
+  - If a Supervisor chooses another pass for this assignment, the Driver will receive the following notification to proceed work on the multi-pass assignment until it is completed, repeating the above steps for each pass.
 
-  - If a Supervisor decides that no more passes are needed, the Assignment will be removed from the Driver's Active Assignments into the 'History' tab on the 'Assignments' panel. The status bar will be updated to await further instructions. 
+  - If a Supervisor determines that no addditional passes are needed, the Assignment will be removed from the Driver's Active Assignments and will then be displayed in the 'History' tab on the 'Assignments' panel. The status bar will be updated to alert the driver to wait for any further instructions. 
 
 
 ### Pause/Resume Assignment
 
-When a Supervisor pauses Assignment, Driver receives a notification:
+When a Supervisor pauses Assignment, the Driver receives the following notification:
 
 <img src="images/driver/da-drivers-activity/da-assignment-paused.png" class="android width-sm" data-lightbox="6" />
