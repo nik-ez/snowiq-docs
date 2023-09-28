@@ -13,7 +13,7 @@ comments: true
 <section id="User-Management" markdown="1">
 # User Management
 
-The User Management view allows the Admin user to view all the users currently uploaded into the system as well as upload Excel files with new users, edit individual users, and Deactivate/ Reactivate users in the system.
+The User Management view allows the Admin user to view all the users currently uploaded into the system and to upload Excel files with new users, edit individual users, and Deactivate/ Reactivate users in the system.
 
 ![User Management Filters](/images/soc/soc-user-management/user-management.png){: .width-xl}{: data-lightbox="1"}
 
@@ -27,7 +27,7 @@ Using the filters at the top of the application allows the Admin user to narrow 
 <section id="Upload-Users" markdown="1">
 ## Upload Users
 
-The Upload Users function allows Admin users to add users to the system by following the steps below (this feature isn't used as Montgomery County does this on their end and therefore this feature may be deprecated in future releases.)
+The Upload Users function allows Admin users to add users to the system by following the steps below (Note: this feature isn't used as Montgomery County does this on their end and therefore this feature may be deprecated in future releases.)
 
 * Click the blue 'Upload Users' button on the top right of the application.
 * The system will prompt with the following:
@@ -51,13 +51,13 @@ An Admin user can edit the personal information of users after they have been up
 ![Edit User Info](/images/soc/soc-user-management/edit-user-info.png){: .width-xl}{: data-lightbox="3"}
 
 * Make edits
-* Click 'Save Changes' to reflect them in the user record.
+* Click 'Save Changes' to reflect updates in the user record.
 </section>
 
 <section id="Deactivating-and-Reactivating-Users" markdown="1">
 ## Deactivating and Reactivating Users
 
-An Admin user can Deactivate users when they are no longer needed in the system or no longer needed to fulfill duties. This would remove the user from showing up in selection lists throughout the application (e.g. task assignment). To deactivate the user, locate the user and click on 'Deactivate' button (shown below) and follow with a 'Yes' to the next prompt. The user has been deactivated, and the button now says 'Reactivate' for that user. To reactivate is the same process, click on 'Reactivate', and the user is live in the system again.
+An Admin user can Deactivate users when they are no longer needed in the system or no longer needed to fulfill duties. This would remove the user from being displayed in selection lists throughout the application (e.g. task assignment). To deactivate the user, locate the user and click on the 'Deactivate' button (shown below) and follow with a 'Yes' to the next prompt. The user has now been deactivated, and the button now says 'Reactivate' for that user. To reactivate is the same process: Click on 'Reactivate', and the user is live in the system again.
 
 </section>
 </section>
