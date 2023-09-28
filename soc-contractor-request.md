@@ -14,9 +14,9 @@ comments: true
 
 ## Contractor Companies Management
 
-After snowstorm event creation contractor companies can be added to support the event.
+After a snowstorm event has been created, Admin and Supervisor users can add contractor companies to support the event.
 
-To access Contractor Companies Management page go to **Main Menu > Administration > Event > Requests**.
+To access the Contractor Companies Management page go to **Main Menu > Administration > Event > Requests**.
 
 Only Admin and Supervisor users have access to this page.
 
@@ -29,16 +29,16 @@ To add a contractor company, click **Company Availability > Add Contractor Compa
 
 ![](/images/soc/soc-contractor-request/soc-contractor-company-availability.png){: .width-xl}{: data-lightbox="1"}
 
-Fill out the form and click Save Changes button.
+Fill out the form and click the Save Changes button.
 
-After that company will be added to the event and it's contractor manager will get an email notification asking to provide trucks availability.
+The company will be added to the event and its contractor manager will get an email notification requesting information on a truck's availability.
 
 
 ### Add Truck Specific Request
 
-While managers of contractor companies confirming availability of their trucks, Supervisor can add truck specific requests.
+Supervisors can send truck-specific requests to contractor companies.  
 
-To do so click on **Add Request** button, fill out the form - specific company and amount of trucks by class.
+To do so click on the **Add Request** button, then fill out the form which specifies company and amount of trucks by class.
 
 ![](/images/soc/soc-contractor-request/soc-add-contractor-request.png){: .width-xl}{: data-lightbox="1"}
 
@@ -48,29 +48,29 @@ To do so click on **Add Request** button, fill out the form - specific company a
 
 ## Contractors Menu
 
-After Supervisor added contractor company to support an upcoming snowstorm event, Company manager will get an email notification asking to update and confirm trucks availability first.
+After a Supervisor has added a contractor company to support an upcoming snowstorm event, the Company manager will get an email notification asking to first update and confirm truck availability.
 
-After clicking link, provided in the email, user will access Contractors page.
+After clicking a link provided in the request email, the Contractor Manager user will access Contractors page.
 
 ![](/images/soc/soc-contractor-request/soc-contractors.png){: .width-xl}{: data-lightbox="1"}
 
-This page is designed for contractor company managers, but it also can be accessed by Supervisor on manager behalf.
+This page is designed for contractor company managers, but it also can be accessed by a Supervisor on a manager's behalf.
 
-The page also can be accessed under **Main Menu > Administration > Contractors**.
+This page can also be accessed under **Main Menu > Administration > Contractors**.
 
 
 ### Confirm Trucks Availability
 
-At first contractor manager needs to review and update all the company trucks existing in the truck management module of the system.
+To confirm truck availability, a contractor manager needs to first review and update all the company trucks existing in the truck management module of the system.
 
 ![](/images/soc/soc-contractor-request/soc-confirm-trucks-availability.png){: .width-xl}{: data-lightbox="1"}
 
-After truck availability is submitted Supervisor will see that company availability will be Accepted.
+After truck availability is submitted, the Supervisor will see that the company has verified availability.
 
 ### Confirm Request
 
-And finally Contractor Manager need to provide confirmation of truck specific request from Supervisor.
+Lastly, the Contractor Manager must provide confirmation of a truck specific request from Supervisor.
 
 ![](/images/soc/soc-contractor-request/soc-confirm-contractor-request.png){: .width-xl}{: data-lightbox="1"}
 
-After that, Supervisor will see his request status changes to Confirmed.
+Once confrmed by the Contractor Manager, the Supervisor will see his request status changes to Confirmed.
