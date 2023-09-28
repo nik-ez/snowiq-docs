@@ -13,9 +13,8 @@ comments: true
 
 # Road Hazards
 
-Road Hazard is a marker icon on the map to warn system users.
+Road Hazard is a marker icon on the map to inform users of reported road hazards. Users can view reported hazards on the map, as well as report new hazards to inform other app users working in the same service area.
 
-It is especially important for drivers to know that there is might be a hazards on their way.
 
 <img src="images/driver/da-road-hazards/da-road-hazards.png" class="ios width-sm" data-lightbox="1" />
 <img src="images/driver/da-road-hazards/da-road-hazard-info.png" class="ios width-sm" data-lightbox="3" />
@@ -26,15 +25,15 @@ It is especially important for drivers to know that there is might be a hazards 
 
 To create a Road Hazard from the Driver App:
   - On the map, tap the road hazard plus icon
-  - The system will display the 'New road hazard' prompt shown below
+  - The system will display the 'New road hazard' prompt shown below.
 
 <img src="images/driver/da-road-hazards/da-add-a-road-hazard.png" class="ios width-sm" data-lightbox="2" />
 
-  - Choose the type of road hazard from the list and press 'Yes' to confirm
+  - Choose the type of road hazard from the list, then press 'Yes' to confirm.
 
-  - The system will display the hazards as either a road plate or a warning as seen below
-    - Road plates (orange stacked layers marker): permanent hazard on the road
-    - Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
+  - The system will display the hazards as either a road plate or a warning as shown below.
+    - Road plates (orange stacked layers marker): A permanent hazard on the road
+    - Temporary hazard (orange warning triangle marker): Tree down/power line down, accident, etc.
 
 **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area.
 
@@ -44,16 +43,16 @@ To create a Road Hazard from the Driver App:
 
 ## Deleting Road Hazards
 
-A road hazard can be manually deleted when it is resolved, outdated or doesn't exist anymore.
+A road hazard can be manually deleted when it is resolved, outdated, or doesn't exist anymore.
 
 To delete a marker:
-  - Tap on an existing road hazard on the map
-  - The system will display 'Road hazard info' window
+  - Tap  an existing road hazard on the map
+  - The system will display a 'Road hazard info' window
   - Tap 'Delete' and confirm 'Yes' on the next prompt
 
 <img src="images/driver/da-road-hazards/da-road-hazard-delete-confirmation.png" class="ios width-sm" data-lightbox="4" />
 
-Once deleted, the marker will be removed from the map for all the system users.
+Once deleted, the marker will be removed from the map for all system users.
 
 </section>
 </section>
