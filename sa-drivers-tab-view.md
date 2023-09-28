@@ -53,7 +53,7 @@ The Resource Status filter allows users to view Resources with a specific status
 <section id="Resource-Details" markdown="1">
 ## Resource Details
 
-The Resource Details panel focuses on one selected driver both on the map and on the left-hand panel, along with driver details including Active Assignments, if any, and their progress, history of previous assignments, and future assignments. Here, the Supervisor is also able to 
+The Resource Details panel focuses on one selected driver both on the map and on the left-hand panel, along with driver details including Active Assignments (if any), as well as their progress, history of previous assignments, and future assignments. Here, the Supervisor is also able to 
 1. 'Pause' (or 'Resume' not shown) an Active Assignment, which would notify the Driver in the Driver App that their Assignment has been paused.  
 1. 'Add Task' to the selected Resource, which would notify the Driver in the Driver App. 
 
