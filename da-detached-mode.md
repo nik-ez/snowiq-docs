@@ -43,7 +43,7 @@ To synchronize all assignments, go to **Main menu > Assignments** and tap on the
 
 The App will then download and synchronize all the assignments existing in the system, including planned assignments for future phases that have not yet been activated.
 
-This allows Driver to take control of his assignments. However, due to the lack of a connection, we recommend that all such work is coordinated and communicated with the Inspector/Supervisor by radio.
+This allows the Driver to take control of his assignments. However, due to the lack of a connection, we recommend that all such work is coordinated and communicated with the Inspector/Supervisor by radio.
 
 ### Turn off the mode
 
