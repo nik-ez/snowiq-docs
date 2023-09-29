@@ -14,7 +14,7 @@ comments: true
 
 # Event Management
 
-The Event Management page allows Admin users to create new storm events, edit Event details, create Phases, Activities for Depots during an event, and to view Event Logs and Reports for each Event. 
+The Event Management page allows Admin users to create new storm events, edit Event details, create Phases and Activities for Depots during an event, and to view Event Logs and Reports for each Event. 
 
 
 ![Event Management](/images/soc/soc-event-management/event-management.png){: .width-xl}{: data-lightbox="1"}
