@@ -60,19 +60,19 @@ The By Route screen is a default view mode.
 
 ![By Route Assignments](/images/soc/soc-event-management/edit-driver-assignments.png){: .width-xl}{: data-lightbox="8"}
 
-On the By Route screen a user can add Resources to Routes and specify Inspectors.
+The By Route screen allows a user to add Resources to Routes and specify Inspectors.
 
 
 ### By Resource
 
-To see "By Resource" view mode, click on the switch under the Phase details in the top left corner of the screen.
+To display the "By Resource" view mode, click on the switch under the Phase details in the top left corner of the screen.
 
 ![By Resource Assignments](/images/soc/soc-event-management/edit-driver-assignments1.png){: .width-xl}{: data-lightbox="9"}
 
 On the By Resource screen, a user can add resources to the event and specify routes for each resource to work on.
-Additionally, after adding a resource, a can be assigned here if a driver doesn't have a truck.
+Additionally, after adding a resource, a track can be assigned here if a driver doesn't have a truck.
 
-To complete the assignment planning process click on the "Save Assagnments" button, and Progress will be saved in the system. 
+To complete the assignment planning process, click on the "Save Assagnments" button, and Progress will be saved in the system. 
 
 If the assignment planning was part of the phase creation process, clicking the "Save Assignments" button uses will redirect the user to the Phase Management screen and a new phase will be created and will appear in the list.
 
