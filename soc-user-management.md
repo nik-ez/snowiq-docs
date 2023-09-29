@@ -46,7 +46,7 @@ The Upload Users function allows Admin users to add users to the system by follo
 An Admin user can edit the personal information of users after they have been uploaded by following the steps below.
 
 * Click the 'Pencil' icon at the end of the user record.
-* The system will prompt with the following dialog box with the existing details of the user:
+* The system will display a prompt with the following dialog box with the existing details of the user:
 
 ![Edit User Info](/images/soc/soc-user-management/edit-user-info.png){: .width-xl}{: data-lightbox="3"}
 
@@ -57,7 +57,7 @@ An Admin user can edit the personal information of users after they have been up
 <section id="Deactivating-and-Reactivating-Users" markdown="1">
 ## Deactivating and Reactivating Users
 
-An Admin user can Deactivate users when they are no longer needed in the system or no longer needed to fulfill duties. This would remove the user from being displayed in selection lists throughout the application (e.g. task assignment). To deactivate the user, locate the user and click on the 'Deactivate' button (shown below) and follow with a 'Yes' to the next prompt. The user has now been deactivated, and the button now says 'Reactivate' for that user. To reactivate is the same process: Click on 'Reactivate', and the user is live in the system again.
+An Admin user can Deactivate users when they are no longer needed in the system or no longer needed to fulfill duties. This removes the user from being displayed in selection lists throughout the application (e.g. task assignment). To deactivate the user, locate the user and click on the 'Deactivate' button (shown below) and click 'Yes' to proceed to the next prompt. The user will be deactivated, and a 'Reactivate' button will be displayed for the user. To reactivate a user, follow the same process: Click on 'Reactivate', and the user will again be activated in the system.
 
 </section>
 </section>
