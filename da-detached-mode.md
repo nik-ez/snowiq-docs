@@ -13,7 +13,7 @@ comments: true
 
 ## Detached Mode
 
-Detached Mode is an offline mode for the Driver App that is manually activated and can be used if a network outage is expected within the working area due to severe weather in order to retain completed work on in-progress assignments.
+Detached Mode is an offline mode for the Driver App that is manually activated and can be used if a network outage is expected within the working area due to severe weather. This allows users to retain completed work on in-progress assignments during such events.
 
 
 ### Turn on the mode
@@ -35,7 +35,7 @@ After all data has successfully downloaded, the map layer on the home screen wil
 
 ### Offline work on Assignments
 
-In the Detached Mode, a  driver can efficiently continue work on assignments without losing progress.
+In the Detached Mode, a driver can efficiently continue work on assignments without losing progress.
 
 To synchronize all assignments, go to **Main menu > Assignments** and tap on the **SYNC** button.
 
@@ -51,4 +51,4 @@ To deactivate the Detached Mode, go to **Main menu > Settings > Detached Mode > 
 
 The Device should be connected to the Internet to deactivate the Detached Mode.
 
-After detached mode is turned off, the App will upload and synchronize all updates and progress made while using the detached mode with online system data.
+After Detached Mode is turned off, the App will upload and synchronize all updates and progress made while using the detached mode with online system data.
