@@ -22,6 +22,6 @@ Based on EastBanc Technologies' TERRAiQ platform, SNOWiQ uses a combination of s
 
  <br>
 
-SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard— two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. 
+SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard that satisfies all your vehicle tracking, business intelligence, and communication needs using two mobile applications and a citizen web portal. 
 
 SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
