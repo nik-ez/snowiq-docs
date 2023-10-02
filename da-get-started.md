@@ -14,13 +14,13 @@ After successfully downloading and installing the Driver App, a user must perfor
 
 ## Permissions
 
-Upon first launch of the app, the user must their devicee to access their device's location, camera, and microphone. After allowing these permissions, the user can then log into the app.
+Upon first launch of the app, the user must allow their devicee to access their device's location, camera, and microphone. After allowing these permissions, the user can then log into the app.
 
 <img src="images/driver/da-installing-drivers-app/da-permissions.png" class="ios width-sm" data-lightbox="1" />
 
 ## Log In
 
-The login screen shown below allows Driver users to access the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to enter the assigned username and password for the application.
+The login screen shown below allows a Driver to access the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to enter the assigned username and password for the application.
 
 <img src="images/driver/da-installing-drivers-app/da-login.png" class="ios width-sm" data-lightbox="2" />
 
