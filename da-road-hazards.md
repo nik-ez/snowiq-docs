@@ -25,13 +25,13 @@ A Road Hazard is a marker icon on the map to inform users of reported road hazar
 
 To create a Road Hazard from the Driver App, do the following:
   - On the map, select the road hazard plus (+) icon
-  - The system will display the 'New road hazard' prompt shown in the image at the top of this page.
+  - The system will display the 'New road hazard' prompt.
 
 <img src="images/driver/da-road-hazards/da-add-a-road-hazard.png" class="ios width-sm" data-lightbox="2" />
 
   - Select the type of road hazard from the list, then select 'Yes' to confirm.
 
-  - The system will display hazards as either a road plate or a warning, as shown below.
+  - The system will display hazards as either a road plate or a warning, as shown in the image at the top of this page.
     - Road plates (orange stacked layers marker): A permanent hazard on the road
     - Temporary hazard (orange warning triangle marker): A temporary road hazard such as a fallen tree, downed power line, or traffic accident
 
