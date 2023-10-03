@@ -26,7 +26,7 @@ There are three ways to create new assignments within the Supervisor App:
 
 A Supervisor can assign a new resource to a route by following the steps below:
 
-* From the 'Routes Details' panel, tap 'Assign Resource' as shown below.
+* From the 'Routes Details' panel, tap 'Assign Resources' as shown below.
 
  
 <img src="images/supervisor/sa-supervisor-activities/assigning-new-drivers.png" class="android width-xl" data-lightbox="1" />
