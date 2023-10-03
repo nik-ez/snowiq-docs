@@ -24,8 +24,8 @@ A Road Hazard is a marker icon on the map to inform users of reported road hazar
 ## Creating Road Hazards
 
 To create a Road Hazard from the Driver App, do the following:
-  - On the map, select the road hazard plus icon
-  - The system will display the 'New road hazard' prompt shown below.
+  - On the map, select the road hazard plus (+) icon
+  - The system will display the 'New road hazard' prompt shown in the image at the top of this page.
 
 <img src="images/driver/da-road-hazards/da-add-a-road-hazard.png" class="ios width-sm" data-lightbox="2" />
 
