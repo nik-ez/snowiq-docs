@@ -99,7 +99,7 @@ Several phases can be active simultaneously.
 However, during the phase activation process a user can complete an active phase by checking it. This is a convenient way to move through the phase management workflow.
 
 
-### Phase Pause
+### Pause and Resume a Phase
 
 Phases can also be paused. This allows retention of the states of all assignments. When a Phase is resumed, all assignments will resume from their previous state. Pausing an Active Phase is used in case something occurred during a snow event that required moving to the next phase quickly while allowing the user to return and resume work on a previous phase. 
 
