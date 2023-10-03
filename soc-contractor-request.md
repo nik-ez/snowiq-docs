@@ -23,7 +23,7 @@ Only Admins and Supervisors have access to this page.
 ![](/images/soc/soc-contractor-request/soc-contractor-requests.png){: .width-xl}{: data-lightbox="1"}
 
 
-### Add a Company to Event
+### Add a Company to an Event
 
 To add a contractor company, click **Company Availability > Add Contractor Company**.
 
@@ -59,7 +59,7 @@ This page is designed for contractor Contractor Managers, but can also be access
 This page can also be accessed under **Main Menu > Administration > Contractors**.
 
 
-### Confirm Trucks Availability
+### Confirm Truck Availability
 
 To confirm truck availability, a Contractor Manager needs to first review and update all the company trucks existing in the truck management module of the system.
 
@@ -67,7 +67,7 @@ To confirm truck availability, a Contractor Manager needs to first review and up
 
 After truck availability is submitted, the Supervisor will see that the company has verified availability.
 
-### Confirm Request
+### Confirm a Request
 
 Lastly, the Contractor Manager must provide confirmation of a truck specific request from the Supervisor.
 
