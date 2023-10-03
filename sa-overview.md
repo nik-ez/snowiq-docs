@@ -13,7 +13,7 @@ platform: false
 ## Supervisor App (SA)
 **Audience: Supervisors and Inspectors**
 
-This mobile application is used to create driver assignments for upcoming storm events, create address specific route assignments, view and manage driver assignment progress, and to view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
+The Supervisor App is a mobile application used to create driver assignments for upcoming storm events, create address specific route assignments, view and manage driver assignment progress, and to view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
 
 ### Download the latest version of the app for your tablet platform:
 <br>
