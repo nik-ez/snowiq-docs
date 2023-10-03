@@ -10,7 +10,7 @@ platform: false
 comments: true
 ---
 ## Driver App
-After successfully downloading and installing the Driver App, a user must perform a setup process to to use the application.
+After successfully downloading and installing the Driver App, a user must perform a setup process to use the application.
 
 ## Permissions
 
