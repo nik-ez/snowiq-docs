@@ -52,7 +52,7 @@ The Active Storm Log page is an Event Log that allows Admins to view all the act
 <section id="Active-Storm-Report" markdown="1">
 ### Active Storm Report
 
-The Active Storm Report page allows Admins to view Event progress details in the SNOWiQ Statistics Dashboard. The main tab, 'Storm Event', includes statistics such as miles plowed, active staff, snow fall, and salt usage. More granular reporting can be found in other tabs which include Phase, Route, Driver, and Salt Usage.
+The Active Storm Report page allows Admins to view Event progress details in the SNOWiQ Statistics Dashboard. The main tab, 'Storm Event', includes statistics such as miles plowed, active staff, snowfall, and salt usage. More granular reporting can be found in other tabs which include Phase, Route, Driver, and Salt Usage.
 
 ![Active Storm Report](/images/soc/soc-login-and-navigation/active-storm-report.png){: .width-xl}{: data-lightbox="6"}
 </section>
