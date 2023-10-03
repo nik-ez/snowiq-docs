@@ -27,7 +27,7 @@ Using the filters at the top of the screen allows filtering of the trucks list b
 
 Sorting of the truck list can be applied by clicking on the table headers. The truck list can be sorted by the following criteria: System ID, Internal Truck ID, Type, Company Name, Equipment Class, License plate, USDOT #, and Make.
 
-### Adding Truck
+### Adding a Truck
 
 To add a new truck to the system, select the blue 'Add Truck' button on the top left part of the screen. On the new page, enter all truck details in the form and upload the truck picture and registration. Then select the 'Add Truck' button to save the truck in the system. If the form has been filled out correctly, the system will display the message "Truck successfully added".
 
@@ -40,11 +40,11 @@ Each truck has a profile in the system with details related to vehicle inspectio
 
 
 
-### Editing Truck
+### Editing Truck Information
 
 To edit existing truck details, select the "Edit Truck Profile" button. Make necessary corrections in the form and then select 'Save Changes'. The system will display 'Success'. If the truck is currently in use on the active event, it cannot be edited and system will display an error message.
 
-### Certify and Decertify Truck
+### Certify or Decertify a Truck
 
 A newly created truck is certified by default. To certify a truck, Select the 'Certify' button. To decertify a truck, select the "Decertify" button. A decertification reason is mandatory to finish Decertification.
 
