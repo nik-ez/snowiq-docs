@@ -16,7 +16,7 @@ comments: true
 <section id="Login" markdown="1">
 ## Login
 
-The login screen below allows users to enter the SNOWiQ Storm Operations Center (SOC) web portal. Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
+The login screen shown below allows users to enter the SNOWiQ Storm Operations Center (SOC) web portal. Select the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
 
 ![Portal Login](/images/soc/soc-login-and-navigation/portal-login.png){: .width-xl}{: data-lightbox="1"}
 
@@ -29,14 +29,14 @@ Once logged into the SOC, all users will see the Map Monitoring view, which is a
 <section id="Navigation" markdown="1">
 ## Navigation
 
-Users can find the navigation menu to access the other pages in the portal by clicking the 'Menu' button (3 stacked lines) at the top left of the application. The options below are available in the left navigation menu bar:
+Users can find the navigation menu to access the other pages in the portal by selecting the 'Menu' button (3 stacked lines) at the top left of the application. The following options  are available in the left navigation menu bar:
 
 ![Navigation Menu](/images/soc/soc-login-and-navigation/navigation-menu.png){: .width-xl}{: data-lightbox="3"}
 
 <section id="Active-Storm-Ops" markdown="1">
 ### Active Storm Ops
 
-The Active Storm Ops page allows users to view the real-time visual progress of the storm event. This includes Routes data (how much has been salted/plowed, what is remaining, number of passes made, etc.) and Drivers data (task progress, driver details, driver location, etc.).
+The Active Storm Ops page allows users to view real-time visual progress of a storm event. This includes Route data inclufing how much has been salted/plowed, what is remaining, number of passes made, along with Driver information including task progress, Driver details, and Driver location.
 
 ![Active Storm Ops](/images/soc/soc-login-and-navigation/home-page1.png){: .width-xl}{: data-lightbox="4"}
 </section>
@@ -44,7 +44,7 @@ The Active Storm Ops page allows users to view the real-time visual progress of 
 <section id="Active-Storm-Log" markdown="1">
 ### Active Storm Log
 
-The Active Storm Log page is an Event Log that allows Admin users to view all the activities pertaining to the active event as seen below (user logins, status changes, etc.).
+The Active Storm Log page is an Event Log that allows Admins to view all the activities pertaining to the active event as shown below, including user logins, status changes, and other system events related to an Active Storm.
 
 ![Active Storm Log](/images/soc/soc-login-and-navigation/active-storm-log.png){: .width-xl}{: data-lightbox="5"}
 </section>
@@ -52,7 +52,7 @@ The Active Storm Log page is an Event Log that allows Admin users to view all th
 <section id="Active-Storm-Report" markdown="1">
 ### Active Storm Report
 
-The Active Storm Report page allows Admin users to look at the details of the Event progress in the SNOWiQ Statistics Dashboard. The main tab 'Storm Event' includes statistics such as miles plowed, active staff, snow fall, and salt usage. More granular reporting can be found in other tabs: Phase, Route, Driver, and Salt Usage.
+The Active Storm Report page allows Admins to view Event progress details in the SNOWiQ Statistics Dashboard. The main tab, 'Storm Event', includes statistics such as miles plowed, active staff, snow fall, and salt usage. More granular reporting can be found in other tabs which include Phase, Route, Driver, and Salt Usage.
 
 ![Active Storm Report](/images/soc/soc-login-and-navigation/active-storm-report.png){: .width-xl}{: data-lightbox="6"}
 </section>
