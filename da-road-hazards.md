@@ -13,7 +13,7 @@ comments: true
 
 # Road Hazards
 
-A Road Hazard is a marker icon on the map to inform users of reported road hazards. Users can view reported hazards on the map, and can report new hazards to inform other app users working in the same service area.
+A Road Hazard is a marker icon on the map to inform users of reported road hazards. Users can view reported hazards on the map, and can also report new hazards to inform other app users working in the same service area.
 
 
 <img src="images/driver/da-road-hazards/da-road-hazards.png" class="ios width-sm" data-lightbox="1" />
