@@ -159,7 +159,7 @@ This will remove the 'New' tag from the ticket on the ticket list and change the
 </section>
 
 <section id="Pausing-or-Resuming-Resource" markdown="1">
-### Pausing or Resuming Resource
+### Pausing or Resuming a Resource
 
 A Supervisor may want to pause an assignment to document that no work is being performed on the route for a period of time. This may occur if a resource resource must refill salt or go to gas station. Pausing an assignment ensures that off-route travel is not included in route information. When the Resource status is 'In Service', a Supervisor can pause an Active Assignment that a Driver has accepted or is working on, or resume it after it's been paused by doing the following:
 
@@ -184,9 +184,9 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 
 <img src="images/supervisor/sa-supervisor-activities/creating-road-hazards.png" class="ios width-xl" data-lightbox="30" />
 
-* The system will display the hazards as either a road plate or a warning, as shown below:
-  * Road plates (orange stacked layes marker): A permanent hazard on the road
-  * Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
+- The system will display hazards as either a road plate or a warning, as shown below.
+    - Road plates (orange stacked layers marker): A permanent hazard on the road
+    - Temporary hazard (orange warning triangle marker): A temporary road hazard such as a fallen tree, downed power line, or traffic accident
     **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
 
 <img src="images/supervisor/sa-supervisor-activities/creating-road-hazards1.png" class="ios width-sm" data-lightbox="32" />
@@ -198,13 +198,13 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 
 A Supervisor can delete an existing road hazard from the map if it doesn't exist anymore by doing the following:
 
-  * Press on an existing road hazard from the map if it doesn't exist anymore:
+  * Select a road hazard from the map
 
 <img src="images/supervisor/sa-supervisor-activities/deleting-road-hazards.png" class="ios width-sm" data-lightbox="34" />
 
-  * The system will display the following 'Road hazard info' prompt
-  * Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
-  * Once deleted, the marker is removed from the map for everyone
+  * The system will display the 'Road hazard info' prompt as shown
+  * Select 'Delete' and then select 'Yes' on the delete confirmation prompt
+  * Once deleted, the marker will no longer be displayed on the map
 
 </section>
 </section>
