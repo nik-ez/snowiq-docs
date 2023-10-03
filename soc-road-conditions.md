@@ -14,7 +14,7 @@ comments: true
 
 Road Condition is Road Surface Temperature and Precipitation details at some specific location of the service area.
 
-All the Road Conditions are reported by Supervisors/Inspector users using the Supervisor App.
+All the Road Conditions are reported by Supervisors or Inspectors using the Supervisor App.
 
 ## Road Conditions page
 
@@ -42,13 +42,13 @@ The map also contains the Road Conditions Trends Chart module in the right lower
 
 The Road Conditions Trends Chart is a graph representing temperature changes.
 
-The Trends Chart can be shown/hidden by clicking the plus icon in the right part of the module.
+The Trends Chart can be shown or hidden by selecting the plus icon in the right part of the module.
 
 It can be also customized by sliding the time frame bracket.
 
 
 ## Road Conditions expiration
 
-All of the Conditions automatically expire within 1 hour after being reported.
+All Road Conditions automatically expire within 1 hour after being reported.
 
 Upon expiration, the status of a condition is changed from 'Active' to 'Expired', and the marker color is changed from blue to brown.
