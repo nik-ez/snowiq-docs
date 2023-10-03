@@ -9,33 +9,33 @@ nav_order: 1
 platform: false
 comments: true
 ---
-
-After successfully downloading and installing the Driver App, a user should go through the setup process to be able to use the application.
+## Driver App
+After successfully downloading and installing the Driver App, a user must perform a setup process to use the application.
 
 ## Permissions
 
-Upon first launch of the app, user need to grant permission to access device's location, camera, and microphone. In order to proceed, you must give the app these permissions. After giving these permissions, you will be able to login.
+Upon first launch of the app, the user must allow their device to access their device's location, camera, and microphone. After allowing these permissions, the user can then log into the app.
 
 <img src="images/driver/da-installing-drivers-app/da-permissions.png" class="ios width-sm" data-lightbox="1" />
 
 ## Log In
 
-The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
+The login screen shown below allows a Driver to access the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to enter the assigned username and password for the application.
 
 <img src="images/driver/da-installing-drivers-app/da-login.png" class="ios width-sm" data-lightbox="2" />
 
 ## Check-In
 
-After successfully logged in user will be asked to carefully fill out all the fields of the Check-in form.
+After successful login, the user will be prompted to complete a Check-in form.
 
 <img src="images/driver/da-installing-drivers-app/da-checkin.png" class="ios width-sm" data-lightbox="3" />
 
-After user submitted the form, a check-in request sent to a Supervisor for review.
+After a user submits the Check-in form, a check-in request is sent to a Supervisor for review.
 
 ## Terms of Use
 
-And the last step, user have to read and accept the Terms of Use and Privacy Policy.
+A user must then read and indicate acceptance of the app's Terms of Use and Privacy Policy.
 
 <img src="images/driver/da-installing-drivers-app/da-terms-of-use.png" class="ios width-sm" data-lightbox="3" />
 
-After you read everything, tap ACCEPT button and you will have full access to Driver App functionality.
+After selecting ACCEPT, the user will have full access to Driver App functionality.
