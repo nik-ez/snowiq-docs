@@ -16,14 +16,14 @@ comments: true
 <section id="Active-Storm-Log" markdown="1">
 ## Active Storm Log
 
-The Active Storm Log page is an Event Log that allows Admin users a closer look into the actions, the users, and timestamps of the actions for a current active Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed it (user name or system). Actions may include creating an Assignment, activating a new Phase for a Depot, or changing the status of a Driver. 
+The Active Storm Log page is an Event Log that allows Admin users a closer look into the actions, users, and timestamps of the actions for a current active Event. As shown below, the log displays the time the action occurred in the system, what the action was, and who performed it (user name or system). Actions may include creating an Assignment, activating a new Phase for a Depot, or changing the status of a Driver. 
 
 ![Active Storm Log](/images/soc/soc-active-storm-log-report/active-storm-log.png){: .width-xl}{: data-lightbox="1"}
 
 <section id="Previous-Event-Log" markdown="1">
 ### Previous Event Log
 
-To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page will display the Event Log for the specified Event in the same format as in the screenshot in the previous section above.
+To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as shown below, and an Event Log for the specified Event will be displayed as shown above in the previous section.
 
 ![Previous Event Log](/images/soc/soc-active-storm-log-report/previous-event-log.png){: .width-xl}{: data-lightbox="2"}
 
@@ -34,7 +34,7 @@ To view the Event Log for a previous Event, open the navigation menu and select 
 <section id="Active-Storm-Report" markdown="1">
 ## Active Storm Report
 
-The Active Storm Report page allows Admin users to view Event Progress in the Statistics Dashboard, using widgets and graphs that are updated in near-real time. The default tab 'Storm Event' that opens displays overall county statistics for the Event with data such as when the event activated and ended, predicted duration, active staff, miles plowed, total snowfall, and salt usage. More granular reporting can be found in other tabs: Phase, Route, Driver, and Salt Usage.
+The Active Storm Report page allows Admin users to view Event Progress in the Statistics Dashboard, using widgets and graphs that are updated in near-real time. The default tab 'Storm Event' displays overall county statistics for the Event, along with data such as when the event activated and ended, predicted duration, active staff, miles plowed, total snowfall, and salt usage. More granular reporting can be found in additional tabs including Phase, Route, Driver, and Salt Usage.
 
 <section id="Storm-Event-Tab" markdown="1">
 ### Storm Event Tab
@@ -77,7 +77,7 @@ This tab allows filtering of Salt/Brine Usage statistics by Depot and Phase.
 <section id="Previous-Event-Reports" markdown="1">
 ### Previous Event Reports
 
-To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page will display the Event Log for the specified Event in the same format as in the screenshot in the previous section above.
+To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as shown below, and the Event Log for the specified Event will be displayed as shown above in the previous section.
 
 ![Previous Event Log](/images/soc/soc-active-storm-log-report/previous-event-log.png){: .width-xl}{: data-lightbox="2"}
 </section>
